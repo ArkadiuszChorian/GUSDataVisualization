@@ -1,0 +1,22 @@
+{
+  "name": "GUSDataVisualization",
+  "homepage": "https://github.com/archer333/GUSDataVisualization",
+  "authors": [
+    "patrykk <patrykk.93@gmail.com>"
+  ],
+  "description": "clinet sie",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.4.0",
+    "topojson": "^2.2.0"
+  }
+}

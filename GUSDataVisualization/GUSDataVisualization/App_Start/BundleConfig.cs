@@ -38,9 +38,13 @@ namespace GUSDataVisualization
                 "~/Scripts/bootstrap.js",
                 "~/Scripts/respond.js"));
 
+            bundles.Add(new ScriptBundle("~/bundles/scripts").Include(
+                "~/bower_components/d3/d3.min.js",
+                "~/bower_components/topojson/topojson.min.js",
+                "~/Scripts/app/main.js"));
+
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                 "~/Content/bootstrap.css",
-                 "~/Content/Site.css"));
+                 "~/Content/MainStyle.css"));
         }
     }
 }
