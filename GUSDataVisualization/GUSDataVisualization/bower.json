@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "d3": "^4.4.0",
-    "topojson": "^2.2.0"
+    "topojson": "^2.2.0",
+    "d3-scale-chromatic": "^1.1.0"
   }
 }

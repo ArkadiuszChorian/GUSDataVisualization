@@ -40,6 +40,7 @@ namespace GUSDataVisualization
 
             bundles.Add(new ScriptBundle("~/bundles/scripts").Include(
                 "~/bower_components/d3/d3.min.js",
+                "~/bower_components/d3-scale-chromatic/d3-scale-chromatic.min.js",
                 "~/bower_components/topojson/topojson.min.js",
                 "~/Scripts/app/main.js"));
 
