@@ -1,5 +1,5 @@
 ﻿    .woj {
-        fill: #992;
+        fill: #000;
     }
 
     .woj-boundary {
@@ -7,6 +7,25 @@
         stroke: #000;
         stroke-width: 2px;
         stroke-linejoin: round;
+    }
+
+    path.woj:hover {
+        fill: #E09404 !important;
+        /*fill: #FF9600 !important;*/
+        /*fill: #969529 !important;*/             
+    }
+
+    path.clicked {
+        fill: #E09404 !important;
+    }
+
+    .visible {
+        display: block;
+        background-color: red;
+    }
+
+    .hidden {
+        display: none;
     }
 
     .dropbtn {
@@ -55,4 +74,5 @@
         display: flex;
         flex-direction: row;
         flex-flow: wrap;
+        align-items: stretch;
     }
