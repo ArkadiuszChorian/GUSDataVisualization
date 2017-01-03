@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31F1C844-B27F-436B-9E7C-0DA017BE0AC6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataInsert</RootNamespace>
+    <AssemblyName>DataInsert</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Dane\Ceny\Kultura\dane.csv" />
+    <None Include="Dane\Ceny\Mieszkanie\dane.csv" />
+    <None Include="Dane\Ceny\Transport\dane.csv" />
+    <None Include="Dane\Ceny\Zdrowie\dane.csv" />
+    <None Include="Dane\Ceny\Zywnosc\dane.csv" />
+    <None Include="Dane\codes.csv" />
+    <None Include="Dane\Dochody\Do dyspozycji na mieszkanca\dane.csv" />
+    <None Include="Dane\Dochody\PKB na mieszkanca\dane.csv" />
+    <None Include="Dane\Dochody\Przecietne wynagrodzenie\dane.csv" />
+    <None Include="Dane\Kultura\Liczba imprez\dane.csv" />
+    <None Include="Dane\Kultura\Liczba teatrow i sluchaczy\dane.csv" />
+    <None Include="Dane\Ludnosc\Gestosc zaludnienia\dane.csv" />
+    <None Include="Dane\Ludnosc\Gospodarstwa domowe\Dochod na osobe\dane.csv" />
+    <None Include="Dane\Ludnosc\Gospodarstwa domowe\Wydatki na osobe\dane.csv" />
+    <None Include="Dane\Ludnosc\Ludnosc w miastach\dane.csv" />
+    <None Include="Dane\Ludnosc\Ludnosc wg wieku i plci\dane.csv" />
+    <None Include="Dane\Mieszkania\dane.csv" />
+    <None Include="Dane\Ochrona zdrowia\Apteki\dane.csv" />
+    <None Include="Dane\Ochrona zdrowia\Lekarze\dane.csv" />
+    <None Include="Dane\Ochrona zdrowia\Szpitale\dane.csv" />
+    <None Include="Dane\Ochrona zdrowia\Zachorowania\dane.csv" />
+    <None Include="Dane\Praca\Bezrobocie wg wieku i plci\dane.csv" />
+    <None Include="Dane\Praca\Bezrobocie wg wyksztalcenia\dane.csv" />
+    <None Include="Dane\Praca\Miejsca pracy\dane.csv" />
+    <None Include="Dane\Przestepstwa\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Egzamin gimnazjalny\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Egzamin maturalny\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Gimnazja\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Licea\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Podstawowki\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Przedszkola\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Wyzsze\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Zasadnicze zawodowe\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Zawodowe i artystyczne\dane.csv" />
+    <None Include="Dane\Szkolnictwo\Szkoly\Zlobki\dane.csv" />
+    <None Include="Dane\Transport\Drogi\Ekspresowe i autostrady\dane.csv" />
+    <None Include="Dane\Transport\Drogi\Twarde ulepszone\dane.csv" />
+    <None Include="Dane\Transport\Komunikacja miejska\dane.csv" />
+    <None Include="Dane\Transport\Sciezki rowerowe\dane.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GUSDataVisualization\GUSDataVisualization.csproj">
+      <Project>{c0eb0124-e1f3-4587-b331-97489a78ad06}</Project>
+      <Name>GUSDataVisualization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MongoRepository\MongoRepository.Net45.csproj">
+      <Project>{CE75B2FE-C027-42F6-8D00-E44CC38BE7C7}</Project>
+      <Name>MongoRepository.Net45</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

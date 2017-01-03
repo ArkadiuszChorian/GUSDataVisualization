@@ -1,0 +1,1157 @@
+Kod;Rodzaje towarów i usług;Rok;Wartosc;Jednostka miary
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,28;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,52;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,7;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,97;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,09;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,19;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,27;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,33;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,41;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,59;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,83;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,99;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,19;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,38;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,55;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,64;zł
+0;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,73;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,38;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,4;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,5;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,56;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,63;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,66;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,67;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,64;zł
+0;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,65;zł
+0;ciepła woda - za 1m3;1999;0;zł
+0;ciepła woda - za 1m3;2000;0;zł
+0;ciepła woda - za 1m3;2001;0;zł
+0;ciepła woda - za 1m3;2002;0;zł
+0;ciepła woda - za 1m3;2003;0;zł
+0;ciepła woda - za 1m3;2004;0;zł
+0;ciepła woda - za 1m3;2005;0;zł
+0;ciepła woda - za 1m3;2006;0;zł
+0;ciepła woda - za 1m3;2007;0;zł
+0;ciepła woda - za 1m3;2008;15,27;zł
+0;ciepła woda - za 1m3;2009;16,57;zł
+0;ciepła woda - za 1m3;2010;17,61;zł
+0;ciepła woda - za 1m3;2011;18,37;zł
+0;ciepła woda - za 1m3;2012;19,41;zł
+0;ciepła woda - za 1m3;2013;20,51;zł
+0;ciepła woda - za 1m3;2014;21,15;zł
+0;ciepła woda - za 1m3;2015;21,54;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,47;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,52;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,59;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,89;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,97;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,05;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3,07;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3,17;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,14;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,16;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,34;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,52;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,7;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,81;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,87;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,97;zł
+0;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,98;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,22;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,44;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,59;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,83;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,94;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;1,98;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,06;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,15;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,22;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,36;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,56;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,72;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;2,92;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,13;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,27;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,39;zł
+1100000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,48;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,28;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,39;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,46;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,51;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,56;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,6;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,64;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,68;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,69;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,66;zł
+1100000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,67;zł
+1100000000;ciepła woda - za 1m3;1999;0;zł
+1100000000;ciepła woda - za 1m3;2000;0;zł
+1100000000;ciepła woda - za 1m3;2001;0;zł
+1100000000;ciepła woda - za 1m3;2002;0;zł
+1100000000;ciepła woda - za 1m3;2003;0;zł
+1100000000;ciepła woda - za 1m3;2004;0;zł
+1100000000;ciepła woda - za 1m3;2005;0;zł
+1100000000;ciepła woda - za 1m3;2006;0;zł
+1100000000;ciepła woda - za 1m3;2007;0;zł
+1100000000;ciepła woda - za 1m3;2008;14,06;zł
+1100000000;ciepła woda - za 1m3;2009;15,79;zł
+1100000000;ciepła woda - za 1m3;2010;16,81;zł
+1100000000;ciepła woda - za 1m3;2011;18,07;zł
+1100000000;ciepła woda - za 1m3;2012;19,39;zł
+1100000000;ciepła woda - za 1m3;2013;19,93;zł
+1100000000;ciepła woda - za 1m3;2014;20,51;zł
+1100000000;ciepła woda - za 1m3;2015;20,97;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,42;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,52;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,6;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,93;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;3,12;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,21;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3,2;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3,36;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,49;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,61;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;4,18;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;4,48;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;4,56;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;4,78;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;4,71;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;4,68;zł
+1100000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;4,46;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,26;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,51;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,64;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,91;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,1;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,16;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,26;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,33;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,6;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,79;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,88;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,08;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,34;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,47;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,53;zł
+1140000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,58;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,28;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,38;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,4;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,5;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,57;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,61;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,65;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,66;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,65;zł
+1140000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,66;zł
+1140000000;ciepła woda - za 1m3;1999;0;zł
+1140000000;ciepła woda - za 1m3;2000;0;zł
+1140000000;ciepła woda - za 1m3;2001;0;zł
+1140000000;ciepła woda - za 1m3;2002;0;zł
+1140000000;ciepła woda - za 1m3;2003;0;zł
+1140000000;ciepła woda - za 1m3;2004;0;zł
+1140000000;ciepła woda - za 1m3;2005;0;zł
+1140000000;ciepła woda - za 1m3;2006;0;zł
+1140000000;ciepła woda - za 1m3;2007;0;zł
+1140000000;ciepła woda - za 1m3;2008;15,6;zł
+1140000000;ciepła woda - za 1m3;2009;17,66;zł
+1140000000;ciepła woda - za 1m3;2010;19,01;zł
+1140000000;ciepła woda - za 1m3;2011;19,68;zł
+1140000000;ciepła woda - za 1m3;2012;20,75;zł
+1140000000;ciepła woda - za 1m3;2013;22,03;zł
+1140000000;ciepła woda - za 1m3;2014;22,75;zł
+1140000000;ciepła woda - za 1m3;2015;22,92;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,37;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,36;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,4;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,71;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,8;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,83;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,82;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,78;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,75;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;2,7;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;2,83;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;2,94;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,01;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,16;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,15;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,22;zł
+1140000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,32;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,37;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,61;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,82;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;2,01;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,17;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,29;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,4;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,48;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,57;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,73;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,95;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;3,16;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,35;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,63;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,82;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,89;zł
+2120000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;4,02;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,39;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,43;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,49;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,58;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,62;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,65;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,65;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,61;zł
+2120000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,62;zł
+2120000000;ciepła woda - za 1m3;1999;0;zł
+2120000000;ciepła woda - za 1m3;2000;0;zł
+2120000000;ciepła woda - za 1m3;2001;0;zł
+2120000000;ciepła woda - za 1m3;2002;0;zł
+2120000000;ciepła woda - za 1m3;2003;0;zł
+2120000000;ciepła woda - za 1m3;2004;0;zł
+2120000000;ciepła woda - za 1m3;2005;0;zł
+2120000000;ciepła woda - za 1m3;2006;0;zł
+2120000000;ciepła woda - za 1m3;2007;0;zł
+2120000000;ciepła woda - za 1m3;2008;14,19;zł
+2120000000;ciepła woda - za 1m3;2009;15,52;zł
+2120000000;ciepła woda - za 1m3;2010;17,53;zł
+2120000000;ciepła woda - za 1m3;2011;18,22;zł
+2120000000;ciepła woda - za 1m3;2012;19,73;zł
+2120000000;ciepła woda - za 1m3;2013;21,64;zł
+2120000000;ciepła woda - za 1m3;2014;22,57;zł
+2120000000;ciepła woda - za 1m3;2015;23,16;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,39;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,36;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,42;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,6;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,63;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,7;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,73;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,95;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,96;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,05;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,14;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,19;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,35;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,49;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,59;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,6;zł
+2120000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,64;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,79;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;2,16;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;2,48;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;2,87;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;3,22;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;3,38;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;3,46;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;3,49;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;3,56;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;3,72;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;4,17;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;4,27;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;4,46;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;4,6;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;4,82;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;4,94;zł
+2240000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;5;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,28;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,38;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,42;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,43;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,43;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,47;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,56;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,61;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,65;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,65;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,63;zł
+2240000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,64;zł
+2240000000;ciepła woda - za 1m3;1999;0;zł
+2240000000;ciepła woda - za 1m3;2000;0;zł
+2240000000;ciepła woda - za 1m3;2001;0;zł
+2240000000;ciepła woda - za 1m3;2002;0;zł
+2240000000;ciepła woda - za 1m3;2003;0;zł
+2240000000;ciepła woda - za 1m3;2004;0;zł
+2240000000;ciepła woda - za 1m3;2005;0;zł
+2240000000;ciepła woda - za 1m3;2006;0;zł
+2240000000;ciepła woda - za 1m3;2007;0;zł
+2240000000;ciepła woda - za 1m3;2008;14,19;zł
+2240000000;ciepła woda - za 1m3;2009;15,11;zł
+2240000000;ciepła woda - za 1m3;2010;15,75;zł
+2240000000;ciepła woda - za 1m3;2011;16,03;zł
+2240000000;ciepła woda - za 1m3;2012;17,3;zł
+2240000000;ciepła woda - za 1m3;2013;19,43;zł
+2240000000;ciepła woda - za 1m3;2014;19,74;zł
+2240000000;ciepła woda - za 1m3;2015;20,13;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,42;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,53;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,52;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,75;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,91;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,84;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,9;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3,04;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,02;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,13;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,23;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,44;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,71;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,82;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,88;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,91;zł
+2240000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,93;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,18;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,38;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,52;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,75;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,85;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;1,92;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;1,99;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;1,95;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;1,99;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,11;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,28;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,37;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;2,44;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;2,54;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;2,7;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;2,8;zł
+3060000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;2,87;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,39;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,42;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,44;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,46;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,48;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,54;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,59;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,62;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,66;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,68;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,68;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,65;zł
+3060000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,65;zł
+3060000000;ciepła woda - za 1m3;1999;0;zł
+3060000000;ciepła woda - za 1m3;2000;0;zł
+3060000000;ciepła woda - za 1m3;2001;0;zł
+3060000000;ciepła woda - za 1m3;2002;0;zł
+3060000000;ciepła woda - za 1m3;2003;0;zł
+3060000000;ciepła woda - za 1m3;2004;0;zł
+3060000000;ciepła woda - za 1m3;2005;0;zł
+3060000000;ciepła woda - za 1m3;2006;0;zł
+3060000000;ciepła woda - za 1m3;2007;0;zł
+3060000000;ciepła woda - za 1m3;2008;17,03;zł
+3060000000;ciepła woda - za 1m3;2009;18,21;zł
+3060000000;ciepła woda - za 1m3;2010;19,09;zł
+3060000000;ciepła woda - za 1m3;2011;19,69;zł
+3060000000;ciepła woda - za 1m3;2012;20,96;zł
+3060000000;ciepła woda - za 1m3;2013;22,46;zł
+3060000000;ciepła woda - za 1m3;2014;23,9;zł
+3060000000;ciepła woda - za 1m3;2015;24,6;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,53;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,49;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,55;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,79;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,86;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,74;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,68;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,84;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,93;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,1;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,14;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,19;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,2;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,3;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,42;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,56;zł
+3060000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,57;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,36;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,53;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,73;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,93;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,06;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,17;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,34;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,38;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,48;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,63;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,98;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;3,24;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,48;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,66;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,86;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;4;zł
+3180000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;4,03;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,38;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,4;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,45;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,5;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,63;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,66;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,66;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,64;zł
+3180000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,65;zł
+3180000000;ciepła woda - za 1m3;1999;0;zł
+3180000000;ciepła woda - za 1m3;2000;0;zł
+3180000000;ciepła woda - za 1m3;2001;0;zł
+3180000000;ciepła woda - za 1m3;2002;0;zł
+3180000000;ciepła woda - za 1m3;2003;0;zł
+3180000000;ciepła woda - za 1m3;2004;0;zł
+3180000000;ciepła woda - za 1m3;2005;0;zł
+3180000000;ciepła woda - za 1m3;2006;0;zł
+3180000000;ciepła woda - za 1m3;2007;0;zł
+3180000000;ciepła woda - za 1m3;2008;16,09;zł
+3180000000;ciepła woda - za 1m3;2009;16,99;zł
+3180000000;ciepła woda - za 1m3;2010;17,75;zł
+3180000000;ciepła woda - za 1m3;2011;18,61;zł
+3180000000;ciepła woda - za 1m3;2012;19,86;zł
+3180000000;ciepła woda - za 1m3;2013;20,62;zł
+3180000000;ciepła woda - za 1m3;2014;21,14;zł
+3180000000;ciepła woda - za 1m3;2015;21,94;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,56;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,64;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,77;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,92;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,94;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,97;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,86;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,65;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,56;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;2,66;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;2,77;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;2,89;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;2,99;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,23;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,39;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,44;zł
+3180000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,48;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,16;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,37;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,55;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,82;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,89;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;1,94;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,06;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,21;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,42;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,55;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;2,69;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;2,83;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;2,96;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,02;zł
+3200000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,08;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,37;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,39;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,42;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,44;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,46;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,47;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,53;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,58;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,61;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,66;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,7;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,69;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,67;zł
+3200000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,68;zł
+3200000000;ciepła woda - za 1m3;1999;0;zł
+3200000000;ciepła woda - za 1m3;2000;0;zł
+3200000000;ciepła woda - za 1m3;2001;0;zł
+3200000000;ciepła woda - za 1m3;2002;0;zł
+3200000000;ciepła woda - za 1m3;2003;0;zł
+3200000000;ciepła woda - za 1m3;2004;0;zł
+3200000000;ciepła woda - za 1m3;2005;0;zł
+3200000000;ciepła woda - za 1m3;2006;0;zł
+3200000000;ciepła woda - za 1m3;2007;0;zł
+3200000000;ciepła woda - za 1m3;2008;13,77;zł
+3200000000;ciepła woda - za 1m3;2009;14,57;zł
+3200000000;ciepła woda - za 1m3;2010;15,71;zł
+3200000000;ciepła woda - za 1m3;2011;16,03;zł
+3200000000;ciepła woda - za 1m3;2012;17,11;zł
+3200000000;ciepła woda - za 1m3;2013;18,48;zł
+3200000000;ciepła woda - za 1m3;2014;19,31;zł
+3200000000;ciepła woda - za 1m3;2015;19,83;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,42;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,57;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,63;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;3,33;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;3,46;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,51;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3,63;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3,95;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,95;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,96;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;4,52;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;4,58;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;4,68;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;4,95;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;5,09;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;5,27;zł
+3200000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;5,13;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,14;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,36;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,54;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;2,08;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,19;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,25;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,34;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,29;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,35;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,55;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,75;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,95;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,15;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,42;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,62;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,7;zł
+3260000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,77;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,38;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,4;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,4;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,45;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,44;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,48;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,54;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,57;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,62;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,65;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,66;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,64;zł
+3260000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,65;zł
+3260000000;ciepła woda - za 1m3;1999;0;zł
+3260000000;ciepła woda - za 1m3;2000;0;zł
+3260000000;ciepła woda - za 1m3;2001;0;zł
+3260000000;ciepła woda - za 1m3;2002;0;zł
+3260000000;ciepła woda - za 1m3;2003;0;zł
+3260000000;ciepła woda - za 1m3;2004;0;zł
+3260000000;ciepła woda - za 1m3;2005;0;zł
+3260000000;ciepła woda - za 1m3;2006;0;zł
+3260000000;ciepła woda - za 1m3;2007;0;zł
+3260000000;ciepła woda - za 1m3;2008;16,48;zł
+3260000000;ciepła woda - za 1m3;2009;17,39;zł
+3260000000;ciepła woda - za 1m3;2010;18,99;zł
+3260000000;ciepła woda - za 1m3;2011;19,52;zł
+3260000000;ciepła woda - za 1m3;2012;20,68;zł
+3260000000;ciepła woda - za 1m3;2013;21,65;zł
+3260000000;ciepła woda - za 1m3;2014;22,41;zł
+3260000000;ciepła woda - za 1m3;2015;22,27;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,36;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,5;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,55;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,73;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,81;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,88;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,8;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,99;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,01;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,22;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,48;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,88;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;4,1;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;4,03;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;4,18;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;4,05;zł
+3260000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,73;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,42;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,68;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,81;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;2,12;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,29;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,4;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,61;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,61;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,65;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,84;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;3,21;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;3,4;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,57;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,72;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,95;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;4,07;zł
+4080000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;4,29;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,33;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,37;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,39;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,4;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,49;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,58;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,61;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,65;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,65;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,62;zł
+4080000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,63;zł
+4080000000;ciepła woda - za 1m3;1999;0;zł
+4080000000;ciepła woda - za 1m3;2000;0;zł
+4080000000;ciepła woda - za 1m3;2001;0;zł
+4080000000;ciepła woda - za 1m3;2002;0;zł
+4080000000;ciepła woda - za 1m3;2003;0;zł
+4080000000;ciepła woda - za 1m3;2004;0;zł
+4080000000;ciepła woda - za 1m3;2005;0;zł
+4080000000;ciepła woda - za 1m3;2006;0;zł
+4080000000;ciepła woda - za 1m3;2007;0;zł
+4080000000;ciepła woda - za 1m3;2008;16,29;zł
+4080000000;ciepła woda - za 1m3;2009;18,02;zł
+4080000000;ciepła woda - za 1m3;2010;19,25;zł
+4080000000;ciepła woda - za 1m3;2011;20,23;zł
+4080000000;ciepła woda - za 1m3;2012;21,16;zł
+4080000000;ciepła woda - za 1m3;2013;21,13;zł
+4080000000;ciepła woda - za 1m3;2014;21,08;zł
+4080000000;ciepła woda - za 1m3;2015;21,35;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,89;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;3,08;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;3,26;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;3,5;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;3,68;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;4,83;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;5,22;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;5,41;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;5,45;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;5,67;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;5,8;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;5,35;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;5,18;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;4,8;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;4,36;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;4,29;zł
+4080000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;4,66;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,32;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,59;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,79;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,99;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,12;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,21;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,31;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,38;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,48;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,59;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,8;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,91;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,06;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,21;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,39;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,56;zł
+4300000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,68;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,4;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,42;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,42;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,44;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,45;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,5;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,58;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,62;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,66;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,66;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,63;zł
+4300000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,64;zł
+4300000000;ciepła woda - za 1m3;1999;0;zł
+4300000000;ciepła woda - za 1m3;2000;0;zł
+4300000000;ciepła woda - za 1m3;2001;0;zł
+4300000000;ciepła woda - za 1m3;2002;0;zł
+4300000000;ciepła woda - za 1m3;2003;0;zł
+4300000000;ciepła woda - za 1m3;2004;0;zł
+4300000000;ciepła woda - za 1m3;2005;0;zł
+4300000000;ciepła woda - za 1m3;2006;0;zł
+4300000000;ciepła woda - za 1m3;2007;0;zł
+4300000000;ciepła woda - za 1m3;2008;14,34;zł
+4300000000;ciepła woda - za 1m3;2009;15,5;zł
+4300000000;ciepła woda - za 1m3;2010;16,68;zł
+4300000000;ciepła woda - za 1m3;2011;17,65;zł
+4300000000;ciepła woda - za 1m3;2012;18,53;zł
+4300000000;ciepła woda - za 1m3;2013;19,51;zł
+4300000000;ciepła woda - za 1m3;2014;20,21;zł
+4300000000;ciepła woda - za 1m3;2015;20,51;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,42;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,44;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,46;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,8;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,86;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,98;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,93;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,01;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,12;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,35;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,63;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;4,3;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;4,41;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;4,33;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;4,72;zł
+4300000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;4,74;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,12;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,38;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,53;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,78;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,95;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,01;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,09;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,12;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,26;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,4;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,62;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,85;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,14;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,45;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,54;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,74;zł
+4320000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,84;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,39;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,45;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,5;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,58;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,62;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,66;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,66;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,64;zł
+4320000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,65;zł
+4320000000;ciepła woda - za 1m3;1999;0;zł
+4320000000;ciepła woda - za 1m3;2000;0;zł
+4320000000;ciepła woda - za 1m3;2001;0;zł
+4320000000;ciepła woda - za 1m3;2002;0;zł
+4320000000;ciepła woda - za 1m3;2003;0;zł
+4320000000;ciepła woda - za 1m3;2004;0;zł
+4320000000;ciepła woda - za 1m3;2005;0;zł
+4320000000;ciepła woda - za 1m3;2006;0;zł
+4320000000;ciepła woda - za 1m3;2007;0;zł
+4320000000;ciepła woda - za 1m3;2008;18,67;zł
+4320000000;ciepła woda - za 1m3;2009;20,16;zł
+4320000000;ciepła woda - za 1m3;2010;20,8;zł
+4320000000;ciepła woda - za 1m3;2011;22,08;zł
+4320000000;ciepła woda - za 1m3;2012;22,89;zł
+4320000000;ciepła woda - za 1m3;2013;24,05;zł
+4320000000;ciepła woda - za 1m3;2014;24,29;zł
+4320000000;ciepła woda - za 1m3;2015;24,66;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,53;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,76;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,97;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;3,6;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;3,74;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,84;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3,95;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;4,09;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,88;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,84;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,98;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;4,28;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;4,72;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;4,86;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;4,89;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;4,93;zł
+4320000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;4,98;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,27;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,52;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,74;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;2,03;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,13;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,24;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,35;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,43;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,55;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,8;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;3,03;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;3,3;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,58;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,85;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;4,08;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;4,19;zł
+5020000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;4,3;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,37;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,39;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,39;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,4;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,42;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,42;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,47;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,62;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,66;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,65;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,63;zł
+5020000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,64;zł
+5020000000;ciepła woda - za 1m3;1999;0;zł
+5020000000;ciepła woda - za 1m3;2000;0;zł
+5020000000;ciepła woda - za 1m3;2001;0;zł
+5020000000;ciepła woda - za 1m3;2002;0;zł
+5020000000;ciepła woda - za 1m3;2003;0;zł
+5020000000;ciepła woda - za 1m3;2004;0;zł
+5020000000;ciepła woda - za 1m3;2005;0;zł
+5020000000;ciepła woda - za 1m3;2006;0;zł
+5020000000;ciepła woda - za 1m3;2007;0;zł
+5020000000;ciepła woda - za 1m3;2008;13,83;zł
+5020000000;ciepła woda - za 1m3;2009;14,34;zł
+5020000000;ciepła woda - za 1m3;2010;15,17;zł
+5020000000;ciepła woda - za 1m3;2011;16,17;zł
+5020000000;ciepła woda - za 1m3;2012;16,52;zł
+5020000000;ciepła woda - za 1m3;2013;16,8;zł
+5020000000;ciepła woda - za 1m3;2014;18,15;zł
+5020000000;ciepła woda - za 1m3;2015;18,26;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,44;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,52;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,58;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,77;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,79;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,93;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,98;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;2,95;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,11;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,35;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,57;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,88;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;4,04;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;4,27;zł
+5020000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;4,27;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,18;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,35;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,51;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,71;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,84;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;1,98;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,09;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,15;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,23;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,36;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,63;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,84;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;2,98;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,12;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,32;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,42;zł
+5160000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,53;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,37;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,38;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,38;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,4;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,41;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,42;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,47;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,62;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,66;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,65;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,63;zł
+5160000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,64;zł
+5160000000;ciepła woda - za 1m3;1999;0;zł
+5160000000;ciepła woda - za 1m3;2000;0;zł
+5160000000;ciepła woda - za 1m3;2001;0;zł
+5160000000;ciepła woda - za 1m3;2002;0;zł
+5160000000;ciepła woda - za 1m3;2003;0;zł
+5160000000;ciepła woda - za 1m3;2004;0;zł
+5160000000;ciepła woda - za 1m3;2005;0;zł
+5160000000;ciepła woda - za 1m3;2006;0;zł
+5160000000;ciepła woda - za 1m3;2007;0;zł
+5160000000;ciepła woda - za 1m3;2008;13,74;zł
+5160000000;ciepła woda - za 1m3;2009;15,49;zł
+5160000000;ciepła woda - za 1m3;2010;16,83;zł
+5160000000;ciepła woda - za 1m3;2011;17,95;zł
+5160000000;ciepła woda - za 1m3;2012;18,17;zł
+5160000000;ciepła woda - za 1m3;2013;20,06;zł
+5160000000;ciepła woda - za 1m3;2014;21,3;zł
+5160000000;ciepła woda - za 1m3;2015;21,43;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,64;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,68;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,71;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,83;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,91;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,06;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,99;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,96;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,91;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;2,88;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;2,95;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,1;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,24;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,25;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,18;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,18;zł
+5160000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,45;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,14;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,33;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,48;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,73;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,78;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;1,87;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;1,93;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;1,99;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,14;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,32;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,57;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,71;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;3,04;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3,2;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,27;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,33;zł
+6040000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,39;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,27;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,37;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,38;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,39;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,4;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,43;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,44;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,49;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,54;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,57;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,61;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,65;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,66;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,63;zł
+6040000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,64;zł
+6040000000;ciepła woda - za 1m3;1999;0;zł
+6040000000;ciepła woda - za 1m3;2000;0;zł
+6040000000;ciepła woda - za 1m3;2001;0;zł
+6040000000;ciepła woda - za 1m3;2002;0;zł
+6040000000;ciepła woda - za 1m3;2003;0;zł
+6040000000;ciepła woda - za 1m3;2004;0;zł
+6040000000;ciepła woda - za 1m3;2005;0;zł
+6040000000;ciepła woda - za 1m3;2006;0;zł
+6040000000;ciepła woda - za 1m3;2007;0;zł
+6040000000;ciepła woda - za 1m3;2008;16,39;zł
+6040000000;ciepła woda - za 1m3;2009;17,91;zł
+6040000000;ciepła woda - za 1m3;2010;17,94;zł
+6040000000;ciepła woda - za 1m3;2011;18,64;zł
+6040000000;ciepła woda - za 1m3;2012;20,03;zł
+6040000000;ciepła woda - za 1m3;2013;21,55;zł
+6040000000;ciepła woda - za 1m3;2014;20,49;zł
+6040000000;ciepła woda - za 1m3;2015;21,04;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,65;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,64;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,77;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;3,14;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;3,25;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,29;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3,39;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3,32;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,22;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;3,49;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;3,61;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,71;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,68;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,59;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,52;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,53;zł
+6040000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,5;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,26;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,48;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,66;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,96;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;2,04;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;2,18;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,24;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,13;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,18;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,36;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,57;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,71;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;2,85;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;3;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,13;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,16;zł
+6220000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,22;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,29;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,36;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,39;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,41;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,41;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,43;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,51;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,56;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,64;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,69;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,7;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,68;zł
+6220000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,69;zł
+6220000000;ciepła woda - za 1m3;1999;0;zł
+6220000000;ciepła woda - za 1m3;2000;0;zł
+6220000000;ciepła woda - za 1m3;2001;0;zł
+6220000000;ciepła woda - za 1m3;2002;0;zł
+6220000000;ciepła woda - za 1m3;2003;0;zł
+6220000000;ciepła woda - za 1m3;2004;0;zł
+6220000000;ciepła woda - za 1m3;2005;0;zł
+6220000000;ciepła woda - za 1m3;2006;0;zł
+6220000000;ciepła woda - za 1m3;2007;0;zł
+6220000000;ciepła woda - za 1m3;2008;15,97;zł
+6220000000;ciepła woda - za 1m3;2009;16,8;zł
+6220000000;ciepła woda - za 1m3;2010;17,59;zł
+6220000000;ciepła woda - za 1m3;2011;18,51;zł
+6220000000;ciepła woda - za 1m3;2012;19,22;zł
+6220000000;ciepła woda - za 1m3;2013;20,08;zł
+6220000000;ciepła woda - za 1m3;2014;21,53;zł
+6220000000;ciepła woda - za 1m3;2015;21,96;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,6;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,5;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,6;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;3,05;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;3,11;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;3,25;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;3,43;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;3,58;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;3,28;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;2,65;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;2,5;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;2,94;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,69;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,59;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,7;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,94;zł
+6220000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,94;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;1999;1,13;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2000;1,31;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2001;1,49;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2002;1,74;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2003;1,86;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2004;1,91;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2005;2,01;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2006;2,05;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2007;2,11;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2008;2,21;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2009;2,37;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2010;2,57;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2011;2,76;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2012;2,89;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2013;3,03;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2014;3,03;zł
+6280000000;zimna woda z miejskiej sieci wodociągowej - za 1m3;2015;3,13;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;1999;0,26;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2000;0,28;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2001;0,35;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2002;0,38;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2003;0,39;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2004;0,4;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2005;0,42;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2006;0,44;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2007;0,45;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2008;0,51;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2009;0,55;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2010;0,59;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2011;0,63;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2012;0,69;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2013;0,7;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2014;0,68;zł
+6280000000;energia elektryczna dla gospodarstw domowych (taryfa G-11) - za 1kWh;2015;0,69;zł
+6280000000;ciepła woda - za 1m3;1999;0;zł
+6280000000;ciepła woda - za 1m3;2000;0;zł
+6280000000;ciepła woda - za 1m3;2001;0;zł
+6280000000;ciepła woda - za 1m3;2002;0;zł
+6280000000;ciepła woda - za 1m3;2003;0;zł
+6280000000;ciepła woda - za 1m3;2004;0;zł
+6280000000;ciepła woda - za 1m3;2005;0;zł
+6280000000;ciepła woda - za 1m3;2006;0;zł
+6280000000;ciepła woda - za 1m3;2007;0;zł
+6280000000;ciepła woda - za 1m3;2008;13,87;zł
+6280000000;ciepła woda - za 1m3;2009;15,28;zł
+6280000000;ciepła woda - za 1m3;2010;16,88;zł
+6280000000;ciepła woda - za 1m3;2011;16,83;zł
+6280000000;ciepła woda - za 1m3;2012;17,86;zł
+6280000000;ciepła woda - za 1m3;2013;18,31;zł
+6280000000;ciepła woda - za 1m3;2014;18,62;zł
+6280000000;ciepła woda - za 1m3;2015;19,04;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;1999;2,4;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2000;2,46;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2001;2,47;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2002;2,56;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2003;2,58;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2004;2,57;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2005;2,56;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2006;2,53;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2007;2,72;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2008;2,73;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2009;2,94;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2010;3,1;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2011;3,11;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2012;3,21;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2013;3,42;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2014;3,34;zł
+6280000000;centralne ogrzewanie lokali mieszkalnych - za 1m2;2015;3,26;zł
