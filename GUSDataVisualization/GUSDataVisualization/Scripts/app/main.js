@@ -29,17 +29,52 @@ var projection = d3.geoAlbers()
 var path = d3.geoPath()
     .projection(projection);
 
-var svg = d3.select("body").select(".visual")
+var svg = d3.select("body")
+    .select(".visual")
     .select("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", height)
+    .append("g")
+    .attr("id", "mapg");
+//.call(zoom);
+
+function clicked(d) {
+    d3.select(".dropdown").remove();
+
+    var woj = d3.select("." + d[1].id).attr("class", "clicked");
+    //d[1].attr("class", "clicked");
+
+    // Remove scale from svg element
+    var map = d3.select('#mapg');
+    map.selectAll(".axis").remove();
+
+    // rescale with animation
+    map.transition().duration(750).attr("transform", "scale(0.25)");
+
+    // Let finish the animation
+    setTimeout(function () {
+        // rescale svg container
+        d3.select("body")
+            .select(".visual")
+            .select("svg")
+            .attr("width", 250)
+            .attr("height", 250);
+        // Show filters
+        // TODO: Show other things
+        d3.select("#filters").attr("class", "visible");
+        d3.select("#charts").attr("class", "visible");
+        d3.select("#statistics").attr("class", "visible");
+    }, 750);
+
+    
+}
 
 for (var i = 0; i < dataSet.length; i++) {
     woj.push([dataSet[i]]);
 }
 
 d3.json("../../pl.json",
-    function(error, pl) {
+    function (error, pl) {
         var features = topojson.feature(pl, pl.objects.pol).features;
         mesh = topojson.mesh(pl, pl.objects.pol, function (a, b) { return true });
 
@@ -50,15 +85,15 @@ d3.json("../../pl.json",
         update(woj);
     });
 
-var update = function (dataSet) {
-    //var svg2 = d3.select("body").select(".visual").select("svg");
+var update = function (data) {
     svg.selectAll(".woj")
-        .data(dataSet)
+        .data(data)
         .enter()
         .append("path")
-        .attr("class", function(d) { return "woj " + d[1].id ; })
-        .attr("d", function(d) { return path(d[1]) })
-        .style("fill", function (d) { return scaleColor(d[0]); });
+        .attr("class", function (d) { return "woj " + d[1].id; })
+        .attr("d", function (d) { return path(d[1]) })
+        .style("fill", function (d) { return scaleColor(d[0]); })
+        .on("click", clicked);
 
     svg.append("path")
         .datum(mesh)
@@ -66,7 +101,6 @@ var update = function (dataSet) {
         .attr("class", "woj-boundary");
 
     var chart = svg.append("g")
-        //.call(d3.axisRight(scaleRange))
         .attr("class", "axis")
         .attr("transform", "translate(" + (width - 100) + ",-70)");
 
@@ -85,48 +119,12 @@ var update = function (dataSet) {
 
     chart.call(d3.axisRight(y)
         .tickSize(50)
-        .tickFormat(function (y) { return (y*10+10) + "%"; })
-        .tickValues(d3.range(-1, 10)))
+        .tickFormat(function (y) { return (y * 10 + 10) + "%"; })
+        .tickValues(d3.range(0, 9)))
         .attr("font-size", 14)
       .select(".domain")
         .remove();
-
-    //var scale = d3.axisRight(scaleColor).ticks(10);
 };
-
-//d3.json("../../pl.json",
-//    function (error, pl) {
-//        var woj = svg.selectAll(".woj")
-//            .data(topojson.feature(pl, pl.objects.pol).features)
-//            .enter()
-//            .append("path")
-//            .attr("class", function() { return "woj"; })
-//            .attr("id", function(d) { return d.id; })
-//            .attr("d", path);
-//            //.on("click",
-//            //    () =>
-//            //        d3.select(this)
-//            //        .transition()
-//            //        .styleTween("fill", () => d3.interpolate("green", "red")));
-
-//        svg.append("path")
-//            .datum(topojson.mesh(pl, pl.objects.pol, function (a, b) { return true }))
-//            .attr("d", path)
-//            .attr("class", "woj-boundary");
-
-//        //        svg.append("path")
-//        //            .datum(topojson.feature(pl, pl.objects.pl_places))
-//        //            .attr("d", path)
-//        //            .attr("class", "place");
-//        woj.style("fill", function (d) { console.log(scale(d)) });
-
-//    });
-
-//    svg.selectAll("path")
-//        .on("click", d => {
-//            svg.selectAll(".woj").transition()
-//                .styleTween("fill", () => d3.interpolate("green", "red"));
-//    });
 
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
@@ -146,9 +144,3 @@ window.onclick = function (event) {
         }
     }
 }
-
-//woj.style("fill", function(d) { console.log(scale(d)) });
-
-//console.log(woj);
-
-// .enter().style("fill", function(d) { console.log(scale(d)) })
