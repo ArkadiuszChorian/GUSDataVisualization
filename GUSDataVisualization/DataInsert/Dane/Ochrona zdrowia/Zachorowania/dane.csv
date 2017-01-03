@@ -1,0 +1,3741 @@
+Kod;Rodzaje chorób i zatruć;Rok;Wartosc;Jednostka miary
+0;tężec;2005;15;osoba
+0;tężec;2006;22;osoba
+0;tężec;2007;19;osoba
+0;tężec;2008;14;osoba
+0;tężec;2009;19;osoba
+0;tężec;2010;16;osoba
+0;tężec;2011;14;osoba
+0;tężec;2012;19;osoba
+0;tężec;2013;14;osoba
+0;tężec;2014;13;osoba
+0;tężec;2015;12;osoba
+0;krztusiec;2005;1925;osoba
+0;krztusiec;2006;1520;osoba
+0;krztusiec;2007;1987;osoba
+0;krztusiec;2008;2164;osoba
+0;krztusiec;2009;2390;osoba
+0;krztusiec;2010;1266;osoba
+0;krztusiec;2011;1669;osoba
+0;krztusiec;2012;4684;osoba
+0;krztusiec;2013;2183;osoba
+0;krztusiec;2014;2102;osoba
+0;krztusiec;2015;4956;osoba
+0;odra;2005;13;osoba
+0;odra;2006;120;osoba
+0;odra;2007;40;osoba
+0;odra;2008;101;osoba
+0;odra;2009;115;osoba
+0;odra;2010;13;osoba
+0;odra;2011;38;osoba
+0;odra;2012;71;osoba
+0;odra;2013;84;osoba
+0;odra;2014;110;osoba
+0;odra;2015;48;osoba
+0;wirusowe zapalenie wątroby typu B;2005;1727;osoba
+0;wirusowe zapalenie wątroby typu B;2006;1693;osoba
+0;wirusowe zapalenie wątroby typu B;2007;1454;osoba
+0;wirusowe zapalenie wątroby typu B;2008;1337;osoba
+0;wirusowe zapalenie wątroby typu B;2009;1475;osoba
+0;wirusowe zapalenie wątroby typu B;2010;1634;osoba
+0;wirusowe zapalenie wątroby typu B;2011;1583;osoba
+0;wirusowe zapalenie wątroby typu B;2012;1583;osoba
+0;wirusowe zapalenie wątroby typu B;2013;1540;osoba
+0;wirusowe zapalenie wątroby typu B;2014;2763;osoba
+0;wirusowe zapalenie wątroby typu B;2015;3518;osoba
+0;wirusowe zapalenie wątroby typu C;2005;2997;osoba
+0;wirusowe zapalenie wątroby typu C;2006;2949;osoba
+0;wirusowe zapalenie wątroby typu C;2007;2753;osoba
+0;wirusowe zapalenie wątroby typu C;2008;2353;osoba
+0;wirusowe zapalenie wątroby typu C;2009;1891;osoba
+0;wirusowe zapalenie wątroby typu C;2010;2174;osoba
+0;wirusowe zapalenie wątroby typu C;2011;2188;osoba
+0;wirusowe zapalenie wątroby typu C;2012;2265;osoba
+0;wirusowe zapalenie wątroby typu C;2013;2641;osoba
+0;wirusowe zapalenie wątroby typu C;2014;3550;osoba
+0;wirusowe zapalenie wątroby typu C;2015;4285;osoba
+0;wirusowe zapalenie wątroby typu A;2005;54;osoba
+0;wirusowe zapalenie wątroby typu A;2006;109;osoba
+0;wirusowe zapalenie wątroby typu A;2007;36;osoba
+0;wirusowe zapalenie wątroby typu A;2008;209;osoba
+0;wirusowe zapalenie wątroby typu A;2009;652;osoba
+0;wirusowe zapalenie wątroby typu A;2010;155;osoba
+0;wirusowe zapalenie wątroby typu A;2011;65;osoba
+0;wirusowe zapalenie wątroby typu A;2012;71;osoba
+0;wirusowe zapalenie wątroby typu A;2013;48;osoba
+0;wirusowe zapalenie wątroby typu A;2014;76;osoba
+0;wirusowe zapalenie wątroby typu A;2015;49;osoba
+0;różyczka;2005;7946;osoba
+0;różyczka;2006;20668;osoba
+0;różyczka;2007;22891;osoba
+0;różyczka;2008;13146;osoba
+0;różyczka;2009;7587;osoba
+0;różyczka;2010;4197;osoba
+0;różyczka;2011;4290;osoba
+0;różyczka;2012;6263;osoba
+0;różyczka;2013;38548;osoba
+0;różyczka;2014;5891;osoba
+0;różyczka;2015;2026;osoba
+0;AIDS;2005;139;osoba
+0;AIDS;2006;156;osoba
+0;AIDS;2007;128;osoba
+0;AIDS;2008;150;osoba
+0;AIDS;2009;99;osoba
+0;AIDS;2010;161;osoba
+0;AIDS;2011;162;osoba
+0;AIDS;2012;145;osoba
+0;AIDS;2013;160;osoba
+0;AIDS;2014;125;osoba
+0;AIDS;2015;122;osoba
+0;salmonellozy;2005;16006;osoba
+0;salmonellozy;2006;13362;osoba
+0;salmonellozy;2007;11704;osoba
+0;salmonellozy;2008;9609;osoba
+0;salmonellozy;2009;8964;osoba
+0;salmonellozy;2010;9732;osoba
+0;salmonellozy;2011;8813;osoba
+0;salmonellozy;2012;8444;osoba
+0;salmonellozy;2013;7577;osoba
+0;salmonellozy;2014;8392;osoba
+0;salmonellozy;2015;8652;osoba
+0;czerwonka bakteryjna;2005;80;osoba
+0;czerwonka bakteryjna;2006;35;osoba
+0;czerwonka bakteryjna;2007;64;osoba
+0;czerwonka bakteryjna;2008;33;osoba
+0;czerwonka bakteryjna;2009;30;osoba
+0;czerwonka bakteryjna;2010;30;osoba
+0;czerwonka bakteryjna;2011;17;osoba
+0;czerwonka bakteryjna;2012;13;osoba
+0;czerwonka bakteryjna;2013;19;osoba
+0;czerwonka bakteryjna;2014;44;osoba
+0;czerwonka bakteryjna;2015;18;osoba
+0;inne bakteryjne zatrucia pokarmowe;2005;4261;osoba
+0;inne bakteryjne zatrucia pokarmowe;2006;3947;osoba
+0;inne bakteryjne zatrucia pokarmowe;2007;3681;osoba
+0;inne bakteryjne zatrucia pokarmowe;2008;2740;osoba
+0;inne bakteryjne zatrucia pokarmowe;2009;1970;osoba
+0;inne bakteryjne zatrucia pokarmowe;2010;1915;osoba
+0;inne bakteryjne zatrucia pokarmowe;2011;2195;osoba
+0;inne bakteryjne zatrucia pokarmowe;2012;1787;osoba
+0;inne bakteryjne zatrucia pokarmowe;2013;1643;osoba
+0;inne bakteryjne zatrucia pokarmowe;2014;1534;osoba
+0;inne bakteryjne zatrucia pokarmowe;2015;1439;osoba
+0;biegunki u dzieci do lat 2;2005;17306;osoba
+0;biegunki u dzieci do lat 2;2006;21354;osoba
+0;biegunki u dzieci do lat 2;2007;22711;osoba
+0;biegunki u dzieci do lat 2;2008;29231;osoba
+0;biegunki u dzieci do lat 2;2009;31228;osoba
+0;biegunki u dzieci do lat 2;2010;30053;osoba
+0;biegunki u dzieci do lat 2;2011;36478;osoba
+0;biegunki u dzieci do lat 2;2012;34386;osoba
+0;biegunki u dzieci do lat 2;2013;38101;osoba
+0;biegunki u dzieci do lat 2;2014;41572;osoba
+0;biegunki u dzieci do lat 2;2015;43502;osoba
+0;szkarlatyna (płonnica);2005;9911;osoba
+0;szkarlatyna (płonnica);2006;10649;osoba
+0;szkarlatyna (płonnica);2007;10740;osoba
+0;szkarlatyna (płonnica);2008;11179;osoba
+0;szkarlatyna (płonnica);2009;13968;osoba
+0;szkarlatyna (płonnica);2010;13940;osoba
+0;szkarlatyna (płonnica);2011;18267;osoba
+0;szkarlatyna (płonnica);2012;25421;osoba
+0;szkarlatyna (płonnica);2013;25115;osoba
+0;szkarlatyna (płonnica);2014;22885;osoba
+0;szkarlatyna (płonnica);2015;26782;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;998;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;989;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;1081;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;987;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;865;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;819;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;866;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;754;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;863;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;722;osoba
+0;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;725;osoba
+0;wirusowe zapalenie opon mózgowych;2005;1077;osoba
+0;wirusowe zapalenie opon mózgowych;2006;1579;osoba
+0;wirusowe zapalenie opon mózgowych;2007;1203;osoba
+0;wirusowe zapalenie opon mózgowych;2008;712;osoba
+0;wirusowe zapalenie opon mózgowych;2009;717;osoba
+0;wirusowe zapalenie opon mózgowych;2010;1167;osoba
+0;wirusowe zapalenie opon mózgowych;2011;1040;osoba
+0;wirusowe zapalenie opon mózgowych;2012;1268;osoba
+0;wirusowe zapalenie opon mózgowych;2013;1058;osoba
+0;wirusowe zapalenie opon mózgowych;2014;1813;osoba
+0;wirusowe zapalenie opon mózgowych;2015;876;osoba
+0;wirusowe zapalenie mózgu;2005;392;osoba
+0;wirusowe zapalenie mózgu;2006;612;osoba
+0;wirusowe zapalenie mózgu;2007;514;osoba
+0;wirusowe zapalenie mózgu;2008;410;osoba
+0;wirusowe zapalenie mózgu;2009;528;osoba
+0;wirusowe zapalenie mózgu;2010;452;osoba
+0;wirusowe zapalenie mózgu;2011;399;osoba
+0;wirusowe zapalenie mózgu;2012;347;osoba
+0;wirusowe zapalenie mózgu;2013;399;osoba
+0;wirusowe zapalenie mózgu;2014;353;osoba
+0;wirusowe zapalenie mózgu;2015;273;osoba
+0;zapalenie przyusznicy nagminne (świnka);2005;71945;osoba
+0;zapalenie przyusznicy nagminne (świnka);2006;15115;osoba
+0;zapalenie przyusznicy nagminne (świnka);2007;4147;osoba
+0;zapalenie przyusznicy nagminne (świnka);2008;3271;osoba
+0;zapalenie przyusznicy nagminne (świnka);2009;2954;osoba
+0;zapalenie przyusznicy nagminne (świnka);2010;2754;osoba
+0;zapalenie przyusznicy nagminne (świnka);2011;2585;osoba
+0;zapalenie przyusznicy nagminne (świnka);2012;2779;osoba
+0;zapalenie przyusznicy nagminne (świnka);2013;2436;osoba
+0;zapalenie przyusznicy nagminne (świnka);2014;2508;osoba
+0;zapalenie przyusznicy nagminne (świnka);2015;2208;osoba
+0;włośnica;2005;70;osoba
+0;włośnica;2006;130;osoba
+0;włośnica;2007;292;osoba
+0;włośnica;2008;4;osoba
+0;włośnica;2009;36;osoba
+0;włośnica;2010;51;osoba
+0;włośnica;2011;23;osoba
+0;włośnica;2012;1;osoba
+0;włośnica;2013;9;osoba
+0;włośnica;2014;32;osoba
+0;włośnica;2015;27;osoba
+0;grypa i podejrzenia zachorowań na grypę;2005;733234;osoba
+0;grypa i podejrzenia zachorowań na grypę;2006;251815;osoba
+0;grypa i podejrzenia zachorowań na grypę;2007;374042;osoba
+0;grypa i podejrzenia zachorowań na grypę;2008;227346;osoba
+0;grypa i podejrzenia zachorowań na grypę;2009;1081974;osoba
+0;grypa i podejrzenia zachorowań na grypę;2010;551054;osoba
+0;grypa i podejrzenia zachorowań na grypę;2011;1156357;osoba
+0;grypa i podejrzenia zachorowań na grypę;2012;1460037;osoba
+0;grypa i podejrzenia zachorowań na grypę;2013;3164405;osoba
+0;grypa i podejrzenia zachorowań na grypę;2014;3137056;osoba
+0;grypa i podejrzenia zachorowań na grypę;2015;3843438;osoba
+0;szczepieni przeciw wściekliźnie;2005;7755;osoba
+0;szczepieni przeciw wściekliźnie;2006;7526;osoba
+0;szczepieni przeciw wściekliźnie;2007;7102;osoba
+0;szczepieni przeciw wściekliźnie;2008;6919;osoba
+0;szczepieni przeciw wściekliźnie;2009;6876;osoba
+0;szczepieni przeciw wściekliźnie;2010;7524;osoba
+0;szczepieni przeciw wściekliźnie;2011;7842;osoba
+0;szczepieni przeciw wściekliźnie;2012;7999;osoba
+0;szczepieni przeciw wściekliźnie;2013;7844;osoba
+0;szczepieni przeciw wściekliźnie;2014;8661;osoba
+0;szczepieni przeciw wściekliźnie;2015;8150;osoba
+1100000000;tężec;2005;0;osoba
+1100000000;tężec;2006;0;osoba
+1100000000;tężec;2007;0;osoba
+1100000000;tężec;2008;1;osoba
+1100000000;tężec;2009;0;osoba
+1100000000;tężec;2010;1;osoba
+1100000000;tężec;2011;0;osoba
+1100000000;tężec;2012;1;osoba
+1100000000;tężec;2013;0;osoba
+1100000000;tężec;2014;2;osoba
+1100000000;tężec;2015;1;osoba
+1100000000;krztusiec;2005;443;osoba
+1100000000;krztusiec;2006;541;osoba
+1100000000;krztusiec;2007;332;osoba
+1100000000;krztusiec;2008;332;osoba
+1100000000;krztusiec;2009;697;osoba
+1100000000;krztusiec;2010;387;osoba
+1100000000;krztusiec;2011;218;osoba
+1100000000;krztusiec;2012;673;osoba
+1100000000;krztusiec;2013;329;osoba
+1100000000;krztusiec;2014;305;osoba
+1100000000;krztusiec;2015;675;osoba
+1100000000;odra;2005;1;osoba
+1100000000;odra;2006;0;osoba
+1100000000;odra;2007;0;osoba
+1100000000;odra;2008;1;osoba
+1100000000;odra;2009;7;osoba
+1100000000;odra;2010;0;osoba
+1100000000;odra;2011;4;osoba
+1100000000;odra;2012;1;osoba
+1100000000;odra;2013;0;osoba
+1100000000;odra;2014;1;osoba
+1100000000;odra;2015;0;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2005;189;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2006;270;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2007;186;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2008;150;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2009;209;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2010;185;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2011;197;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2012;224;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2013;148;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2014;153;osoba
+1100000000;wirusowe zapalenie wątroby typu B;2015;313;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2005;272;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2006;329;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2007;314;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2008;199;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2009;294;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2010;187;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2011;197;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2012;286;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2013;243;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2014;369;osoba
+1100000000;wirusowe zapalenie wątroby typu C;2015;368;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2005;3;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2006;11;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2007;3;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2008;2;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2009;77;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2010;3;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2011;0;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2012;2;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2013;4;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2014;7;osoba
+1100000000;wirusowe zapalenie wątroby typu A;2015;8;osoba
+1100000000;różyczka;2005;447;osoba
+1100000000;różyczka;2006;333;osoba
+1100000000;różyczka;2007;860;osoba
+1100000000;różyczka;2008;3301;osoba
+1100000000;różyczka;2009;318;osoba
+1100000000;różyczka;2010;152;osoba
+1100000000;różyczka;2011;243;osoba
+1100000000;różyczka;2012;169;osoba
+1100000000;różyczka;2013;734;osoba
+1100000000;różyczka;2014;364;osoba
+1100000000;różyczka;2015;58;osoba
+1100000000;AIDS;2005;10;osoba
+1100000000;AIDS;2006;6;osoba
+1100000000;AIDS;2007;13;osoba
+1100000000;AIDS;2008;13;osoba
+1100000000;AIDS;2009;8;osoba
+1100000000;AIDS;2010;18;osoba
+1100000000;AIDS;2011;18;osoba
+1100000000;AIDS;2012;17;osoba
+1100000000;AIDS;2013;13;osoba
+1100000000;AIDS;2014;16;osoba
+1100000000;AIDS;2015;13;osoba
+1100000000;salmonellozy;2005;881;osoba
+1100000000;salmonellozy;2006;905;osoba
+1100000000;salmonellozy;2007;774;osoba
+1100000000;salmonellozy;2008;660;osoba
+1100000000;salmonellozy;2009;719;osoba
+1100000000;salmonellozy;2010;652;osoba
+1100000000;salmonellozy;2011;531;osoba
+1100000000;salmonellozy;2012;514;osoba
+1100000000;salmonellozy;2013;520;osoba
+1100000000;salmonellozy;2014;700;osoba
+1100000000;salmonellozy;2015;688;osoba
+1100000000;czerwonka bakteryjna;2005;0;osoba
+1100000000;czerwonka bakteryjna;2006;0;osoba
+1100000000;czerwonka bakteryjna;2007;0;osoba
+1100000000;czerwonka bakteryjna;2008;0;osoba
+1100000000;czerwonka bakteryjna;2009;2;osoba
+1100000000;czerwonka bakteryjna;2010;0;osoba
+1100000000;czerwonka bakteryjna;2011;2;osoba
+1100000000;czerwonka bakteryjna;2012;4;osoba
+1100000000;czerwonka bakteryjna;2013;3;osoba
+1100000000;czerwonka bakteryjna;2014;13;osoba
+1100000000;czerwonka bakteryjna;2015;1;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2005;232;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2006;414;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2007;164;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2008;87;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2009;67;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2010;30;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2011;47;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2012;11;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2013;9;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2014;47;osoba
+1100000000;inne bakteryjne zatrucia pokarmowe;2015;46;osoba
+1100000000;biegunki u dzieci do lat 2;2005;965;osoba
+1100000000;biegunki u dzieci do lat 2;2006;1095;osoba
+1100000000;biegunki u dzieci do lat 2;2007;1439;osoba
+1100000000;biegunki u dzieci do lat 2;2008;1589;osoba
+1100000000;biegunki u dzieci do lat 2;2009;1881;osoba
+1100000000;biegunki u dzieci do lat 2;2010;1522;osoba
+1100000000;biegunki u dzieci do lat 2;2011;1477;osoba
+1100000000;biegunki u dzieci do lat 2;2012;1466;osoba
+1100000000;biegunki u dzieci do lat 2;2013;1534;osoba
+1100000000;biegunki u dzieci do lat 2;2014;1801;osoba
+1100000000;biegunki u dzieci do lat 2;2015;2166;osoba
+1100000000;szkarlatyna (płonnica);2005;426;osoba
+1100000000;szkarlatyna (płonnica);2006;363;osoba
+1100000000;szkarlatyna (płonnica);2007;300;osoba
+1100000000;szkarlatyna (płonnica);2008;464;osoba
+1100000000;szkarlatyna (płonnica);2009;530;osoba
+1100000000;szkarlatyna (płonnica);2010;460;osoba
+1100000000;szkarlatyna (płonnica);2011;594;osoba
+1100000000;szkarlatyna (płonnica);2012;652;osoba
+1100000000;szkarlatyna (płonnica);2013;577;osoba
+1100000000;szkarlatyna (płonnica);2014;718;osoba
+1100000000;szkarlatyna (płonnica);2015;1322;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;45;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;68;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;62;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;49;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;41;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;47;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;41;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;47;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;53;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;58;osoba
+1100000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;46;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2005;19;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2006;51;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2007;65;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2008;27;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2009;36;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2010;40;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2011;34;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2012;84;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2013;43;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2014;74;osoba
+1100000000;wirusowe zapalenie opon mózgowych;2015;38;osoba
+1100000000;wirusowe zapalenie mózgu;2005;6;osoba
+1100000000;wirusowe zapalenie mózgu;2006;10;osoba
+1100000000;wirusowe zapalenie mózgu;2007;13;osoba
+1100000000;wirusowe zapalenie mózgu;2008;6;osoba
+1100000000;wirusowe zapalenie mózgu;2009;10;osoba
+1100000000;wirusowe zapalenie mózgu;2010;9;osoba
+1100000000;wirusowe zapalenie mózgu;2011;10;osoba
+1100000000;wirusowe zapalenie mózgu;2012;8;osoba
+1100000000;wirusowe zapalenie mózgu;2013;7;osoba
+1100000000;wirusowe zapalenie mózgu;2014;15;osoba
+1100000000;wirusowe zapalenie mózgu;2015;12;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2005;4281;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2006;578;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2007;147;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2008;199;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2009;186;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2010;171;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2011;163;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2012;129;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2013;107;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2014;115;osoba
+1100000000;zapalenie przyusznicy nagminne (świnka);2015;94;osoba
+1100000000;włośnica;2005;0;osoba
+1100000000;włośnica;2006;0;osoba
+1100000000;włośnica;2007;0;osoba
+1100000000;włośnica;2008;0;osoba
+1100000000;włośnica;2009;0;osoba
+1100000000;włośnica;2010;0;osoba
+1100000000;włośnica;2011;0;osoba
+1100000000;włośnica;2012;0;osoba
+1100000000;włośnica;2013;0;osoba
+1100000000;włośnica;2014;0;osoba
+1100000000;włośnica;2015;0;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2005;67422;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2006;38741;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2007;49619;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2008;20102;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2009;93763;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2010;37204;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2011;77410;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2012;80923;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2013;202610;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2014;151200;osoba
+1100000000;grypa i podejrzenia zachorowań na grypę;2015;184847;osoba
+1100000000;szczepieni przeciw wściekliźnie;2005;644;osoba
+1100000000;szczepieni przeciw wściekliźnie;2006;743;osoba
+1100000000;szczepieni przeciw wściekliźnie;2007;633;osoba
+1100000000;szczepieni przeciw wściekliźnie;2008;544;osoba
+1100000000;szczepieni przeciw wściekliźnie;2009;681;osoba
+1100000000;szczepieni przeciw wściekliźnie;2010;724;osoba
+1100000000;szczepieni przeciw wściekliźnie;2011;716;osoba
+1100000000;szczepieni przeciw wściekliźnie;2012;693;osoba
+1100000000;szczepieni przeciw wściekliźnie;2013;592;osoba
+1100000000;szczepieni przeciw wściekliźnie;2014;644;osoba
+1100000000;szczepieni przeciw wściekliźnie;2015;558;osoba
+1140000000;tężec;2005;1;osoba
+1140000000;tężec;2006;5;osoba
+1140000000;tężec;2007;3;osoba
+1140000000;tężec;2008;0;osoba
+1140000000;tężec;2009;2;osoba
+1140000000;tężec;2010;0;osoba
+1140000000;tężec;2011;3;osoba
+1140000000;tężec;2012;2;osoba
+1140000000;tężec;2013;2;osoba
+1140000000;tężec;2014;4;osoba
+1140000000;tężec;2015;1;osoba
+1140000000;krztusiec;2005;433;osoba
+1140000000;krztusiec;2006;124;osoba
+1140000000;krztusiec;2007;286;osoba
+1140000000;krztusiec;2008;411;osoba
+1140000000;krztusiec;2009;201;osoba
+1140000000;krztusiec;2010;156;osoba
+1140000000;krztusiec;2011;426;osoba
+1140000000;krztusiec;2012;805;osoba
+1140000000;krztusiec;2013;546;osoba
+1140000000;krztusiec;2014;447;osoba
+1140000000;krztusiec;2015;1128;osoba
+1140000000;odra;2005;1;osoba
+1140000000;odra;2006;52;osoba
+1140000000;odra;2007;26;osoba
+1140000000;odra;2008;2;osoba
+1140000000;odra;2009;23;osoba
+1140000000;odra;2010;2;osoba
+1140000000;odra;2011;10;osoba
+1140000000;odra;2012;21;osoba
+1140000000;odra;2013;14;osoba
+1140000000;odra;2014;23;osoba
+1140000000;odra;2015;8;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2005;193;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2006;135;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2007;172;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2008;178;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2009;208;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2010;282;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2011;233;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2012;226;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2013;417;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2014;329;osoba
+1140000000;wirusowe zapalenie wątroby typu B;2015;243;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2005;389;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2006;394;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2007;505;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2008;427;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2009;154;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2010;322;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2011;295;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2012;337;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2013;598;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2014;490;osoba
+1140000000;wirusowe zapalenie wątroby typu C;2015;418;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2005;6;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2006;19;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2007;9;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2008;57;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2009;269;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2010;37;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2011;11;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2012;7;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2013;8;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2014;14;osoba
+1140000000;wirusowe zapalenie wątroby typu A;2015;8;osoba
+1140000000;różyczka;2005;1365;osoba
+1140000000;różyczka;2006;5382;osoba
+1140000000;różyczka;2007;1563;osoba
+1140000000;różyczka;2008;1288;osoba
+1140000000;różyczka;2009;727;osoba
+1140000000;różyczka;2010;297;osoba
+1140000000;różyczka;2011;323;osoba
+1140000000;różyczka;2012;285;osoba
+1140000000;różyczka;2013;1924;osoba
+1140000000;różyczka;2014;1104;osoba
+1140000000;różyczka;2015;329;osoba
+1140000000;AIDS;2005;7;osoba
+1140000000;AIDS;2006;4;osoba
+1140000000;AIDS;2007;7;osoba
+1140000000;AIDS;2008;7;osoba
+1140000000;AIDS;2009;5;osoba
+1140000000;AIDS;2010;9;osoba
+1140000000;AIDS;2011;17;osoba
+1140000000;AIDS;2012;12;osoba
+1140000000;AIDS;2013;16;osoba
+1140000000;AIDS;2014;17;osoba
+1140000000;AIDS;2015;9;osoba
+1140000000;salmonellozy;2005;2316;osoba
+1140000000;salmonellozy;2006;1798;osoba
+1140000000;salmonellozy;2007;1689;osoba
+1140000000;salmonellozy;2008;1562;osoba
+1140000000;salmonellozy;2009;1540;osoba
+1140000000;salmonellozy;2010;1794;osoba
+1140000000;salmonellozy;2011;1896;osoba
+1140000000;salmonellozy;2012;1874;osoba
+1140000000;salmonellozy;2013;1159;osoba
+1140000000;salmonellozy;2014;1607;osoba
+1140000000;salmonellozy;2015;1394;osoba
+1140000000;czerwonka bakteryjna;2005;3;osoba
+1140000000;czerwonka bakteryjna;2006;6;osoba
+1140000000;czerwonka bakteryjna;2007;6;osoba
+1140000000;czerwonka bakteryjna;2008;4;osoba
+1140000000;czerwonka bakteryjna;2009;2;osoba
+1140000000;czerwonka bakteryjna;2010;3;osoba
+1140000000;czerwonka bakteryjna;2011;2;osoba
+1140000000;czerwonka bakteryjna;2012;3;osoba
+1140000000;czerwonka bakteryjna;2013;2;osoba
+1140000000;czerwonka bakteryjna;2014;7;osoba
+1140000000;czerwonka bakteryjna;2015;1;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2005;199;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2006;111;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2007;121;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2008;411;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2009;34;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2010;102;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2011;84;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2012;31;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2013;123;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2014;97;osoba
+1140000000;inne bakteryjne zatrucia pokarmowe;2015;142;osoba
+1140000000;biegunki u dzieci do lat 2;2005;1908;osoba
+1140000000;biegunki u dzieci do lat 2;2006;2575;osoba
+1140000000;biegunki u dzieci do lat 2;2007;2258;osoba
+1140000000;biegunki u dzieci do lat 2;2008;2853;osoba
+1140000000;biegunki u dzieci do lat 2;2009;3330;osoba
+1140000000;biegunki u dzieci do lat 2;2010;3683;osoba
+1140000000;biegunki u dzieci do lat 2;2011;4517;osoba
+1140000000;biegunki u dzieci do lat 2;2012;4430;osoba
+1140000000;biegunki u dzieci do lat 2;2013;6745;osoba
+1140000000;biegunki u dzieci do lat 2;2014;6872;osoba
+1140000000;biegunki u dzieci do lat 2;2015;7129;osoba
+1140000000;szkarlatyna (płonnica);2005;1527;osoba
+1140000000;szkarlatyna (płonnica);2006;1784;osoba
+1140000000;szkarlatyna (płonnica);2007;1745;osoba
+1140000000;szkarlatyna (płonnica);2008;1611;osoba
+1140000000;szkarlatyna (płonnica);2009;1931;osoba
+1140000000;szkarlatyna (płonnica);2010;2485;osoba
+1140000000;szkarlatyna (płonnica);2011;3153;osoba
+1140000000;szkarlatyna (płonnica);2012;4385;osoba
+1140000000;szkarlatyna (płonnica);2013;5419;osoba
+1140000000;szkarlatyna (płonnica);2014;4739;osoba
+1140000000;szkarlatyna (płonnica);2015;5381;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;136;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;121;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;147;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;128;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;106;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;109;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;102;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;89;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;108;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;84;osoba
+1140000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;68;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2005;100;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2006;213;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2007;147;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2008;81;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2009;87;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2010;156;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2011;129;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2012;166;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2013;201;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2014;135;osoba
+1140000000;wirusowe zapalenie opon mózgowych;2015;65;osoba
+1140000000;wirusowe zapalenie mózgu;2005;41;osoba
+1140000000;wirusowe zapalenie mózgu;2006;80;osoba
+1140000000;wirusowe zapalenie mózgu;2007;66;osoba
+1140000000;wirusowe zapalenie mózgu;2008;52;osoba
+1140000000;wirusowe zapalenie mózgu;2009;70;osoba
+1140000000;wirusowe zapalenie mózgu;2010;57;osoba
+1140000000;wirusowe zapalenie mózgu;2011;56;osoba
+1140000000;wirusowe zapalenie mózgu;2012;47;osoba
+1140000000;wirusowe zapalenie mózgu;2013;51;osoba
+1140000000;wirusowe zapalenie mózgu;2014;36;osoba
+1140000000;wirusowe zapalenie mózgu;2015;26;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2005;9353;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2006;1769;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2007;363;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2008;412;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2009;290;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2010;335;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2011;317;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2012;316;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2013;349;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2014;351;osoba
+1140000000;zapalenie przyusznicy nagminne (świnka);2015;319;osoba
+1140000000;włośnica;2005;0;osoba
+1140000000;włośnica;2006;0;osoba
+1140000000;włośnica;2007;6;osoba
+1140000000;włośnica;2008;0;osoba
+1140000000;włośnica;2009;5;osoba
+1140000000;włośnica;2010;2;osoba
+1140000000;włośnica;2011;1;osoba
+1140000000;włośnica;2012;0;osoba
+1140000000;włośnica;2013;4;osoba
+1140000000;włośnica;2014;0;osoba
+1140000000;włośnica;2015;14;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2005;174683;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2006;87305;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2007;96956;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2008;64690;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2009;168850;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2010;141498;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2011;258422;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2012;281206;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2013;458512;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2014;568903;osoba
+1140000000;grypa i podejrzenia zachorowań na grypę;2015;678957;osoba
+1140000000;szczepieni przeciw wściekliźnie;2005;853;osoba
+1140000000;szczepieni przeciw wściekliźnie;2006;820;osoba
+1140000000;szczepieni przeciw wściekliźnie;2007;770;osoba
+1140000000;szczepieni przeciw wściekliźnie;2008;762;osoba
+1140000000;szczepieni przeciw wściekliźnie;2009;885;osoba
+1140000000;szczepieni przeciw wściekliźnie;2010;900;osoba
+1140000000;szczepieni przeciw wściekliźnie;2011;996;osoba
+1140000000;szczepieni przeciw wściekliźnie;2012;994;osoba
+1140000000;szczepieni przeciw wściekliźnie;2013;878;osoba
+1140000000;szczepieni przeciw wściekliźnie;2014;1135;osoba
+1140000000;szczepieni przeciw wściekliźnie;2015;1021;osoba
+2120000000;tężec;2005;4;osoba
+2120000000;tężec;2006;6;osoba
+2120000000;tężec;2007;3;osoba
+2120000000;tężec;2008;5;osoba
+2120000000;tężec;2009;6;osoba
+2120000000;tężec;2010;4;osoba
+2120000000;tężec;2011;3;osoba
+2120000000;tężec;2012;5;osoba
+2120000000;tężec;2013;4;osoba
+2120000000;tężec;2014;2;osoba
+2120000000;tężec;2015;5;osoba
+2120000000;krztusiec;2005;62;osoba
+2120000000;krztusiec;2006;36;osoba
+2120000000;krztusiec;2007;165;osoba
+2120000000;krztusiec;2008;177;osoba
+2120000000;krztusiec;2009;169;osoba
+2120000000;krztusiec;2010;45;osoba
+2120000000;krztusiec;2011;93;osoba
+2120000000;krztusiec;2012;419;osoba
+2120000000;krztusiec;2013;133;osoba
+2120000000;krztusiec;2014;168;osoba
+2120000000;krztusiec;2015;481;osoba
+2120000000;odra;2005;3;osoba
+2120000000;odra;2006;7;osoba
+2120000000;odra;2007;2;osoba
+2120000000;odra;2008;3;osoba
+2120000000;odra;2009;0;osoba
+2120000000;odra;2010;1;osoba
+2120000000;odra;2011;12;osoba
+2120000000;odra;2012;3;osoba
+2120000000;odra;2013;24;osoba
+2120000000;odra;2014;10;osoba
+2120000000;odra;2015;11;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2005;85;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2006;69;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2007;49;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2008;43;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2009;20;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2010;27;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2011;16;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2012;9;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2013;22;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2014;48;osoba
+2120000000;wirusowe zapalenie wątroby typu B;2015;97;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2005;83;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2006;70;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2007;34;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2008;32;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2009;21;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2010;21;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2011;25;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2012;33;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2013;42;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2014;72;osoba
+2120000000;wirusowe zapalenie wątroby typu C;2015;173;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2005;6;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2006;9;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2007;3;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2008;9;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2009;44;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2010;6;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2011;7;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2012;9;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2013;3;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2014;10;osoba
+2120000000;wirusowe zapalenie wątroby typu A;2015;12;osoba
+2120000000;różyczka;2005;428;osoba
+2120000000;różyczka;2006;866;osoba
+2120000000;różyczka;2007;2275;osoba
+2120000000;różyczka;2008;645;osoba
+2120000000;różyczka;2009;389;osoba
+2120000000;różyczka;2010;307;osoba
+2120000000;różyczka;2011;181;osoba
+2120000000;różyczka;2012;743;osoba
+2120000000;różyczka;2013;8557;osoba
+2120000000;różyczka;2014;437;osoba
+2120000000;różyczka;2015;172;osoba
+2120000000;AIDS;2005;6;osoba
+2120000000;AIDS;2006;7;osoba
+2120000000;AIDS;2007;5;osoba
+2120000000;AIDS;2008;8;osoba
+2120000000;AIDS;2009;11;osoba
+2120000000;AIDS;2010;7;osoba
+2120000000;AIDS;2011;4;osoba
+2120000000;AIDS;2012;7;osoba
+2120000000;AIDS;2013;2;osoba
+2120000000;AIDS;2014;3;osoba
+2120000000;AIDS;2015;4;osoba
+2120000000;salmonellozy;2005;1127;osoba
+2120000000;salmonellozy;2006;1023;osoba
+2120000000;salmonellozy;2007;1062;osoba
+2120000000;salmonellozy;2008;822;osoba
+2120000000;salmonellozy;2009;814;osoba
+2120000000;salmonellozy;2010;718;osoba
+2120000000;salmonellozy;2011;756;osoba
+2120000000;salmonellozy;2012;683;osoba
+2120000000;salmonellozy;2013;596;osoba
+2120000000;salmonellozy;2014;856;osoba
+2120000000;salmonellozy;2015;1000;osoba
+2120000000;czerwonka bakteryjna;2005;4;osoba
+2120000000;czerwonka bakteryjna;2006;1;osoba
+2120000000;czerwonka bakteryjna;2007;4;osoba
+2120000000;czerwonka bakteryjna;2008;5;osoba
+2120000000;czerwonka bakteryjna;2009;1;osoba
+2120000000;czerwonka bakteryjna;2010;5;osoba
+2120000000;czerwonka bakteryjna;2011;2;osoba
+2120000000;czerwonka bakteryjna;2012;2;osoba
+2120000000;czerwonka bakteryjna;2013;4;osoba
+2120000000;czerwonka bakteryjna;2014;7;osoba
+2120000000;czerwonka bakteryjna;2015;9;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2005;375;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2006;207;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2007;316;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2008;303;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2009;186;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2010;105;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2011;179;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2012;117;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2013;90;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2014;16;osoba
+2120000000;inne bakteryjne zatrucia pokarmowe;2015;27;osoba
+2120000000;biegunki u dzieci do lat 2;2005;1103;osoba
+2120000000;biegunki u dzieci do lat 2;2006;1455;osoba
+2120000000;biegunki u dzieci do lat 2;2007;1911;osoba
+2120000000;biegunki u dzieci do lat 2;2008;2021;osoba
+2120000000;biegunki u dzieci do lat 2;2009;1960;osoba
+2120000000;biegunki u dzieci do lat 2;2010;2193;osoba
+2120000000;biegunki u dzieci do lat 2;2011;2432;osoba
+2120000000;biegunki u dzieci do lat 2;2012;2584;osoba
+2120000000;biegunki u dzieci do lat 2;2013;3164;osoba
+2120000000;biegunki u dzieci do lat 2;2014;4170;osoba
+2120000000;biegunki u dzieci do lat 2;2015;5173;osoba
+2120000000;szkarlatyna (płonnica);2005;909;osoba
+2120000000;szkarlatyna (płonnica);2006;687;osoba
+2120000000;szkarlatyna (płonnica);2007;811;osoba
+2120000000;szkarlatyna (płonnica);2008;836;osoba
+2120000000;szkarlatyna (płonnica);2009;1141;osoba
+2120000000;szkarlatyna (płonnica);2010;1315;osoba
+2120000000;szkarlatyna (płonnica);2011;1563;osoba
+2120000000;szkarlatyna (płonnica);2012;2123;osoba
+2120000000;szkarlatyna (płonnica);2013;2462;osoba
+2120000000;szkarlatyna (płonnica);2014;2304;osoba
+2120000000;szkarlatyna (płonnica);2015;2458;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;84;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;75;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;92;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;116;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;74;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;72;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;53;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;60;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;75;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;47;osoba
+2120000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;64;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2005;101;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2006;198;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2007;193;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2008;83;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2009;77;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2010;128;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2011;113;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2012;118;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2013;76;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2014;98;osoba
+2120000000;wirusowe zapalenie opon mózgowych;2015;66;osoba
+2120000000;wirusowe zapalenie mózgu;2005;4;osoba
+2120000000;wirusowe zapalenie mózgu;2006;27;osoba
+2120000000;wirusowe zapalenie mózgu;2007;36;osoba
+2120000000;wirusowe zapalenie mózgu;2008;25;osoba
+2120000000;wirusowe zapalenie mózgu;2009;47;osoba
+2120000000;wirusowe zapalenie mózgu;2010;25;osoba
+2120000000;wirusowe zapalenie mózgu;2011;17;osoba
+2120000000;wirusowe zapalenie mózgu;2012;11;osoba
+2120000000;wirusowe zapalenie mózgu;2013;21;osoba
+2120000000;wirusowe zapalenie mózgu;2014;10;osoba
+2120000000;wirusowe zapalenie mózgu;2015;15;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2005;4699;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2006;775;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2007;222;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2008;277;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2009;245;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2010;221;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2011;190;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2012;265;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2013;198;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2014;221;osoba
+2120000000;zapalenie przyusznicy nagminne (świnka);2015;192;osoba
+2120000000;włośnica;2005;0;osoba
+2120000000;włośnica;2006;0;osoba
+2120000000;włośnica;2007;2;osoba
+2120000000;włośnica;2008;0;osoba
+2120000000;włośnica;2009;0;osoba
+2120000000;włośnica;2010;0;osoba
+2120000000;włośnica;2011;0;osoba
+2120000000;włośnica;2012;0;osoba
+2120000000;włośnica;2013;0;osoba
+2120000000;włośnica;2014;0;osoba
+2120000000;włośnica;2015;0;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2005;58529;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2006;16586;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2007;57954;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2008;20586;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2009;113321;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2010;51000;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2011;142661;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2012;206197;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2013;370656;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2014;355207;osoba
+2120000000;grypa i podejrzenia zachorowań na grypę;2015;396385;osoba
+2120000000;szczepieni przeciw wściekliźnie;2005;894;osoba
+2120000000;szczepieni przeciw wściekliźnie;2006;838;osoba
+2120000000;szczepieni przeciw wściekliźnie;2007;817;osoba
+2120000000;szczepieni przeciw wściekliźnie;2008;782;osoba
+2120000000;szczepieni przeciw wściekliźnie;2009;803;osoba
+2120000000;szczepieni przeciw wściekliźnie;2010;1172;osoba
+2120000000;szczepieni przeciw wściekliźnie;2011;1125;osoba
+2120000000;szczepieni przeciw wściekliźnie;2012;1050;osoba
+2120000000;szczepieni przeciw wściekliźnie;2013;1167;osoba
+2120000000;szczepieni przeciw wściekliźnie;2014;1484;osoba
+2120000000;szczepieni przeciw wściekliźnie;2015;1389;osoba
+2240000000;tężec;2005;4;osoba
+2240000000;tężec;2006;3;osoba
+2240000000;tężec;2007;3;osoba
+2240000000;tężec;2008;3;osoba
+2240000000;tężec;2009;4;osoba
+2240000000;tężec;2010;1;osoba
+2240000000;tężec;2011;2;osoba
+2240000000;tężec;2012;4;osoba
+2240000000;tężec;2013;3;osoba
+2240000000;tężec;2014;2;osoba
+2240000000;tężec;2015;0;osoba
+2240000000;krztusiec;2005;149;osoba
+2240000000;krztusiec;2006;107;osoba
+2240000000;krztusiec;2007;155;osoba
+2240000000;krztusiec;2008;189;osoba
+2240000000;krztusiec;2009;204;osoba
+2240000000;krztusiec;2010;120;osoba
+2240000000;krztusiec;2011;264;osoba
+2240000000;krztusiec;2012;395;osoba
+2240000000;krztusiec;2013;153;osoba
+2240000000;krztusiec;2014;229;osoba
+2240000000;krztusiec;2015;535;osoba
+2240000000;odra;2005;6;osoba
+2240000000;odra;2006;8;osoba
+2240000000;odra;2007;8;osoba
+2240000000;odra;2008;36;osoba
+2240000000;odra;2009;5;osoba
+2240000000;odra;2010;1;osoba
+2240000000;odra;2011;2;osoba
+2240000000;odra;2012;23;osoba
+2240000000;odra;2013;30;osoba
+2240000000;odra;2014;4;osoba
+2240000000;odra;2015;2;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2005;214;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2006;223;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2007;184;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2008;172;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2009;185;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2010;135;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2011;124;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2012;160;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2013;157;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2014;675;osoba
+2240000000;wirusowe zapalenie wątroby typu B;2015;661;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2005;302;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2006;273;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2007;300;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2008;287;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2009;157;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2010;160;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2011;152;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2012;143;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2013;165;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2014;591;osoba
+2240000000;wirusowe zapalenie wątroby typu C;2015;582;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2005;5;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2006;12;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2007;5;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2008;17;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2009;53;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2010;35;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2011;24;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2012;16;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2013;4;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2014;9;osoba
+2240000000;wirusowe zapalenie wątroby typu A;2015;7;osoba
+2240000000;różyczka;2005;1049;osoba
+2240000000;różyczka;2006;1796;osoba
+2240000000;różyczka;2007;5889;osoba
+2240000000;różyczka;2008;903;osoba
+2240000000;różyczka;2009;648;osoba
+2240000000;różyczka;2010;444;osoba
+2240000000;różyczka;2011;322;osoba
+2240000000;różyczka;2012;1005;osoba
+2240000000;różyczka;2013;3587;osoba
+2240000000;różyczka;2014;1218;osoba
+2240000000;różyczka;2015;232;osoba
+2240000000;AIDS;2005;15;osoba
+2240000000;AIDS;2006;20;osoba
+2240000000;AIDS;2007;10;osoba
+2240000000;AIDS;2008;16;osoba
+2240000000;AIDS;2009;2;osoba
+2240000000;AIDS;2010;17;osoba
+2240000000;AIDS;2011;12;osoba
+2240000000;AIDS;2012;23;osoba
+2240000000;AIDS;2013;21;osoba
+2240000000;AIDS;2014;18;osoba
+2240000000;AIDS;2015;14;osoba
+2240000000;salmonellozy;2005;1259;osoba
+2240000000;salmonellozy;2006;1161;osoba
+2240000000;salmonellozy;2007;853;osoba
+2240000000;salmonellozy;2008;833;osoba
+2240000000;salmonellozy;2009;675;osoba
+2240000000;salmonellozy;2010;856;osoba
+2240000000;salmonellozy;2011;633;osoba
+2240000000;salmonellozy;2012;534;osoba
+2240000000;salmonellozy;2013;529;osoba
+2240000000;salmonellozy;2014;678;osoba
+2240000000;salmonellozy;2015;755;osoba
+2240000000;czerwonka bakteryjna;2005;3;osoba
+2240000000;czerwonka bakteryjna;2006;1;osoba
+2240000000;czerwonka bakteryjna;2007;2;osoba
+2240000000;czerwonka bakteryjna;2008;3;osoba
+2240000000;czerwonka bakteryjna;2009;5;osoba
+2240000000;czerwonka bakteryjna;2010;1;osoba
+2240000000;czerwonka bakteryjna;2011;7;osoba
+2240000000;czerwonka bakteryjna;2012;2;osoba
+2240000000;czerwonka bakteryjna;2013;1;osoba
+2240000000;czerwonka bakteryjna;2014;4;osoba
+2240000000;czerwonka bakteryjna;2015;3;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2005;817;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2006;936;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2007;822;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2008;814;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2009;535;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2010;742;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2011;944;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2012;820;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2013;733;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2014;635;osoba
+2240000000;inne bakteryjne zatrucia pokarmowe;2015;571;osoba
+2240000000;biegunki u dzieci do lat 2;2005;1995;osoba
+2240000000;biegunki u dzieci do lat 2;2006;2527;osoba
+2240000000;biegunki u dzieci do lat 2;2007;2621;osoba
+2240000000;biegunki u dzieci do lat 2;2008;3404;osoba
+2240000000;biegunki u dzieci do lat 2;2009;3149;osoba
+2240000000;biegunki u dzieci do lat 2;2010;3465;osoba
+2240000000;biegunki u dzieci do lat 2;2011;3756;osoba
+2240000000;biegunki u dzieci do lat 2;2012;3626;osoba
+2240000000;biegunki u dzieci do lat 2;2013;3703;osoba
+2240000000;biegunki u dzieci do lat 2;2014;4012;osoba
+2240000000;biegunki u dzieci do lat 2;2015;4234;osoba
+2240000000;szkarlatyna (płonnica);2005;1245;osoba
+2240000000;szkarlatyna (płonnica);2006;1416;osoba
+2240000000;szkarlatyna (płonnica);2007;2063;osoba
+2240000000;szkarlatyna (płonnica);2008;2033;osoba
+2240000000;szkarlatyna (płonnica);2009;2528;osoba
+2240000000;szkarlatyna (płonnica);2010;2149;osoba
+2240000000;szkarlatyna (płonnica);2011;3148;osoba
+2240000000;szkarlatyna (płonnica);2012;4328;osoba
+2240000000;szkarlatyna (płonnica);2013;3139;osoba
+2240000000;szkarlatyna (płonnica);2014;2919;osoba
+2240000000;szkarlatyna (płonnica);2015;3833;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;131;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;102;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;143;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;113;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;110;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;104;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;117;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;127;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;105;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;91;osoba
+2240000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;96;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2005;63;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2006;65;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2007;86;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2008;73;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2009;54;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2010;65;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2011;44;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2012;67;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2013;58;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2014;74;osoba
+2240000000;wirusowe zapalenie opon mózgowych;2015;46;osoba
+2240000000;wirusowe zapalenie mózgu;2005;19;osoba
+2240000000;wirusowe zapalenie mózgu;2006;38;osoba
+2240000000;wirusowe zapalenie mózgu;2007;38;osoba
+2240000000;wirusowe zapalenie mózgu;2008;15;osoba
+2240000000;wirusowe zapalenie mózgu;2009;14;osoba
+2240000000;wirusowe zapalenie mózgu;2010;16;osoba
+2240000000;wirusowe zapalenie mózgu;2011;22;osoba
+2240000000;wirusowe zapalenie mózgu;2012;22;osoba
+2240000000;wirusowe zapalenie mózgu;2013;25;osoba
+2240000000;wirusowe zapalenie mózgu;2014;19;osoba
+2240000000;wirusowe zapalenie mózgu;2015;16;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2005;9837;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2006;1387;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2007;424;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2008;453;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2009;421;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2010;411;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2011;376;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2012;386;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2013;327;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2014;352;osoba
+2240000000;zapalenie przyusznicy nagminne (świnka);2015;302;osoba
+2240000000;włośnica;2005;0;osoba
+2240000000;włośnica;2006;0;osoba
+2240000000;włośnica;2007;0;osoba
+2240000000;włośnica;2008;0;osoba
+2240000000;włośnica;2009;0;osoba
+2240000000;włośnica;2010;0;osoba
+2240000000;włośnica;2011;0;osoba
+2240000000;włośnica;2012;0;osoba
+2240000000;włośnica;2013;0;osoba
+2240000000;włośnica;2014;0;osoba
+2240000000;włośnica;2015;0;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2005;124486;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2006;27337;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2007;33862;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2008;31162;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2009;101979;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2010;41862;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2011;100255;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2012;104732;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2013;221067;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2014;221825;osoba
+2240000000;grypa i podejrzenia zachorowań na grypę;2015;286144;osoba
+2240000000;szczepieni przeciw wściekliźnie;2005;721;osoba
+2240000000;szczepieni przeciw wściekliźnie;2006;705;osoba
+2240000000;szczepieni przeciw wściekliźnie;2007;629;osoba
+2240000000;szczepieni przeciw wściekliźnie;2008;636;osoba
+2240000000;szczepieni przeciw wściekliźnie;2009;588;osoba
+2240000000;szczepieni przeciw wściekliźnie;2010;641;osoba
+2240000000;szczepieni przeciw wściekliźnie;2011;635;osoba
+2240000000;szczepieni przeciw wściekliźnie;2012;662;osoba
+2240000000;szczepieni przeciw wściekliźnie;2013;644;osoba
+2240000000;szczepieni przeciw wściekliźnie;2014;777;osoba
+2240000000;szczepieni przeciw wściekliźnie;2015;729;osoba
+3060000000;tężec;2005;1;osoba
+3060000000;tężec;2006;0;osoba
+3060000000;tężec;2007;2;osoba
+3060000000;tężec;2008;1;osoba
+3060000000;tężec;2009;1;osoba
+3060000000;tężec;2010;1;osoba
+3060000000;tężec;2011;0;osoba
+3060000000;tężec;2012;0;osoba
+3060000000;tężec;2013;1;osoba
+3060000000;tężec;2014;0;osoba
+3060000000;tężec;2015;0;osoba
+3060000000;krztusiec;2005;37;osoba
+3060000000;krztusiec;2006;14;osoba
+3060000000;krztusiec;2007;17;osoba
+3060000000;krztusiec;2008;17;osoba
+3060000000;krztusiec;2009;15;osoba
+3060000000;krztusiec;2010;3;osoba
+3060000000;krztusiec;2011;26;osoba
+3060000000;krztusiec;2012;123;osoba
+3060000000;krztusiec;2013;21;osoba
+3060000000;krztusiec;2014;17;osoba
+3060000000;krztusiec;2015;100;osoba
+3060000000;odra;2005;0;osoba
+3060000000;odra;2006;7;osoba
+3060000000;odra;2007;0;osoba
+3060000000;odra;2008;6;osoba
+3060000000;odra;2009;47;osoba
+3060000000;odra;2010;7;osoba
+3060000000;odra;2011;0;osoba
+3060000000;odra;2012;0;osoba
+3060000000;odra;2013;0;osoba
+3060000000;odra;2014;0;osoba
+3060000000;odra;2015;0;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2005;95;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2006;129;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2007;114;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2008;106;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2009;76;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2010;69;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2011;60;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2012;55;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2013;21;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2014;39;osoba
+3060000000;wirusowe zapalenie wątroby typu B;2015;69;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2005;231;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2006;239;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2007;257;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2008;137;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2009;90;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2010;118;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2011;95;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2012;130;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2013;154;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2014;105;osoba
+3060000000;wirusowe zapalenie wątroby typu C;2015;213;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2005;11;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2006;3;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2007;1;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2008;77;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2009;27;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2010;2;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2011;0;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2012;3;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2013;3;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2014;5;osoba
+3060000000;wirusowe zapalenie wątroby typu A;2015;2;osoba
+3060000000;różyczka;2005;225;osoba
+3060000000;różyczka;2006;1813;osoba
+3060000000;różyczka;2007;2263;osoba
+3060000000;różyczka;2008;165;osoba
+3060000000;różyczka;2009;203;osoba
+3060000000;różyczka;2010;278;osoba
+3060000000;różyczka;2011;232;osoba
+3060000000;różyczka;2012;1766;osoba
+3060000000;różyczka;2013;2242;osoba
+3060000000;różyczka;2014;239;osoba
+3060000000;różyczka;2015;76;osoba
+3060000000;AIDS;2005;7;osoba
+3060000000;AIDS;2006;8;osoba
+3060000000;AIDS;2007;6;osoba
+3060000000;AIDS;2008;6;osoba
+3060000000;AIDS;2009;1;osoba
+3060000000;AIDS;2010;6;osoba
+3060000000;AIDS;2011;4;osoba
+3060000000;AIDS;2012;6;osoba
+3060000000;AIDS;2013;5;osoba
+3060000000;AIDS;2014;3;osoba
+3060000000;AIDS;2015;3;osoba
+3060000000;salmonellozy;2005;1504;osoba
+3060000000;salmonellozy;2006;950;osoba
+3060000000;salmonellozy;2007;1088;osoba
+3060000000;salmonellozy;2008;696;osoba
+3060000000;salmonellozy;2009;607;osoba
+3060000000;salmonellozy;2010;508;osoba
+3060000000;salmonellozy;2011;583;osoba
+3060000000;salmonellozy;2012;579;osoba
+3060000000;salmonellozy;2013;489;osoba
+3060000000;salmonellozy;2014;607;osoba
+3060000000;salmonellozy;2015;535;osoba
+3060000000;czerwonka bakteryjna;2005;6;osoba
+3060000000;czerwonka bakteryjna;2006;4;osoba
+3060000000;czerwonka bakteryjna;2007;1;osoba
+3060000000;czerwonka bakteryjna;2008;1;osoba
+3060000000;czerwonka bakteryjna;2009;1;osoba
+3060000000;czerwonka bakteryjna;2010;3;osoba
+3060000000;czerwonka bakteryjna;2011;0;osoba
+3060000000;czerwonka bakteryjna;2012;0;osoba
+3060000000;czerwonka bakteryjna;2013;0;osoba
+3060000000;czerwonka bakteryjna;2014;0;osoba
+3060000000;czerwonka bakteryjna;2015;0;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2005;78;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2006;71;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2007;140;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2008;122;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2009;104;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2010;55;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2011;71;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2012;52;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2013;33;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2014;16;osoba
+3060000000;inne bakteryjne zatrucia pokarmowe;2015;7;osoba
+3060000000;biegunki u dzieci do lat 2;2005;915;osoba
+3060000000;biegunki u dzieci do lat 2;2006;1136;osoba
+3060000000;biegunki u dzieci do lat 2;2007;1180;osoba
+3060000000;biegunki u dzieci do lat 2;2008;1456;osoba
+3060000000;biegunki u dzieci do lat 2;2009;2766;osoba
+3060000000;biegunki u dzieci do lat 2;2010;2273;osoba
+3060000000;biegunki u dzieci do lat 2;2011;2795;osoba
+3060000000;biegunki u dzieci do lat 2;2012;2655;osoba
+3060000000;biegunki u dzieci do lat 2;2013;2346;osoba
+3060000000;biegunki u dzieci do lat 2;2014;2395;osoba
+3060000000;biegunki u dzieci do lat 2;2015;2031;osoba
+3060000000;szkarlatyna (płonnica);2005;236;osoba
+3060000000;szkarlatyna (płonnica);2006;288;osoba
+3060000000;szkarlatyna (płonnica);2007;379;osoba
+3060000000;szkarlatyna (płonnica);2008;308;osoba
+3060000000;szkarlatyna (płonnica);2009;625;osoba
+3060000000;szkarlatyna (płonnica);2010;541;osoba
+3060000000;szkarlatyna (płonnica);2011;573;osoba
+3060000000;szkarlatyna (płonnica);2012;972;osoba
+3060000000;szkarlatyna (płonnica);2013;684;osoba
+3060000000;szkarlatyna (płonnica);2014;590;osoba
+3060000000;szkarlatyna (płonnica);2015;757;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;36;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;45;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;44;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;43;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;33;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;37;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;49;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;32;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;39;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;33;osoba
+3060000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;32;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2005;32;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2006;98;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2007;48;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2008;33;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2009;31;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2010;46;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2011;34;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2012;54;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2013;23;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2014;22;osoba
+3060000000;wirusowe zapalenie opon mózgowych;2015;16;osoba
+3060000000;wirusowe zapalenie mózgu;2005;6;osoba
+3060000000;wirusowe zapalenie mózgu;2006;16;osoba
+3060000000;wirusowe zapalenie mózgu;2007;9;osoba
+3060000000;wirusowe zapalenie mózgu;2008;7;osoba
+3060000000;wirusowe zapalenie mózgu;2009;18;osoba
+3060000000;wirusowe zapalenie mózgu;2010;11;osoba
+3060000000;wirusowe zapalenie mózgu;2011;11;osoba
+3060000000;wirusowe zapalenie mózgu;2012;10;osoba
+3060000000;wirusowe zapalenie mózgu;2013;14;osoba
+3060000000;wirusowe zapalenie mózgu;2014;13;osoba
+3060000000;wirusowe zapalenie mózgu;2015;9;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2005;5887;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2006;899;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2007;418;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2008;170;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2009;144;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2010;140;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2011;141;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2012;165;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2013;124;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2014;109;osoba
+3060000000;zapalenie przyusznicy nagminne (świnka);2015;134;osoba
+3060000000;włośnica;2005;2;osoba
+3060000000;włośnica;2006;0;osoba
+3060000000;włośnica;2007;4;osoba
+3060000000;włośnica;2008;0;osoba
+3060000000;włośnica;2009;0;osoba
+3060000000;włośnica;2010;0;osoba
+3060000000;włośnica;2011;0;osoba
+3060000000;włośnica;2012;0;osoba
+3060000000;włośnica;2013;0;osoba
+3060000000;włośnica;2014;1;osoba
+3060000000;włośnica;2015;0;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2005;13443;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2006;6151;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2007;8694;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2008;4378;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2009;31285;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2010;9063;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2011;23627;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2012;19679;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2013;81831;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2014;70593;osoba
+3060000000;grypa i podejrzenia zachorowań na grypę;2015;78786;osoba
+3060000000;szczepieni przeciw wściekliźnie;2005;221;osoba
+3060000000;szczepieni przeciw wściekliźnie;2006;227;osoba
+3060000000;szczepieni przeciw wściekliźnie;2007;224;osoba
+3060000000;szczepieni przeciw wściekliźnie;2008;264;osoba
+3060000000;szczepieni przeciw wściekliźnie;2009;249;osoba
+3060000000;szczepieni przeciw wściekliźnie;2010;261;osoba
+3060000000;szczepieni przeciw wściekliźnie;2011;283;osoba
+3060000000;szczepieni przeciw wściekliźnie;2012;316;osoba
+3060000000;szczepieni przeciw wściekliźnie;2013;384;osoba
+3060000000;szczepieni przeciw wściekliźnie;2014;336;osoba
+3060000000;szczepieni przeciw wściekliźnie;2015;401;osoba
+3180000000;tężec;2005;2;osoba
+3180000000;tężec;2006;2;osoba
+3180000000;tężec;2007;0;osoba
+3180000000;tężec;2008;0;osoba
+3180000000;tężec;2009;0;osoba
+3180000000;tężec;2010;2;osoba
+3180000000;tężec;2011;0;osoba
+3180000000;tężec;2012;0;osoba
+3180000000;tężec;2013;0;osoba
+3180000000;tężec;2014;0;osoba
+3180000000;tężec;2015;0;osoba
+3180000000;krztusiec;2005;23;osoba
+3180000000;krztusiec;2006;17;osoba
+3180000000;krztusiec;2007;47;osoba
+3180000000;krztusiec;2008;21;osoba
+3180000000;krztusiec;2009;23;osoba
+3180000000;krztusiec;2010;28;osoba
+3180000000;krztusiec;2011;41;osoba
+3180000000;krztusiec;2012;134;osoba
+3180000000;krztusiec;2013;95;osoba
+3180000000;krztusiec;2014;70;osoba
+3180000000;krztusiec;2015;88;osoba
+3180000000;odra;2005;1;osoba
+3180000000;odra;2006;14;osoba
+3180000000;odra;2007;0;osoba
+3180000000;odra;2008;22;osoba
+3180000000;odra;2009;0;osoba
+3180000000;odra;2010;0;osoba
+3180000000;odra;2011;3;osoba
+3180000000;odra;2012;1;osoba
+3180000000;odra;2013;0;osoba
+3180000000;odra;2014;1;osoba
+3180000000;odra;2015;1;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2005;44;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2006;39;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2007;65;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2008;51;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2009;45;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2010;67;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2011;62;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2012;145;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2013;96;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2014;81;osoba
+3180000000;wirusowe zapalenie wątroby typu B;2015;75;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2005;71;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2006;57;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2007;46;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2008;44;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2009;29;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2010;40;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2011;68;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2012;84;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2013;92;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2014;82;osoba
+3180000000;wirusowe zapalenie wątroby typu C;2015;116;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2005;0;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2006;1;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2007;2;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2008;4;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2009;6;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2010;6;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2011;3;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2012;7;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2013;2;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2014;5;osoba
+3180000000;wirusowe zapalenie wątroby typu A;2015;4;osoba
+3180000000;różyczka;2005;298;osoba
+3180000000;różyczka;2006;1287;osoba
+3180000000;różyczka;2007;2459;osoba
+3180000000;różyczka;2008;461;osoba
+3180000000;różyczka;2009;231;osoba
+3180000000;różyczka;2010;201;osoba
+3180000000;różyczka;2011;610;osoba
+3180000000;różyczka;2012;364;osoba
+3180000000;różyczka;2013;2064;osoba
+3180000000;różyczka;2014;153;osoba
+3180000000;różyczka;2015;80;osoba
+3180000000;AIDS;2005;0;osoba
+3180000000;AIDS;2006;0;osoba
+3180000000;AIDS;2007;0;osoba
+3180000000;AIDS;2008;10;osoba
+3180000000;AIDS;2009;8;osoba
+3180000000;AIDS;2010;4;osoba
+3180000000;AIDS;2011;4;osoba
+3180000000;AIDS;2012;2;osoba
+3180000000;AIDS;2013;2;osoba
+3180000000;AIDS;2014;2;osoba
+3180000000;AIDS;2015;1;osoba
+3180000000;salmonellozy;2005;1111;osoba
+3180000000;salmonellozy;2006;1150;osoba
+3180000000;salmonellozy;2007;985;osoba
+3180000000;salmonellozy;2008;808;osoba
+3180000000;salmonellozy;2009;629;osoba
+3180000000;salmonellozy;2010;805;osoba
+3180000000;salmonellozy;2011;608;osoba
+3180000000;salmonellozy;2012;639;osoba
+3180000000;salmonellozy;2013;609;osoba
+3180000000;salmonellozy;2014;588;osoba
+3180000000;salmonellozy;2015;615;osoba
+3180000000;czerwonka bakteryjna;2005;4;osoba
+3180000000;czerwonka bakteryjna;2006;1;osoba
+3180000000;czerwonka bakteryjna;2007;0;osoba
+3180000000;czerwonka bakteryjna;2008;9;osoba
+3180000000;czerwonka bakteryjna;2009;15;osoba
+3180000000;czerwonka bakteryjna;2010;2;osoba
+3180000000;czerwonka bakteryjna;2011;0;osoba
+3180000000;czerwonka bakteryjna;2012;0;osoba
+3180000000;czerwonka bakteryjna;2013;1;osoba
+3180000000;czerwonka bakteryjna;2014;1;osoba
+3180000000;czerwonka bakteryjna;2015;0;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2005;40;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2006;99;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2007;107;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2008;27;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2009;38;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2010;4;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2011;14;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2012;9;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2013;3;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2014;28;osoba
+3180000000;inne bakteryjne zatrucia pokarmowe;2015;25;osoba
+3180000000;biegunki u dzieci do lat 2;2005;1065;osoba
+3180000000;biegunki u dzieci do lat 2;2006;1282;osoba
+3180000000;biegunki u dzieci do lat 2;2007;1365;osoba
+3180000000;biegunki u dzieci do lat 2;2008;2047;osoba
+3180000000;biegunki u dzieci do lat 2;2009;1980;osoba
+3180000000;biegunki u dzieci do lat 2;2010;1989;osoba
+3180000000;biegunki u dzieci do lat 2;2011;2244;osoba
+3180000000;biegunki u dzieci do lat 2;2012;1707;osoba
+3180000000;biegunki u dzieci do lat 2;2013;1650;osoba
+3180000000;biegunki u dzieci do lat 2;2014;1895;osoba
+3180000000;biegunki u dzieci do lat 2;2015;1907;osoba
+3180000000;szkarlatyna (płonnica);2005;324;osoba
+3180000000;szkarlatyna (płonnica);2006;309;osoba
+3180000000;szkarlatyna (płonnica);2007;290;osoba
+3180000000;szkarlatyna (płonnica);2008;242;osoba
+3180000000;szkarlatyna (płonnica);2009;387;osoba
+3180000000;szkarlatyna (płonnica);2010;457;osoba
+3180000000;szkarlatyna (płonnica);2011;581;osoba
+3180000000;szkarlatyna (płonnica);2012;685;osoba
+3180000000;szkarlatyna (płonnica);2013;582;osoba
+3180000000;szkarlatyna (płonnica);2014;415;osoba
+3180000000;szkarlatyna (płonnica);2015;640;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;43;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;52;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;50;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;61;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;43;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;37;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;68;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;49;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;43;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;32;osoba
+3180000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;31;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2005;126;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2006;109;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2007;87;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2008;69;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2009;55;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2010;99;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2011;156;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2012;73;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2013;38;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2014;56;osoba
+3180000000;wirusowe zapalenie opon mózgowych;2015;56;osoba
+3180000000;wirusowe zapalenie mózgu;2005;48;osoba
+3180000000;wirusowe zapalenie mózgu;2006;52;osoba
+3180000000;wirusowe zapalenie mózgu;2007;44;osoba
+3180000000;wirusowe zapalenie mózgu;2008;46;osoba
+3180000000;wirusowe zapalenie mózgu;2009;46;osoba
+3180000000;wirusowe zapalenie mózgu;2010;26;osoba
+3180000000;wirusowe zapalenie mózgu;2011;29;osoba
+3180000000;wirusowe zapalenie mózgu;2012;21;osoba
+3180000000;wirusowe zapalenie mózgu;2013;23;osoba
+3180000000;wirusowe zapalenie mózgu;2014;7;osoba
+3180000000;wirusowe zapalenie mózgu;2015;10;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2005;1922;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2006;272;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2007;116;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2008;110;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2009;86;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2010;107;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2011;102;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2012;111;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2013;78;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2014;75;osoba
+3180000000;zapalenie przyusznicy nagminne (świnka);2015;70;osoba
+3180000000;włośnica;2005;0;osoba
+3180000000;włośnica;2006;1;osoba
+3180000000;włośnica;2007;0;osoba
+3180000000;włośnica;2008;1;osoba
+3180000000;włośnica;2009;0;osoba
+3180000000;włośnica;2010;0;osoba
+3180000000;włośnica;2011;0;osoba
+3180000000;włośnica;2012;0;osoba
+3180000000;włośnica;2013;0;osoba
+3180000000;włośnica;2014;0;osoba
+3180000000;włośnica;2015;0;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2005;13406;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2006;5042;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2007;8860;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2008;9236;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2009;47221;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2010;15936;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2011;46991;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2012;26376;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2013;71263;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2014;50849;osoba
+3180000000;grypa i podejrzenia zachorowań na grypę;2015;56889;osoba
+3180000000;szczepieni przeciw wściekliźnie;2005;704;osoba
+3180000000;szczepieni przeciw wściekliźnie;2006;619;osoba
+3180000000;szczepieni przeciw wściekliźnie;2007;542;osoba
+3180000000;szczepieni przeciw wściekliźnie;2008;577;osoba
+3180000000;szczepieni przeciw wściekliźnie;2009;488;osoba
+3180000000;szczepieni przeciw wściekliźnie;2010;588;osoba
+3180000000;szczepieni przeciw wściekliźnie;2011;822;osoba
+3180000000;szczepieni przeciw wściekliźnie;2012;1071;osoba
+3180000000;szczepieni przeciw wściekliźnie;2013;946;osoba
+3180000000;szczepieni przeciw wściekliźnie;2014;823;osoba
+3180000000;szczepieni przeciw wściekliźnie;2015;807;osoba
+3200000000;tężec;2005;0;osoba
+3200000000;tężec;2006;0;osoba
+3200000000;tężec;2007;1;osoba
+3200000000;tężec;2008;0;osoba
+3200000000;tężec;2009;1;osoba
+3200000000;tężec;2010;1;osoba
+3200000000;tężec;2011;0;osoba
+3200000000;tężec;2012;1;osoba
+3200000000;tężec;2013;1;osoba
+3200000000;tężec;2014;0;osoba
+3200000000;tężec;2015;0;osoba
+3200000000;krztusiec;2005;173;osoba
+3200000000;krztusiec;2006;479;osoba
+3200000000;krztusiec;2007;769;osoba
+3200000000;krztusiec;2008;351;osoba
+3200000000;krztusiec;2009;454;osoba
+3200000000;krztusiec;2010;271;osoba
+3200000000;krztusiec;2011;139;osoba
+3200000000;krztusiec;2012;407;osoba
+3200000000;krztusiec;2013;228;osoba
+3200000000;krztusiec;2014;87;osoba
+3200000000;krztusiec;2015;229;osoba
+3200000000;odra;2005;0;osoba
+3200000000;odra;2006;0;osoba
+3200000000;odra;2007;0;osoba
+3200000000;odra;2008;0;osoba
+3200000000;odra;2009;0;osoba
+3200000000;odra;2010;0;osoba
+3200000000;odra;2011;0;osoba
+3200000000;odra;2012;0;osoba
+3200000000;odra;2013;0;osoba
+3200000000;odra;2014;1;osoba
+3200000000;odra;2015;1;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2005;31;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2006;27;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2007;21;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2008;17;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2009;20;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2010;13;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2011;76;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2012;88;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2013;42;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2014;77;osoba
+3200000000;wirusowe zapalenie wątroby typu B;2015;116;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2005;28;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2006;29;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2007;30;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2008;27;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2009;18;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2010;30;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2011;98;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2012;66;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2013;37;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2014;61;osoba
+3200000000;wirusowe zapalenie wątroby typu C;2015;113;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2005;3;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2006;4;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2007;0;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2008;7;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2009;17;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2010;3;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2011;0;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2012;1;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2013;0;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2014;0;osoba
+3200000000;wirusowe zapalenie wątroby typu A;2015;1;osoba
+3200000000;różyczka;2005;193;osoba
+3200000000;różyczka;2006;300;osoba
+3200000000;różyczka;2007;464;osoba
+3200000000;różyczka;2008;826;osoba
+3200000000;różyczka;2009;1622;osoba
+3200000000;różyczka;2010;91;osoba
+3200000000;różyczka;2011;91;osoba
+3200000000;różyczka;2012;74;osoba
+3200000000;różyczka;2013;628;osoba
+3200000000;różyczka;2014;95;osoba
+3200000000;różyczka;2015;53;osoba
+3200000000;AIDS;2005;3;osoba
+3200000000;AIDS;2006;6;osoba
+3200000000;AIDS;2007;0;osoba
+3200000000;AIDS;2008;7;osoba
+3200000000;AIDS;2009;2;osoba
+3200000000;AIDS;2010;2;osoba
+3200000000;AIDS;2011;6;osoba
+3200000000;AIDS;2012;4;osoba
+3200000000;AIDS;2013;2;osoba
+3200000000;AIDS;2014;5;osoba
+3200000000;AIDS;2015;8;osoba
+3200000000;salmonellozy;2005;562;osoba
+3200000000;salmonellozy;2006;516;osoba
+3200000000;salmonellozy;2007;482;osoba
+3200000000;salmonellozy;2008;342;osoba
+3200000000;salmonellozy;2009;340;osoba
+3200000000;salmonellozy;2010;464;osoba
+3200000000;salmonellozy;2011;248;osoba
+3200000000;salmonellozy;2012;403;osoba
+3200000000;salmonellozy;2013;308;osoba
+3200000000;salmonellozy;2014;306;osoba
+3200000000;salmonellozy;2015;263;osoba
+3200000000;czerwonka bakteryjna;2005;0;osoba
+3200000000;czerwonka bakteryjna;2006;0;osoba
+3200000000;czerwonka bakteryjna;2007;19;osoba
+3200000000;czerwonka bakteryjna;2008;0;osoba
+3200000000;czerwonka bakteryjna;2009;1;osoba
+3200000000;czerwonka bakteryjna;2010;1;osoba
+3200000000;czerwonka bakteryjna;2011;0;osoba
+3200000000;czerwonka bakteryjna;2012;0;osoba
+3200000000;czerwonka bakteryjna;2013;0;osoba
+3200000000;czerwonka bakteryjna;2014;3;osoba
+3200000000;czerwonka bakteryjna;2015;0;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2005;321;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2006;281;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2007;125;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2008;104;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2009;35;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2010;70;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2011;35;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2012;44;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2013;31;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2014;38;osoba
+3200000000;inne bakteryjne zatrucia pokarmowe;2015;26;osoba
+3200000000;biegunki u dzieci do lat 2;2005;755;osoba
+3200000000;biegunki u dzieci do lat 2;2006;815;osoba
+3200000000;biegunki u dzieci do lat 2;2007;883;osoba
+3200000000;biegunki u dzieci do lat 2;2008;1164;osoba
+3200000000;biegunki u dzieci do lat 2;2009;1335;osoba
+3200000000;biegunki u dzieci do lat 2;2010;1055;osoba
+3200000000;biegunki u dzieci do lat 2;2011;1577;osoba
+3200000000;biegunki u dzieci do lat 2;2012;1193;osoba
+3200000000;biegunki u dzieci do lat 2;2013;1459;osoba
+3200000000;biegunki u dzieci do lat 2;2014;1211;osoba
+3200000000;biegunki u dzieci do lat 2;2015;1458;osoba
+3200000000;szkarlatyna (płonnica);2005;180;osoba
+3200000000;szkarlatyna (płonnica);2006;151;osoba
+3200000000;szkarlatyna (płonnica);2007;314;osoba
+3200000000;szkarlatyna (płonnica);2008;353;osoba
+3200000000;szkarlatyna (płonnica);2009;244;osoba
+3200000000;szkarlatyna (płonnica);2010;222;osoba
+3200000000;szkarlatyna (płonnica);2011;414;osoba
+3200000000;szkarlatyna (płonnica);2012;521;osoba
+3200000000;szkarlatyna (płonnica);2013;642;osoba
+3200000000;szkarlatyna (płonnica);2014;557;osoba
+3200000000;szkarlatyna (płonnica);2015;413;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;46;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;30;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;27;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;12;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;24;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;35;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;29;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;30;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;38;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;21;osoba
+3200000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;20;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2005;133;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2006;106;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2007;61;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2008;29;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2009;23;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2010;50;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2011;28;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2012;31;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2013;50;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2014;635;osoba
+3200000000;wirusowe zapalenie opon mózgowych;2015;117;osoba
+3200000000;wirusowe zapalenie mózgu;2005;104;osoba
+3200000000;wirusowe zapalenie mózgu;2006;166;osoba
+3200000000;wirusowe zapalenie mózgu;2007;105;osoba
+3200000000;wirusowe zapalenie mózgu;2008;105;osoba
+3200000000;wirusowe zapalenie mózgu;2009;144;osoba
+3200000000;wirusowe zapalenie mózgu;2010;139;osoba
+3200000000;wirusowe zapalenie mózgu;2011;93;osoba
+3200000000;wirusowe zapalenie mózgu;2012;111;osoba
+3200000000;wirusowe zapalenie mózgu;2013;120;osoba
+3200000000;wirusowe zapalenie mózgu;2014;135;osoba
+3200000000;wirusowe zapalenie mózgu;2015;87;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2005;951;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2006;512;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2007;98;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2008;97;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2009;103;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2010;96;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2011;82;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2012;84;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2013;67;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2014;59;osoba
+3200000000;zapalenie przyusznicy nagminne (świnka);2015;70;osoba
+3200000000;włośnica;2005;1;osoba
+3200000000;włośnica;2006;3;osoba
+3200000000;włośnica;2007;0;osoba
+3200000000;włośnica;2008;0;osoba
+3200000000;włośnica;2009;0;osoba
+3200000000;włośnica;2010;7;osoba
+3200000000;włośnica;2011;2;osoba
+3200000000;włośnica;2012;0;osoba
+3200000000;włośnica;2013;0;osoba
+3200000000;włośnica;2014;0;osoba
+3200000000;włośnica;2015;0;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2005;6995;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2006;8242;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2007;4581;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2008;3276;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2009;29483;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2010;18171;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2011;32813;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2012;36316;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2013;93981;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2014;64624;osoba
+3200000000;grypa i podejrzenia zachorowań na grypę;2015;74062;osoba
+3200000000;szczepieni przeciw wściekliźnie;2005;253;osoba
+3200000000;szczepieni przeciw wściekliźnie;2006;261;osoba
+3200000000;szczepieni przeciw wściekliźnie;2007;209;osoba
+3200000000;szczepieni przeciw wściekliźnie;2008;245;osoba
+3200000000;szczepieni przeciw wściekliźnie;2009;223;osoba
+3200000000;szczepieni przeciw wściekliźnie;2010;221;osoba
+3200000000;szczepieni przeciw wściekliźnie;2011;247;osoba
+3200000000;szczepieni przeciw wściekliźnie;2012;227;osoba
+3200000000;szczepieni przeciw wściekliźnie;2013;242;osoba
+3200000000;szczepieni przeciw wściekliźnie;2014;289;osoba
+3200000000;szczepieni przeciw wściekliźnie;2015;257;osoba
+3260000000;tężec;2005;0;osoba
+3260000000;tężec;2006;0;osoba
+3260000000;tężec;2007;1;osoba
+3260000000;tężec;2008;1;osoba
+3260000000;tężec;2009;0;osoba
+3260000000;tężec;2010;1;osoba
+3260000000;tężec;2011;0;osoba
+3260000000;tężec;2012;0;osoba
+3260000000;tężec;2013;0;osoba
+3260000000;tężec;2014;0;osoba
+3260000000;tężec;2015;0;osoba
+3260000000;krztusiec;2005;45;osoba
+3260000000;krztusiec;2006;34;osoba
+3260000000;krztusiec;2007;31;osoba
+3260000000;krztusiec;2008;18;osoba
+3260000000;krztusiec;2009;64;osoba
+3260000000;krztusiec;2010;37;osoba
+3260000000;krztusiec;2011;36;osoba
+3260000000;krztusiec;2012;92;osoba
+3260000000;krztusiec;2013;32;osoba
+3260000000;krztusiec;2014;35;osoba
+3260000000;krztusiec;2015;43;osoba
+3260000000;odra;2005;0;osoba
+3260000000;odra;2006;0;osoba
+3260000000;odra;2007;0;osoba
+3260000000;odra;2008;0;osoba
+3260000000;odra;2009;0;osoba
+3260000000;odra;2010;0;osoba
+3260000000;odra;2011;1;osoba
+3260000000;odra;2012;0;osoba
+3260000000;odra;2013;0;osoba
+3260000000;odra;2014;0;osoba
+3260000000;odra;2015;0;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2005;102;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2006;70;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2007;65;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2008;71;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2009;76;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2010;48;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2011;71;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2012;78;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2013;44;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2014;35;osoba
+3260000000;wirusowe zapalenie wątroby typu B;2015;53;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2005;202;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2006;207;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2007;174;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2008;159;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2009;149;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2010;77;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2011;97;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2012;90;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2013;74;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2014;101;osoba
+3260000000;wirusowe zapalenie wątroby typu C;2015;145;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2005;1;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2006;0;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2007;0;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2008;3;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2009;5;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2010;1;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2011;0;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2012;0;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2013;1;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2014;0;osoba
+3260000000;wirusowe zapalenie wątroby typu A;2015;0;osoba
+3260000000;różyczka;2005;340;osoba
+3260000000;różyczka;2006;905;osoba
+3260000000;różyczka;2007;2419;osoba
+3260000000;różyczka;2008;730;osoba
+3260000000;różyczka;2009;410;osoba
+3260000000;różyczka;2010;107;osoba
+3260000000;różyczka;2011;99;osoba
+3260000000;różyczka;2012;56;osoba
+3260000000;różyczka;2013;814;osoba
+3260000000;różyczka;2014;117;osoba
+3260000000;różyczka;2015;53;osoba
+3260000000;AIDS;2005;1;osoba
+3260000000;AIDS;2006;3;osoba
+3260000000;AIDS;2007;1;osoba
+3260000000;AIDS;2008;1;osoba
+3260000000;AIDS;2009;1;osoba
+3260000000;AIDS;2010;1;osoba
+3260000000;AIDS;2011;3;osoba
+3260000000;AIDS;2012;1;osoba
+3260000000;AIDS;2013;2;osoba
+3260000000;AIDS;2014;3;osoba
+3260000000;AIDS;2015;0;osoba
+3260000000;salmonellozy;2005;526;osoba
+3260000000;salmonellozy;2006;557;osoba
+3260000000;salmonellozy;2007;344;osoba
+3260000000;salmonellozy;2008;339;osoba
+3260000000;salmonellozy;2009;346;osoba
+3260000000;salmonellozy;2010;268;osoba
+3260000000;salmonellozy;2011;215;osoba
+3260000000;salmonellozy;2012;288;osoba
+3260000000;salmonellozy;2013;173;osoba
+3260000000;salmonellozy;2014;238;osoba
+3260000000;salmonellozy;2015;270;osoba
+3260000000;czerwonka bakteryjna;2005;0;osoba
+3260000000;czerwonka bakteryjna;2006;0;osoba
+3260000000;czerwonka bakteryjna;2007;0;osoba
+3260000000;czerwonka bakteryjna;2008;0;osoba
+3260000000;czerwonka bakteryjna;2009;0;osoba
+3260000000;czerwonka bakteryjna;2010;0;osoba
+3260000000;czerwonka bakteryjna;2011;0;osoba
+3260000000;czerwonka bakteryjna;2012;0;osoba
+3260000000;czerwonka bakteryjna;2013;0;osoba
+3260000000;czerwonka bakteryjna;2014;0;osoba
+3260000000;czerwonka bakteryjna;2015;0;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2005;63;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2006;97;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2007;83;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2008;64;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2009;84;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2010;17;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2011;32;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2012;91;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2013;95;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2014;115;osoba
+3260000000;inne bakteryjne zatrucia pokarmowe;2015;87;osoba
+3260000000;biegunki u dzieci do lat 2;2005;1136;osoba
+3260000000;biegunki u dzieci do lat 2;2006;1078;osoba
+3260000000;biegunki u dzieci do lat 2;2007;1031;osoba
+3260000000;biegunki u dzieci do lat 2;2008;1539;osoba
+3260000000;biegunki u dzieci do lat 2;2009;1415;osoba
+3260000000;biegunki u dzieci do lat 2;2010;1073;osoba
+3260000000;biegunki u dzieci do lat 2;2011;1398;osoba
+3260000000;biegunki u dzieci do lat 2;2012;1115;osoba
+3260000000;biegunki u dzieci do lat 2;2013;1136;osoba
+3260000000;biegunki u dzieci do lat 2;2014;1290;osoba
+3260000000;biegunki u dzieci do lat 2;2015;1172;osoba
+3260000000;szkarlatyna (płonnica);2005;230;osoba
+3260000000;szkarlatyna (płonnica);2006;254;osoba
+3260000000;szkarlatyna (płonnica);2007;229;osoba
+3260000000;szkarlatyna (płonnica);2008;331;osoba
+3260000000;szkarlatyna (płonnica);2009;667;osoba
+3260000000;szkarlatyna (płonnica);2010;471;osoba
+3260000000;szkarlatyna (płonnica);2011;371;osoba
+3260000000;szkarlatyna (płonnica);2012;452;osoba
+3260000000;szkarlatyna (płonnica);2013;393;osoba
+3260000000;szkarlatyna (płonnica);2014;462;osoba
+3260000000;szkarlatyna (płonnica);2015;811;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;50;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;37;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;46;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;41;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;24;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;34;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;35;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;25;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;28;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;31;osoba
+3260000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;22;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2005;30;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2006;47;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2007;43;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2008;34;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2009;22;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2010;44;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2011;32;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2012;26;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2013;18;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2014;22;osoba
+3260000000;wirusowe zapalenie opon mózgowych;2015;20;osoba
+3260000000;wirusowe zapalenie mózgu;2005;7;osoba
+3260000000;wirusowe zapalenie mózgu;2006;12;osoba
+3260000000;wirusowe zapalenie mózgu;2007;8;osoba
+3260000000;wirusowe zapalenie mózgu;2008;3;osoba
+3260000000;wirusowe zapalenie mózgu;2009;22;osoba
+3260000000;wirusowe zapalenie mózgu;2010;12;osoba
+3260000000;wirusowe zapalenie mózgu;2011;12;osoba
+3260000000;wirusowe zapalenie mózgu;2012;4;osoba
+3260000000;wirusowe zapalenie mózgu;2013;3;osoba
+3260000000;wirusowe zapalenie mózgu;2014;9;osoba
+3260000000;wirusowe zapalenie mózgu;2015;8;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2005;5664;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2006;2512;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2007;1019;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2008;158;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2009;128;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2010;99;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2011;72;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2012;94;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2013;63;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2014;69;osoba
+3260000000;zapalenie przyusznicy nagminne (świnka);2015;66;osoba
+3260000000;włośnica;2005;0;osoba
+3260000000;włośnica;2006;0;osoba
+3260000000;włośnica;2007;0;osoba
+3260000000;włośnica;2008;0;osoba
+3260000000;włośnica;2009;0;osoba
+3260000000;włośnica;2010;0;osoba
+3260000000;włośnica;2011;0;osoba
+3260000000;włośnica;2012;0;osoba
+3260000000;włośnica;2013;0;osoba
+3260000000;włośnica;2014;0;osoba
+3260000000;włośnica;2015;0;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2005;4683;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2006;969;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2007;5345;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2008;1812;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2009;10236;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2010;485;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2011;5281;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2012;6410;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2013;45362;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2014;30724;osoba
+3260000000;grypa i podejrzenia zachorowań na grypę;2015;63682;osoba
+3260000000;szczepieni przeciw wściekliźnie;2005;203;osoba
+3260000000;szczepieni przeciw wściekliźnie;2006;185;osoba
+3260000000;szczepieni przeciw wściekliźnie;2007;204;osoba
+3260000000;szczepieni przeciw wściekliźnie;2008;176;osoba
+3260000000;szczepieni przeciw wściekliźnie;2009;186;osoba
+3260000000;szczepieni przeciw wściekliźnie;2010;174;osoba
+3260000000;szczepieni przeciw wściekliźnie;2011;199;osoba
+3260000000;szczepieni przeciw wściekliźnie;2012;171;osoba
+3260000000;szczepieni przeciw wściekliźnie;2013;215;osoba
+3260000000;szczepieni przeciw wściekliźnie;2014;189;osoba
+3260000000;szczepieni przeciw wściekliźnie;2015;239;osoba
+4080000000;tężec;2005;0;osoba
+4080000000;tężec;2006;0;osoba
+4080000000;tężec;2007;0;osoba
+4080000000;tężec;2008;0;osoba
+4080000000;tężec;2009;0;osoba
+4080000000;tężec;2010;0;osoba
+4080000000;tężec;2011;0;osoba
+4080000000;tężec;2012;2;osoba
+4080000000;tężec;2013;1;osoba
+4080000000;tężec;2014;0;osoba
+4080000000;tężec;2015;1;osoba
+4080000000;krztusiec;2005;16;osoba
+4080000000;krztusiec;2006;4;osoba
+4080000000;krztusiec;2007;9;osoba
+4080000000;krztusiec;2008;11;osoba
+4080000000;krztusiec;2009;2;osoba
+4080000000;krztusiec;2010;3;osoba
+4080000000;krztusiec;2011;7;osoba
+4080000000;krztusiec;2012;23;osoba
+4080000000;krztusiec;2013;19;osoba
+4080000000;krztusiec;2014;1;osoba
+4080000000;krztusiec;2015;70;osoba
+4080000000;odra;2005;0;osoba
+4080000000;odra;2006;0;osoba
+4080000000;odra;2007;0;osoba
+4080000000;odra;2008;0;osoba
+4080000000;odra;2009;0;osoba
+4080000000;odra;2010;1;osoba
+4080000000;odra;2011;0;osoba
+4080000000;odra;2012;0;osoba
+4080000000;odra;2013;0;osoba
+4080000000;odra;2014;0;osoba
+4080000000;odra;2015;0;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2005;37;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2006;17;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2007;13;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2008;12;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2009;18;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2010;31;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2011;37;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2012;35;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2013;30;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2014;61;osoba
+4080000000;wirusowe zapalenie wątroby typu B;2015;68;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2005;113;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2006;27;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2007;28;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2008;29;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2009;79;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2010;134;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2011;164;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2012;140;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2013;152;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2014;162;osoba
+4080000000;wirusowe zapalenie wątroby typu C;2015;184;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2005;0;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2006;3;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2007;0;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2008;1;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2009;0;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2010;1;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2011;0;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2012;1;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2013;0;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2014;1;osoba
+4080000000;wirusowe zapalenie wątroby typu A;2015;0;osoba
+4080000000;różyczka;2005;143;osoba
+4080000000;różyczka;2006;275;osoba
+4080000000;różyczka;2007;170;osoba
+4080000000;różyczka;2008;241;osoba
+4080000000;różyczka;2009;197;osoba
+4080000000;różyczka;2010;201;osoba
+4080000000;różyczka;2011;254;osoba
+4080000000;różyczka;2012;117;osoba
+4080000000;różyczka;2013;2153;osoba
+4080000000;różyczka;2014;249;osoba
+4080000000;różyczka;2015;99;osoba
+4080000000;AIDS;2005;2;osoba
+4080000000;AIDS;2006;2;osoba
+4080000000;AIDS;2007;6;osoba
+4080000000;AIDS;2008;6;osoba
+4080000000;AIDS;2009;5;osoba
+4080000000;AIDS;2010;7;osoba
+4080000000;AIDS;2011;12;osoba
+4080000000;AIDS;2012;1;osoba
+4080000000;AIDS;2013;0;osoba
+4080000000;AIDS;2014;0;osoba
+4080000000;AIDS;2015;1;osoba
+4080000000;salmonellozy;2005;468;osoba
+4080000000;salmonellozy;2006;342;osoba
+4080000000;salmonellozy;2007;254;osoba
+4080000000;salmonellozy;2008;197;osoba
+4080000000;salmonellozy;2009;162;osoba
+4080000000;salmonellozy;2010;201;osoba
+4080000000;salmonellozy;2011;135;osoba
+4080000000;salmonellozy;2012;127;osoba
+4080000000;salmonellozy;2013;139;osoba
+4080000000;salmonellozy;2014;101;osoba
+4080000000;salmonellozy;2015;139;osoba
+4080000000;czerwonka bakteryjna;2005;0;osoba
+4080000000;czerwonka bakteryjna;2006;1;osoba
+4080000000;czerwonka bakteryjna;2007;0;osoba
+4080000000;czerwonka bakteryjna;2008;1;osoba
+4080000000;czerwonka bakteryjna;2009;0;osoba
+4080000000;czerwonka bakteryjna;2010;0;osoba
+4080000000;czerwonka bakteryjna;2011;0;osoba
+4080000000;czerwonka bakteryjna;2012;0;osoba
+4080000000;czerwonka bakteryjna;2013;2;osoba
+4080000000;czerwonka bakteryjna;2014;0;osoba
+4080000000;czerwonka bakteryjna;2015;0;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2005;96;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2006;147;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2007;64;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2008;58;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2009;2;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2010;54;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2011;0;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2012;29;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2013;4;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2014;145;osoba
+4080000000;inne bakteryjne zatrucia pokarmowe;2015;108;osoba
+4080000000;biegunki u dzieci do lat 2;2005;65;osoba
+4080000000;biegunki u dzieci do lat 2;2006;184;osoba
+4080000000;biegunki u dzieci do lat 2;2007;489;osoba
+4080000000;biegunki u dzieci do lat 2;2008;630;osoba
+4080000000;biegunki u dzieci do lat 2;2009;1144;osoba
+4080000000;biegunki u dzieci do lat 2;2010;933;osoba
+4080000000;biegunki u dzieci do lat 2;2011;1041;osoba
+4080000000;biegunki u dzieci do lat 2;2012;993;osoba
+4080000000;biegunki u dzieci do lat 2;2013;1000;osoba
+4080000000;biegunki u dzieci do lat 2;2014;986;osoba
+4080000000;biegunki u dzieci do lat 2;2015;1134;osoba
+4080000000;szkarlatyna (płonnica);2005;227;osoba
+4080000000;szkarlatyna (płonnica);2006;577;osoba
+4080000000;szkarlatyna (płonnica);2007;546;osoba
+4080000000;szkarlatyna (płonnica);2008;414;osoba
+4080000000;szkarlatyna (płonnica);2009;428;osoba
+4080000000;szkarlatyna (płonnica);2010;379;osoba
+4080000000;szkarlatyna (płonnica);2011;587;osoba
+4080000000;szkarlatyna (płonnica);2012;584;osoba
+4080000000;szkarlatyna (płonnica);2013;992;osoba
+4080000000;szkarlatyna (płonnica);2014;809;osoba
+4080000000;szkarlatyna (płonnica);2015;643;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;37;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;26;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;37;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;33;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;21;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;26;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;26;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;23;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;17;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;25;osoba
+4080000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;19;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2005;13;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2006;11;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2007;20;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2008;4;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2009;10;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2010;13;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2011;7;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2012;16;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2013;3;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2014;8;osoba
+4080000000;wirusowe zapalenie opon mózgowych;2015;36;osoba
+4080000000;wirusowe zapalenie mózgu;2005;0;osoba
+4080000000;wirusowe zapalenie mózgu;2006;0;osoba
+4080000000;wirusowe zapalenie mózgu;2007;1;osoba
+4080000000;wirusowe zapalenie mózgu;2008;3;osoba
+4080000000;wirusowe zapalenie mózgu;2009;3;osoba
+4080000000;wirusowe zapalenie mózgu;2010;1;osoba
+4080000000;wirusowe zapalenie mózgu;2011;6;osoba
+4080000000;wirusowe zapalenie mózgu;2012;0;osoba
+4080000000;wirusowe zapalenie mózgu;2013;7;osoba
+4080000000;wirusowe zapalenie mózgu;2014;3;osoba
+4080000000;wirusowe zapalenie mózgu;2015;1;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2005;248;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2006;171;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2007;88;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2008;89;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2009;115;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2010;124;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2011;108;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2012;78;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2013;83;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2014;69;osoba
+4080000000;zapalenie przyusznicy nagminne (świnka);2015;70;osoba
+4080000000;włośnica;2005;1;osoba
+4080000000;włośnica;2006;0;osoba
+4080000000;włośnica;2007;0;osoba
+4080000000;włośnica;2008;0;osoba
+4080000000;włośnica;2009;5;osoba
+4080000000;włośnica;2010;0;osoba
+4080000000;włośnica;2011;1;osoba
+4080000000;włośnica;2012;0;osoba
+4080000000;włośnica;2013;1;osoba
+4080000000;włośnica;2014;0;osoba
+4080000000;włośnica;2015;12;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2005;17641;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2006;1228;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2007;10742;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2008;3181;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2009;38116;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2010;2748;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2011;5826;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2012;2309;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2013;25444;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2014;18430;osoba
+4080000000;grypa i podejrzenia zachorowań na grypę;2015;35163;osoba
+4080000000;szczepieni przeciw wściekliźnie;2005;99;osoba
+4080000000;szczepieni przeciw wściekliźnie;2006;136;osoba
+4080000000;szczepieni przeciw wściekliźnie;2007;140;osoba
+4080000000;szczepieni przeciw wściekliźnie;2008;131;osoba
+4080000000;szczepieni przeciw wściekliźnie;2009;126;osoba
+4080000000;szczepieni przeciw wściekliźnie;2010;126;osoba
+4080000000;szczepieni przeciw wściekliźnie;2011;111;osoba
+4080000000;szczepieni przeciw wściekliźnie;2012;110;osoba
+4080000000;szczepieni przeciw wściekliźnie;2013;129;osoba
+4080000000;szczepieni przeciw wściekliźnie;2014;140;osoba
+4080000000;szczepieni przeciw wściekliźnie;2015;118;osoba
+4300000000;tężec;2005;0;osoba
+4300000000;tężec;2006;1;osoba
+4300000000;tężec;2007;3;osoba
+4300000000;tężec;2008;0;osoba
+4300000000;tężec;2009;0;osoba
+4300000000;tężec;2010;1;osoba
+4300000000;tężec;2011;1;osoba
+4300000000;tężec;2012;0;osoba
+4300000000;tężec;2013;1;osoba
+4300000000;tężec;2014;1;osoba
+4300000000;tężec;2015;0;osoba
+4300000000;krztusiec;2005;136;osoba
+4300000000;krztusiec;2006;35;osoba
+4300000000;krztusiec;2007;47;osoba
+4300000000;krztusiec;2008;119;osoba
+4300000000;krztusiec;2009;132;osoba
+4300000000;krztusiec;2010;52;osoba
+4300000000;krztusiec;2011;59;osoba
+4300000000;krztusiec;2012;767;osoba
+4300000000;krztusiec;2013;191;osoba
+4300000000;krztusiec;2014;133;osoba
+4300000000;krztusiec;2015;498;osoba
+4300000000;odra;2005;0;osoba
+4300000000;odra;2006;16;osoba
+4300000000;odra;2007;0;osoba
+4300000000;odra;2008;10;osoba
+4300000000;odra;2009;11;osoba
+4300000000;odra;2010;0;osoba
+4300000000;odra;2011;0;osoba
+4300000000;odra;2012;1;osoba
+4300000000;odra;2013;1;osoba
+4300000000;odra;2014;68;osoba
+4300000000;odra;2015;7;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2005;139;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2006;175;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2007;178;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2008;130;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2009;192;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2010;324;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2011;263;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2012;249;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2013;242;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2014;327;osoba
+4300000000;wirusowe zapalenie wątroby typu B;2015;418;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2005;251;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2006;391;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2007;343;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2008;303;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2009;383;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2010;364;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2011;317;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2012;274;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2013;364;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2014;393;osoba
+4300000000;wirusowe zapalenie wątroby typu C;2015;408;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2005;3;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2006;23;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2007;5;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2008;9;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2009;70;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2010;35;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2011;7;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2012;3;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2013;9;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2014;10;osoba
+4300000000;wirusowe zapalenie wątroby typu A;2015;2;osoba
+4300000000;różyczka;2005;761;osoba
+4300000000;różyczka;2006;1460;osoba
+4300000000;różyczka;2007;1108;osoba
+4300000000;różyczka;2008;1647;osoba
+4300000000;różyczka;2009;1227;osoba
+4300000000;różyczka;2010;357;osoba
+4300000000;różyczka;2011;441;osoba
+4300000000;różyczka;2012;320;osoba
+4300000000;różyczka;2013;7813;osoba
+4300000000;różyczka;2014;693;osoba
+4300000000;różyczka;2015;237;osoba
+4300000000;AIDS;2005;6;osoba
+4300000000;AIDS;2006;12;osoba
+4300000000;AIDS;2007;2;osoba
+4300000000;AIDS;2008;12;osoba
+4300000000;AIDS;2009;7;osoba
+4300000000;AIDS;2010;11;osoba
+4300000000;AIDS;2011;16;osoba
+4300000000;AIDS;2012;9;osoba
+4300000000;AIDS;2013;19;osoba
+4300000000;AIDS;2014;8;osoba
+4300000000;AIDS;2015;8;osoba
+4300000000;salmonellozy;2005;1156;osoba
+4300000000;salmonellozy;2006;971;osoba
+4300000000;salmonellozy;2007;977;osoba
+4300000000;salmonellozy;2008;627;osoba
+4300000000;salmonellozy;2009;729;osoba
+4300000000;salmonellozy;2010;700;osoba
+4300000000;salmonellozy;2011;623;osoba
+4300000000;salmonellozy;2012;684;osoba
+4300000000;salmonellozy;2013;701;osoba
+4300000000;salmonellozy;2014;652;osoba
+4300000000;salmonellozy;2015;751;osoba
+4300000000;czerwonka bakteryjna;2005;0;osoba
+4300000000;czerwonka bakteryjna;2006;9;osoba
+4300000000;czerwonka bakteryjna;2007;2;osoba
+4300000000;czerwonka bakteryjna;2008;2;osoba
+4300000000;czerwonka bakteryjna;2009;0;osoba
+4300000000;czerwonka bakteryjna;2010;2;osoba
+4300000000;czerwonka bakteryjna;2011;1;osoba
+4300000000;czerwonka bakteryjna;2012;1;osoba
+4300000000;czerwonka bakteryjna;2013;0;osoba
+4300000000;czerwonka bakteryjna;2014;4;osoba
+4300000000;czerwonka bakteryjna;2015;0;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2005;160;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2006;96;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2007;121;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2008;83;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2009;63;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2010;57;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2011;53;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2012;28;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2013;12;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2014;48;osoba
+4300000000;inne bakteryjne zatrucia pokarmowe;2015;48;osoba
+4300000000;biegunki u dzieci do lat 2;2005;1737;osoba
+4300000000;biegunki u dzieci do lat 2;2006;2300;osoba
+4300000000;biegunki u dzieci do lat 2;2007;2677;osoba
+4300000000;biegunki u dzieci do lat 2;2008;4089;osoba
+4300000000;biegunki u dzieci do lat 2;2009;3788;osoba
+4300000000;biegunki u dzieci do lat 2;2010;3547;osoba
+4300000000;biegunki u dzieci do lat 2;2011;3913;osoba
+4300000000;biegunki u dzieci do lat 2;2012;3539;osoba
+4300000000;biegunki u dzieci do lat 2;2013;3501;osoba
+4300000000;biegunki u dzieci do lat 2;2014;3978;osoba
+4300000000;biegunki u dzieci do lat 2;2015;4429;osoba
+4300000000;szkarlatyna (płonnica);2005;908;osoba
+4300000000;szkarlatyna (płonnica);2006;1153;osoba
+4300000000;szkarlatyna (płonnica);2007;931;osoba
+4300000000;szkarlatyna (płonnica);2008;1151;osoba
+4300000000;szkarlatyna (płonnica);2009;1246;osoba
+4300000000;szkarlatyna (płonnica);2010;1337;osoba
+4300000000;szkarlatyna (płonnica);2011;1864;osoba
+4300000000;szkarlatyna (płonnica);2012;1886;osoba
+4300000000;szkarlatyna (płonnica);2013;2324;osoba
+4300000000;szkarlatyna (płonnica);2014;1997;osoba
+4300000000;szkarlatyna (płonnica);2015;2111;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;69;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;90;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;74;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;80;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;98;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;66;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;73;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;41;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;68;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;62;osoba
+4300000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;56;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2005;77;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2006;105;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2007;78;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2008;66;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2009;62;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2010;133;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2011;98;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2012;74;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2013;99;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2014;101;osoba
+4300000000;wirusowe zapalenie opon mózgowych;2015;64;osoba
+4300000000;wirusowe zapalenie mózgu;2005;32;osoba
+4300000000;wirusowe zapalenie mózgu;2006;51;osoba
+4300000000;wirusowe zapalenie mózgu;2007;35;osoba
+4300000000;wirusowe zapalenie mózgu;2008;23;osoba
+4300000000;wirusowe zapalenie mózgu;2009;14;osoba
+4300000000;wirusowe zapalenie mózgu;2010;16;osoba
+4300000000;wirusowe zapalenie mózgu;2011;21;osoba
+4300000000;wirusowe zapalenie mózgu;2012;17;osoba
+4300000000;wirusowe zapalenie mózgu;2013;14;osoba
+4300000000;wirusowe zapalenie mózgu;2014;17;osoba
+4300000000;wirusowe zapalenie mózgu;2015;11;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2005;12669;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2006;2795;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2007;315;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2008;349;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2009;340;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2010;295;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2011;284;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2012;240;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2013;260;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2014;229;osoba
+4300000000;zapalenie przyusznicy nagminne (świnka);2015;192;osoba
+4300000000;włośnica;2005;58;osoba
+4300000000;włośnica;2006;67;osoba
+4300000000;włośnica;2007;34;osoba
+4300000000;włośnica;2008;1;osoba
+4300000000;włośnica;2009;18;osoba
+4300000000;włośnica;2010;16;osoba
+4300000000;włośnica;2011;8;osoba
+4300000000;włośnica;2012;0;osoba
+4300000000;włośnica;2013;0;osoba
+4300000000;włośnica;2014;0;osoba
+4300000000;włośnica;2015;0;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2005;52260;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2006;10327;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2007;8213;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2008;13294;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2009;81101;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2010;83865;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2011;204540;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2012;236793;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2013;390393;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2014;422561;osoba
+4300000000;grypa i podejrzenia zachorowań na grypę;2015;545827;osoba
+4300000000;szczepieni przeciw wściekliźnie;2005;562;osoba
+4300000000;szczepieni przeciw wściekliźnie;2006;534;osoba
+4300000000;szczepieni przeciw wściekliźnie;2007;566;osoba
+4300000000;szczepieni przeciw wściekliźnie;2008;552;osoba
+4300000000;szczepieni przeciw wściekliźnie;2009;513;osoba
+4300000000;szczepieni przeciw wściekliźnie;2010;502;osoba
+4300000000;szczepieni przeciw wściekliźnie;2011;507;osoba
+4300000000;szczepieni przeciw wściekliźnie;2012;532;osoba
+4300000000;szczepieni przeciw wściekliźnie;2013;522;osoba
+4300000000;szczepieni przeciw wściekliźnie;2014;550;osoba
+4300000000;szczepieni przeciw wściekliźnie;2015;497;osoba
+4320000000;tężec;2005;0;osoba
+4320000000;tężec;2006;0;osoba
+4320000000;tężec;2007;1;osoba
+4320000000;tężec;2008;1;osoba
+4320000000;tężec;2009;0;osoba
+4320000000;tężec;2010;1;osoba
+4320000000;tężec;2011;0;osoba
+4320000000;tężec;2012;0;osoba
+4320000000;tężec;2013;0;osoba
+4320000000;tężec;2014;0;osoba
+4320000000;tężec;2015;1;osoba
+4320000000;krztusiec;2005;2;osoba
+4320000000;krztusiec;2006;3;osoba
+4320000000;krztusiec;2007;2;osoba
+4320000000;krztusiec;2008;49;osoba
+4320000000;krztusiec;2009;96;osoba
+4320000000;krztusiec;2010;12;osoba
+4320000000;krztusiec;2011;45;osoba
+4320000000;krztusiec;2012;63;osoba
+4320000000;krztusiec;2013;35;osoba
+4320000000;krztusiec;2014;16;osoba
+4320000000;krztusiec;2015;131;osoba
+4320000000;odra;2005;0;osoba
+4320000000;odra;2006;3;osoba
+4320000000;odra;2007;1;osoba
+4320000000;odra;2008;3;osoba
+4320000000;odra;2009;0;osoba
+4320000000;odra;2010;0;osoba
+4320000000;odra;2011;1;osoba
+4320000000;odra;2012;1;osoba
+4320000000;odra;2013;13;osoba
+4320000000;odra;2014;1;osoba
+4320000000;odra;2015;11;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2005;42;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2006;31;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2007;31;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2008;29;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2009;30;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2010;30;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2011;35;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2012;27;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2013;22;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2014;40;osoba
+4320000000;wirusowe zapalenie wątroby typu B;2015;161;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2005;85;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2006;101;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2007;75;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2008;47;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2009;56;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2010;49;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2011;65;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2012;42;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2013;46;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2014;84;osoba
+4320000000;wirusowe zapalenie wątroby typu C;2015;214;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2005;5;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2006;3;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2007;0;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2008;5;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2009;9;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2010;5;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2011;3;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2012;3;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2013;1;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2014;4;osoba
+4320000000;wirusowe zapalenie wątroby typu A;2015;0;osoba
+4320000000;różyczka;2005;255;osoba
+4320000000;różyczka;2006;1560;osoba
+4320000000;różyczka;2007;296;osoba
+4320000000;różyczka;2008;444;osoba
+4320000000;różyczka;2009;230;osoba
+4320000000;różyczka;2010;178;osoba
+4320000000;różyczka;2011;394;osoba
+4320000000;różyczka;2012;287;osoba
+4320000000;różyczka;2013;1559;osoba
+4320000000;różyczka;2014;217;osoba
+4320000000;różyczka;2015;145;osoba
+4320000000;AIDS;2005;1;osoba
+4320000000;AIDS;2006;9;osoba
+4320000000;AIDS;2007;2;osoba
+4320000000;AIDS;2008;1;osoba
+4320000000;AIDS;2009;2;osoba
+4320000000;AIDS;2010;9;osoba
+4320000000;AIDS;2011;10;osoba
+4320000000;AIDS;2012;15;osoba
+4320000000;AIDS;2013;18;osoba
+4320000000;AIDS;2014;9;osoba
+4320000000;AIDS;2015;9;osoba
+4320000000;salmonellozy;2005;817;osoba
+4320000000;salmonellozy;2006;421;osoba
+4320000000;salmonellozy;2007;409;osoba
+4320000000;salmonellozy;2008;322;osoba
+4320000000;salmonellozy;2009;466;osoba
+4320000000;salmonellozy;2010;381;osoba
+4320000000;salmonellozy;2011;342;osoba
+4320000000;salmonellozy;2012;214;osoba
+4320000000;salmonellozy;2013;290;osoba
+4320000000;salmonellozy;2014;173;osoba
+4320000000;salmonellozy;2015;236;osoba
+4320000000;czerwonka bakteryjna;2005;11;osoba
+4320000000;czerwonka bakteryjna;2006;0;osoba
+4320000000;czerwonka bakteryjna;2007;1;osoba
+4320000000;czerwonka bakteryjna;2008;3;osoba
+4320000000;czerwonka bakteryjna;2009;1;osoba
+4320000000;czerwonka bakteryjna;2010;0;osoba
+4320000000;czerwonka bakteryjna;2011;1;osoba
+4320000000;czerwonka bakteryjna;2012;1;osoba
+4320000000;czerwonka bakteryjna;2013;0;osoba
+4320000000;czerwonka bakteryjna;2014;0;osoba
+4320000000;czerwonka bakteryjna;2015;0;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2005;452;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2006;454;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2007;404;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2008;104;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2009;132;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2010;218;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2011;302;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2012;72;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2013;123;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2014;8;osoba
+4320000000;inne bakteryjne zatrucia pokarmowe;2015;72;osoba
+4320000000;biegunki u dzieci do lat 2;2005;451;osoba
+4320000000;biegunki u dzieci do lat 2;2006;730;osoba
+4320000000;biegunki u dzieci do lat 2;2007;767;osoba
+4320000000;biegunki u dzieci do lat 2;2008;909;osoba
+4320000000;biegunki u dzieci do lat 2;2009;695;osoba
+4320000000;biegunki u dzieci do lat 2;2010;829;osoba
+4320000000;biegunki u dzieci do lat 2;2011;1321;osoba
+4320000000;biegunki u dzieci do lat 2;2012;1390;osoba
+4320000000;biegunki u dzieci do lat 2;2013;1684;osoba
+4320000000;biegunki u dzieci do lat 2;2014;2003;osoba
+4320000000;biegunki u dzieci do lat 2;2015;1800;osoba
+4320000000;szkarlatyna (płonnica);2005;285;osoba
+4320000000;szkarlatyna (płonnica);2006;294;osoba
+4320000000;szkarlatyna (płonnica);2007;193;osoba
+4320000000;szkarlatyna (płonnica);2008;226;osoba
+4320000000;szkarlatyna (płonnica);2009;355;osoba
+4320000000;szkarlatyna (płonnica);2010;639;osoba
+4320000000;szkarlatyna (płonnica);2011;701;osoba
+4320000000;szkarlatyna (płonnica);2012;1135;osoba
+4320000000;szkarlatyna (płonnica);2013;813;osoba
+4320000000;szkarlatyna (płonnica);2014;923;osoba
+4320000000;szkarlatyna (płonnica);2015;1416;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;50;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;48;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;44;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;52;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;31;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;30;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;34;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;31;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;40;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;35;osoba
+4320000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;48;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2005;99;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2006;84;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2007;99;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2008;18;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2009;22;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2010;50;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2011;60;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2012;39;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2013;34;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2014;50;osoba
+4320000000;wirusowe zapalenie opon mózgowych;2015;64;osoba
+4320000000;wirusowe zapalenie mózgu;2005;1;osoba
+4320000000;wirusowe zapalenie mózgu;2006;12;osoba
+4320000000;wirusowe zapalenie mózgu;2007;4;osoba
+4320000000;wirusowe zapalenie mózgu;2008;6;osoba
+4320000000;wirusowe zapalenie mózgu;2009;9;osoba
+4320000000;wirusowe zapalenie mózgu;2010;12;osoba
+4320000000;wirusowe zapalenie mózgu;2011;10;osoba
+4320000000;wirusowe zapalenie mózgu;2012;9;osoba
+4320000000;wirusowe zapalenie mózgu;2013;9;osoba
+4320000000;wirusowe zapalenie mózgu;2014;6;osoba
+4320000000;wirusowe zapalenie mózgu;2015;10;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2005;2155;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2006;192;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2007;68;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2008;167;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2009;157;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2010;105;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2011;102;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2012;163;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2013;137;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2014;153;osoba
+4320000000;zapalenie przyusznicy nagminne (świnka);2015;135;osoba
+4320000000;włośnica;2005;1;osoba
+4320000000;włośnica;2006;4;osoba
+4320000000;włośnica;2007;234;osoba
+4320000000;włośnica;2008;1;osoba
+4320000000;włośnica;2009;4;osoba
+4320000000;włośnica;2010;0;osoba
+4320000000;włośnica;2011;0;osoba
+4320000000;włośnica;2012;0;osoba
+4320000000;włośnica;2013;0;osoba
+4320000000;włośnica;2014;8;osoba
+4320000000;włośnica;2015;0;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2005;18441;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2006;5701;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2007;10727;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2008;10034;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2009;43052;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2010;12401;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2011;21991;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2012;20202;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2013;63304;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2014;55883;osoba
+4320000000;grypa i podejrzenia zachorowań na grypę;2015;73601;osoba
+4320000000;szczepieni przeciw wściekliźnie;2005;426;osoba
+4320000000;szczepieni przeciw wściekliźnie;2006;362;osoba
+4320000000;szczepieni przeciw wściekliźnie;2007;407;osoba
+4320000000;szczepieni przeciw wściekliźnie;2008;366;osoba
+4320000000;szczepieni przeciw wściekliźnie;2009;374;osoba
+4320000000;szczepieni przeciw wściekliźnie;2010;341;osoba
+4320000000;szczepieni przeciw wściekliźnie;2011;343;osoba
+4320000000;szczepieni przeciw wściekliźnie;2012;369;osoba
+4320000000;szczepieni przeciw wściekliźnie;2013;329;osoba
+4320000000;szczepieni przeciw wściekliźnie;2014;416;osoba
+4320000000;szczepieni przeciw wściekliźnie;2015;372;osoba
+5020000000;tężec;2005;1;osoba
+5020000000;tężec;2006;3;osoba
+5020000000;tężec;2007;0;osoba
+5020000000;tężec;2008;1;osoba
+5020000000;tężec;2009;2;osoba
+5020000000;tężec;2010;1;osoba
+5020000000;tężec;2011;3;osoba
+5020000000;tężec;2012;1;osoba
+5020000000;tężec;2013;1;osoba
+5020000000;tężec;2014;0;osoba
+5020000000;tężec;2015;1;osoba
+5020000000;krztusiec;2005;29;osoba
+5020000000;krztusiec;2006;9;osoba
+5020000000;krztusiec;2007;19;osoba
+5020000000;krztusiec;2008;33;osoba
+5020000000;krztusiec;2009;52;osoba
+5020000000;krztusiec;2010;46;osoba
+5020000000;krztusiec;2011;72;osoba
+5020000000;krztusiec;2012;221;osoba
+5020000000;krztusiec;2013;98;osoba
+5020000000;krztusiec;2014;96;osoba
+5020000000;krztusiec;2015;149;osoba
+5020000000;odra;2005;0;osoba
+5020000000;odra;2006;4;osoba
+5020000000;odra;2007;2;osoba
+5020000000;odra;2008;14;osoba
+5020000000;odra;2009;9;osoba
+5020000000;odra;2010;0;osoba
+5020000000;odra;2011;0;osoba
+5020000000;odra;2012;18;osoba
+5020000000;odra;2013;1;osoba
+5020000000;odra;2014;0;osoba
+5020000000;odra;2015;4;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2005;218;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2006;182;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2007;130;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2008;137;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2009;164;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2010;114;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2011;122;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2012;100;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2013;84;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2014;220;osoba
+5020000000;wirusowe zapalenie wątroby typu B;2015;253;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2005;363;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2006;342;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2007;293;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2008;331;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2009;235;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2010;307;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2011;279;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2012;255;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2013;268;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2014;354;osoba
+5020000000;wirusowe zapalenie wątroby typu C;2015;423;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2005;2;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2006;6;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2007;3;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2008;7;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2009;38;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2010;9;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2011;2;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2012;7;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2013;6;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2014;2;osoba
+5020000000;wirusowe zapalenie wątroby typu A;2015;1;osoba
+5020000000;różyczka;2005;1003;osoba
+5020000000;różyczka;2006;905;osoba
+5020000000;różyczka;2007;408;osoba
+5020000000;różyczka;2008;452;osoba
+5020000000;różyczka;2009;311;osoba
+5020000000;różyczka;2010;615;osoba
+5020000000;różyczka;2011;552;osoba
+5020000000;różyczka;2012;138;osoba
+5020000000;różyczka;2013;527;osoba
+5020000000;różyczka;2014;234;osoba
+5020000000;różyczka;2015;134;osoba
+5020000000;AIDS;2005;53;osoba
+5020000000;AIDS;2006;42;osoba
+5020000000;AIDS;2007;50;osoba
+5020000000;AIDS;2008;37;osoba
+5020000000;AIDS;2009;37;osoba
+5020000000;AIDS;2010;32;osoba
+5020000000;AIDS;2011;34;osoba
+5020000000;AIDS;2012;23;osoba
+5020000000;AIDS;2013;40;osoba
+5020000000;AIDS;2014;22;osoba
+5020000000;AIDS;2015;25;osoba
+5020000000;salmonellozy;2005;857;osoba
+5020000000;salmonellozy;2006;675;osoba
+5020000000;salmonellozy;2007;548;osoba
+5020000000;salmonellozy;2008;431;osoba
+5020000000;salmonellozy;2009;337;osoba
+5020000000;salmonellozy;2010;360;osoba
+5020000000;salmonellozy;2011;310;osoba
+5020000000;salmonellozy;2012;317;osoba
+5020000000;salmonellozy;2013;304;osoba
+5020000000;salmonellozy;2014;357;osoba
+5020000000;salmonellozy;2015;447;osoba
+5020000000;czerwonka bakteryjna;2005;0;osoba
+5020000000;czerwonka bakteryjna;2006;8;osoba
+5020000000;czerwonka bakteryjna;2007;19;osoba
+5020000000;czerwonka bakteryjna;2008;2;osoba
+5020000000;czerwonka bakteryjna;2009;1;osoba
+5020000000;czerwonka bakteryjna;2010;0;osoba
+5020000000;czerwonka bakteryjna;2011;2;osoba
+5020000000;czerwonka bakteryjna;2012;0;osoba
+5020000000;czerwonka bakteryjna;2013;1;osoba
+5020000000;czerwonka bakteryjna;2014;0;osoba
+5020000000;czerwonka bakteryjna;2015;0;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2005;419;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2006;244;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2007;319;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2008;232;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2009;171;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2010;287;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2011;287;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2012;299;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2013;152;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2014;157;osoba
+5020000000;inne bakteryjne zatrucia pokarmowe;2015;163;osoba
+5020000000;biegunki u dzieci do lat 2;2005;999;osoba
+5020000000;biegunki u dzieci do lat 2;2006;1330;osoba
+5020000000;biegunki u dzieci do lat 2;2007;1387;osoba
+5020000000;biegunki u dzieci do lat 2;2008;1649;osoba
+5020000000;biegunki u dzieci do lat 2;2009;1548;osoba
+5020000000;biegunki u dzieci do lat 2;2010;1454;osoba
+5020000000;biegunki u dzieci do lat 2;2011;2462;osoba
+5020000000;biegunki u dzieci do lat 2;2012;1623;osoba
+5020000000;biegunki u dzieci do lat 2;2013;1932;osoba
+5020000000;biegunki u dzieci do lat 2;2014;2053;osoba
+5020000000;biegunki u dzieci do lat 2;2015;2257;osoba
+5020000000;szkarlatyna (płonnica);2005;905;osoba
+5020000000;szkarlatyna (płonnica);2006;1657;osoba
+5020000000;szkarlatyna (płonnica);2007;1303;osoba
+5020000000;szkarlatyna (płonnica);2008;709;osoba
+5020000000;szkarlatyna (płonnica);2009;830;osoba
+5020000000;szkarlatyna (płonnica);2010;692;osoba
+5020000000;szkarlatyna (płonnica);2011;1350;osoba
+5020000000;szkarlatyna (płonnica);2012;1745;osoba
+5020000000;szkarlatyna (płonnica);2013;1133;osoba
+5020000000;szkarlatyna (płonnica);2014;1270;osoba
+5020000000;szkarlatyna (płonnica);2015;1385;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;42;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;82;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;89;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;61;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;57;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;42;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;55;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;44;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;62;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;48;osoba
+5020000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;57;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2005;40;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2006;46;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2007;38;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2008;55;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2009;33;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2010;57;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2011;53;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2012;64;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2013;71;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2014;77;osoba
+5020000000;wirusowe zapalenie opon mózgowych;2015;61;osoba
+5020000000;wirusowe zapalenie mózgu;2005;16;osoba
+5020000000;wirusowe zapalenie mózgu;2006;8;osoba
+5020000000;wirusowe zapalenie mózgu;2007;7;osoba
+5020000000;wirusowe zapalenie mózgu;2008;11;osoba
+5020000000;wirusowe zapalenie mózgu;2009;7;osoba
+5020000000;wirusowe zapalenie mózgu;2010;17;osoba
+5020000000;wirusowe zapalenie mózgu;2011;21;osoba
+5020000000;wirusowe zapalenie mózgu;2012;18;osoba
+5020000000;wirusowe zapalenie mózgu;2013;19;osoba
+5020000000;wirusowe zapalenie mózgu;2014;16;osoba
+5020000000;wirusowe zapalenie mózgu;2015;14;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2005;1151;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2006;959;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2007;265;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2008;224;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2009;202;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2010;158;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2011;209;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2012;157;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2013;129;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2014;131;osoba
+5020000000;zapalenie przyusznicy nagminne (świnka);2015;99;osoba
+5020000000;włośnica;2005;0;osoba
+5020000000;włośnica;2006;0;osoba
+5020000000;włośnica;2007;0;osoba
+5020000000;włośnica;2008;0;osoba
+5020000000;włośnica;2009;0;osoba
+5020000000;włośnica;2010;0;osoba
+5020000000;włośnica;2011;11;osoba
+5020000000;włośnica;2012;0;osoba
+5020000000;włośnica;2013;4;osoba
+5020000000;włośnica;2014;0;osoba
+5020000000;włośnica;2015;1;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2005;50537;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2006;12884;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2007;19289;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2008;13624;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2009;112764;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2010;57424;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2011;98211;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2012;65863;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2013;171949;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2014;144859;osoba
+5020000000;grypa i podejrzenia zachorowań na grypę;2015;200598;osoba
+5020000000;szczepieni przeciw wściekliźnie;2005;316;osoba
+5020000000;szczepieni przeciw wściekliźnie;2006;270;osoba
+5020000000;szczepieni przeciw wściekliźnie;2007;256;osoba
+5020000000;szczepieni przeciw wściekliźnie;2008;212;osoba
+5020000000;szczepieni przeciw wściekliźnie;2009;212;osoba
+5020000000;szczepieni przeciw wściekliźnie;2010;250;osoba
+5020000000;szczepieni przeciw wściekliźnie;2011;220;osoba
+5020000000;szczepieni przeciw wściekliźnie;2012;227;osoba
+5020000000;szczepieni przeciw wściekliźnie;2013;219;osoba
+5020000000;szczepieni przeciw wściekliźnie;2014;244;osoba
+5020000000;szczepieni przeciw wściekliźnie;2015;245;osoba
+5160000000;tężec;2005;1;osoba
+5160000000;tężec;2006;0;osoba
+5160000000;tężec;2007;0;osoba
+5160000000;tężec;2008;0;osoba
+5160000000;tężec;2009;1;osoba
+5160000000;tężec;2010;1;osoba
+5160000000;tężec;2011;1;osoba
+5160000000;tężec;2012;0;osoba
+5160000000;tężec;2013;0;osoba
+5160000000;tężec;2014;0;osoba
+5160000000;tężec;2015;1;osoba
+5160000000;krztusiec;2005;77;osoba
+5160000000;krztusiec;2006;25;osoba
+5160000000;krztusiec;2007;22;osoba
+5160000000;krztusiec;2008;59;osoba
+5160000000;krztusiec;2009;53;osoba
+5160000000;krztusiec;2010;8;osoba
+5160000000;krztusiec;2011;24;osoba
+5160000000;krztusiec;2012;58;osoba
+5160000000;krztusiec;2013;14;osoba
+5160000000;krztusiec;2014;75;osoba
+5160000000;krztusiec;2015;62;osoba
+5160000000;odra;2005;0;osoba
+5160000000;odra;2006;1;osoba
+5160000000;odra;2007;0;osoba
+5160000000;odra;2008;3;osoba
+5160000000;odra;2009;13;osoba
+5160000000;odra;2010;0;osoba
+5160000000;odra;2011;1;osoba
+5160000000;odra;2012;0;osoba
+5160000000;odra;2013;0;osoba
+5160000000;odra;2014;1;osoba
+5160000000;odra;2015;1;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2005;49;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2006;49;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2007;60;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2008;68;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2009;82;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2010;122;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2011;114;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2012;40;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2013;42;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2014;51;osoba
+5160000000;wirusowe zapalenie wątroby typu B;2015;80;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2005;30;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2006;47;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2007;55;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2008;56;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2009;58;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2010;85;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2011;61;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2012;80;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2013;48;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2014;64;osoba
+5160000000;wirusowe zapalenie wątroby typu C;2015;88;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2005;4;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2006;3;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2007;1;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2008;1;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2009;4;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2010;2;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2011;1;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2012;2;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2013;0;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2014;1;osoba
+5160000000;wirusowe zapalenie wątroby typu A;2015;1;osoba
+5160000000;różyczka;2005;160;osoba
+5160000000;różyczka;2006;231;osoba
+5160000000;różyczka;2007;109;osoba
+5160000000;różyczka;2008;344;osoba
+5160000000;różyczka;2009;389;osoba
+5160000000;różyczka;2010;428;osoba
+5160000000;różyczka;2011;89;osoba
+5160000000;różyczka;2012;109;osoba
+5160000000;różyczka;2013;952;osoba
+5160000000;różyczka;2014;266;osoba
+5160000000;różyczka;2015;48;osoba
+5160000000;AIDS;2005;2;osoba
+5160000000;AIDS;2006;1;osoba
+5160000000;AIDS;2007;2;osoba
+5160000000;AIDS;2008;4;osoba
+5160000000;AIDS;2009;3;osoba
+5160000000;AIDS;2010;6;osoba
+5160000000;AIDS;2011;6;osoba
+5160000000;AIDS;2012;3;osoba
+5160000000;AIDS;2013;3;osoba
+5160000000;AIDS;2014;3;osoba
+5160000000;AIDS;2015;4;osoba
+5160000000;salmonellozy;2005;297;osoba
+5160000000;salmonellozy;2006;261;osoba
+5160000000;salmonellozy;2007;281;osoba
+5160000000;salmonellozy;2008;212;osoba
+5160000000;salmonellozy;2009;177;osoba
+5160000000;salmonellozy;2010;154;osoba
+5160000000;salmonellozy;2011;136;osoba
+5160000000;salmonellozy;2012;129;osoba
+5160000000;salmonellozy;2013;123;osoba
+5160000000;salmonellozy;2014;181;osoba
+5160000000;salmonellozy;2015;190;osoba
+5160000000;czerwonka bakteryjna;2005;3;osoba
+5160000000;czerwonka bakteryjna;2006;0;osoba
+5160000000;czerwonka bakteryjna;2007;0;osoba
+5160000000;czerwonka bakteryjna;2008;0;osoba
+5160000000;czerwonka bakteryjna;2009;1;osoba
+5160000000;czerwonka bakteryjna;2010;0;osoba
+5160000000;czerwonka bakteryjna;2011;0;osoba
+5160000000;czerwonka bakteryjna;2012;0;osoba
+5160000000;czerwonka bakteryjna;2013;3;osoba
+5160000000;czerwonka bakteryjna;2014;0;osoba
+5160000000;czerwonka bakteryjna;2015;0;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2005;38;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2006;3;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2007;11;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2008;10;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2009;160;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2010;4;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2011;7;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2012;13;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2013;12;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2014;10;osoba
+5160000000;inne bakteryjne zatrucia pokarmowe;2015;13;osoba
+5160000000;biegunki u dzieci do lat 2;2005;225;osoba
+5160000000;biegunki u dzieci do lat 2;2006;371;osoba
+5160000000;biegunki u dzieci do lat 2;2007;517;osoba
+5160000000;biegunki u dzieci do lat 2;2008;641;osoba
+5160000000;biegunki u dzieci do lat 2;2009;709;osoba
+5160000000;biegunki u dzieci do lat 2;2010;740;osoba
+5160000000;biegunki u dzieci do lat 2;2011;844;osoba
+5160000000;biegunki u dzieci do lat 2;2012;800;osoba
+5160000000;biegunki u dzieci do lat 2;2013;895;osoba
+5160000000;biegunki u dzieci do lat 2;2014;960;osoba
+5160000000;biegunki u dzieci do lat 2;2015;1004;osoba
+5160000000;szkarlatyna (płonnica);2005;270;osoba
+5160000000;szkarlatyna (płonnica);2006;404;osoba
+5160000000;szkarlatyna (płonnica);2007;284;osoba
+5160000000;szkarlatyna (płonnica);2008;548;osoba
+5160000000;szkarlatyna (płonnica);2009;641;osoba
+5160000000;szkarlatyna (płonnica);2010;417;osoba
+5160000000;szkarlatyna (płonnica);2011;526;osoba
+5160000000;szkarlatyna (płonnica);2012;743;osoba
+5160000000;szkarlatyna (płonnica);2013;1044;osoba
+5160000000;szkarlatyna (płonnica);2014;720;osoba
+5160000000;szkarlatyna (płonnica);2015;666;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;29;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;32;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;26;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;35;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;30;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;27;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;31;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;19;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;17;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;23;osoba
+5160000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;23;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2005;31;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2006;62;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2007;22;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2008;23;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2009;26;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2010;84;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2011;79;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2012;58;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2013;56;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2014;69;osoba
+5160000000;wirusowe zapalenie opon mózgowych;2015;38;osoba
+5160000000;wirusowe zapalenie mózgu;2005;20;osoba
+5160000000;wirusowe zapalenie mózgu;2006;17;osoba
+5160000000;wirusowe zapalenie mózgu;2007;4;osoba
+5160000000;wirusowe zapalenie mózgu;2008;11;osoba
+5160000000;wirusowe zapalenie mózgu;2009;10;osoba
+5160000000;wirusowe zapalenie mózgu;2010;8;osoba
+5160000000;wirusowe zapalenie mózgu;2011;8;osoba
+5160000000;wirusowe zapalenie mózgu;2012;12;osoba
+5160000000;wirusowe zapalenie mózgu;2013;9;osoba
+5160000000;wirusowe zapalenie mózgu;2014;9;osoba
+5160000000;wirusowe zapalenie mózgu;2015;6;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2005;2211;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2006;746;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2007;164;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2008;110;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2009;118;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2010;94;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2011;92;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2012;91;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2013;93;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2014;88;osoba
+5160000000;zapalenie przyusznicy nagminne (świnka);2015;71;osoba
+5160000000;włośnica;2005;0;osoba
+5160000000;włośnica;2006;0;osoba
+5160000000;włośnica;2007;0;osoba
+5160000000;włośnica;2008;0;osoba
+5160000000;włośnica;2009;0;osoba
+5160000000;włośnica;2010;0;osoba
+5160000000;włośnica;2011;0;osoba
+5160000000;włośnica;2012;0;osoba
+5160000000;włośnica;2013;0;osoba
+5160000000;włośnica;2014;0;osoba
+5160000000;włośnica;2015;0;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2005;25045;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2006;11927;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2007;30737;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2008;18940;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2009;48146;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2010;26370;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2011;31135;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2012;23032;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2013;55807;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2014;33351;osoba
+5160000000;grypa i podejrzenia zachorowań na grypę;2015;65365;osoba
+5160000000;szczepieni przeciw wściekliźnie;2005;136;osoba
+5160000000;szczepieni przeciw wściekliźnie;2006;163;osoba
+5160000000;szczepieni przeciw wściekliźnie;2007;103;osoba
+5160000000;szczepieni przeciw wściekliźnie;2008;114;osoba
+5160000000;szczepieni przeciw wściekliźnie;2009;114;osoba
+5160000000;szczepieni przeciw wściekliźnie;2010;110;osoba
+5160000000;szczepieni przeciw wściekliźnie;2011;114;osoba
+5160000000;szczepieni przeciw wściekliźnie;2012;116;osoba
+5160000000;szczepieni przeciw wściekliźnie;2013;121;osoba
+5160000000;szczepieni przeciw wściekliźnie;2014;120;osoba
+5160000000;szczepieni przeciw wściekliźnie;2015;89;osoba
+6040000000;tężec;2005;0;osoba
+6040000000;tężec;2006;1;osoba
+6040000000;tężec;2007;0;osoba
+6040000000;tężec;2008;1;osoba
+6040000000;tężec;2009;1;osoba
+6040000000;tężec;2010;0;osoba
+6040000000;tężec;2011;0;osoba
+6040000000;tężec;2012;1;osoba
+6040000000;tężec;2013;0;osoba
+6040000000;tężec;2014;0;osoba
+6040000000;tężec;2015;0;osoba
+6040000000;krztusiec;2005;172;osoba
+6040000000;krztusiec;2006;72;osoba
+6040000000;krztusiec;2007;49;osoba
+6040000000;krztusiec;2008;257;osoba
+6040000000;krztusiec;2009;168;osoba
+6040000000;krztusiec;2010;43;osoba
+6040000000;krztusiec;2011;145;osoba
+6040000000;krztusiec;2012;260;osoba
+6040000000;krztusiec;2013;120;osoba
+6040000000;krztusiec;2014;300;osoba
+6040000000;krztusiec;2015;450;osoba
+6040000000;odra;2005;0;osoba
+6040000000;odra;2006;1;osoba
+6040000000;odra;2007;1;osoba
+6040000000;odra;2008;0;osoba
+6040000000;odra;2009;0;osoba
+6040000000;odra;2010;0;osoba
+6040000000;odra;2011;3;osoba
+6040000000;odra;2012;1;osoba
+6040000000;odra;2013;0;osoba
+6040000000;odra;2014;0;osoba
+6040000000;odra;2015;1;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2005;126;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2006;162;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2007;103;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2008;127;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2009;99;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2010;113;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2011;89;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2012;105;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2013;106;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2014;261;osoba
+6040000000;wirusowe zapalenie wątroby typu B;2015;332;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2005;221;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2006;249;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2007;150;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2008;181;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2009;89;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2010;190;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2011;177;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2012;193;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2013;214;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2014;344;osoba
+6040000000;wirusowe zapalenie wątroby typu C;2015;469;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2005;2;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2006;7;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2007;2;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2008;2;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2009;18;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2010;5;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2011;4;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2012;4;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2013;1;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2014;0;osoba
+6040000000;wirusowe zapalenie wątroby typu A;2015;2;osoba
+6040000000;różyczka;2005;731;osoba
+6040000000;różyczka;2006;1090;osoba
+6040000000;różyczka;2007;372;osoba
+6040000000;różyczka;2008;385;osoba
+6040000000;różyczka;2009;340;osoba
+6040000000;różyczka;2010;208;osoba
+6040000000;różyczka;2011;257;osoba
+6040000000;różyczka;2012;323;osoba
+6040000000;różyczka;2013;2472;osoba
+6040000000;różyczka;2014;279;osoba
+6040000000;różyczka;2015;143;osoba
+6040000000;AIDS;2005;7;osoba
+6040000000;AIDS;2006;11;osoba
+6040000000;AIDS;2007;4;osoba
+6040000000;AIDS;2008;2;osoba
+6040000000;AIDS;2009;3;osoba
+6040000000;AIDS;2010;5;osoba
+6040000000;AIDS;2011;5;osoba
+6040000000;AIDS;2012;1;osoba
+6040000000;AIDS;2013;1;osoba
+6040000000;AIDS;2014;2;osoba
+6040000000;AIDS;2015;3;osoba
+6040000000;salmonellozy;2005;1389;osoba
+6040000000;salmonellozy;2006;865;osoba
+6040000000;salmonellozy;2007;668;osoba
+6040000000;salmonellozy;2008;765;osoba
+6040000000;salmonellozy;2009;516;osoba
+6040000000;salmonellozy;2010;622;osoba
+6040000000;salmonellozy;2011;549;osoba
+6040000000;salmonellozy;2012;562;osoba
+6040000000;salmonellozy;2013;543;osoba
+6040000000;salmonellozy;2014;480;osoba
+6040000000;salmonellozy;2015;451;osoba
+6040000000;czerwonka bakteryjna;2005;1;osoba
+6040000000;czerwonka bakteryjna;2006;1;osoba
+6040000000;czerwonka bakteryjna;2007;5;osoba
+6040000000;czerwonka bakteryjna;2008;1;osoba
+6040000000;czerwonka bakteryjna;2009;0;osoba
+6040000000;czerwonka bakteryjna;2010;11;osoba
+6040000000;czerwonka bakteryjna;2011;0;osoba
+6040000000;czerwonka bakteryjna;2012;0;osoba
+6040000000;czerwonka bakteryjna;2013;0;osoba
+6040000000;czerwonka bakteryjna;2014;5;osoba
+6040000000;czerwonka bakteryjna;2015;2;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2005;141;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2006;254;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2007;275;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2008;78;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2009;92;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2010;22;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2011;48;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2012;26;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2013;45;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2014;36;osoba
+6040000000;inne bakteryjne zatrucia pokarmowe;2015;41;osoba
+6040000000;biegunki u dzieci do lat 2;2005;1214;osoba
+6040000000;biegunki u dzieci do lat 2;2006;1385;osoba
+6040000000;biegunki u dzieci do lat 2;2007;1386;osoba
+6040000000;biegunki u dzieci do lat 2;2008;1867;osoba
+6040000000;biegunki u dzieci do lat 2;2009;1349;osoba
+6040000000;biegunki u dzieci do lat 2;2010;1306;osoba
+6040000000;biegunki u dzieci do lat 2;2011;1949;osoba
+6040000000;biegunki u dzieci do lat 2;2012;2057;osoba
+6040000000;biegunki u dzieci do lat 2;2013;1990;osoba
+6040000000;biegunki u dzieci do lat 2;2014;2050;osoba
+6040000000;biegunki u dzieci do lat 2;2015;2205;osoba
+6040000000;szkarlatyna (płonnica);2005;695;osoba
+6040000000;szkarlatyna (płonnica);2006;527;osoba
+6040000000;szkarlatyna (płonnica);2007;458;osoba
+6040000000;szkarlatyna (płonnica);2008;726;osoba
+6040000000;szkarlatyna (płonnica);2009;1052;osoba
+6040000000;szkarlatyna (płonnica);2010;920;osoba
+6040000000;szkarlatyna (płonnica);2011;1156;osoba
+6040000000;szkarlatyna (płonnica);2012;1608;osoba
+6040000000;szkarlatyna (płonnica);2013;1727;osoba
+6040000000;szkarlatyna (płonnica);2014;1819;osoba
+6040000000;szkarlatyna (płonnica);2015;2060;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;65;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;63;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;80;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;53;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;44;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;57;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;53;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;39;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;41;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;37;osoba
+6040000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;56;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2005;88;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2006;101;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2007;56;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2008;54;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2009;39;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2010;52;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2011;75;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2012;55;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2013;76;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2014;114;osoba
+6040000000;wirusowe zapalenie opon mózgowych;2015;52;osoba
+6040000000;wirusowe zapalenie mózgu;2005;7;osoba
+6040000000;wirusowe zapalenie mózgu;2006;10;osoba
+6040000000;wirusowe zapalenie mózgu;2007;21;osoba
+6040000000;wirusowe zapalenie mózgu;2008;17;osoba
+6040000000;wirusowe zapalenie mózgu;2009;8;osoba
+6040000000;wirusowe zapalenie mózgu;2010;10;osoba
+6040000000;wirusowe zapalenie mózgu;2011;7;osoba
+6040000000;wirusowe zapalenie mózgu;2012;10;osoba
+6040000000;wirusowe zapalenie mózgu;2013;16;osoba
+6040000000;wirusowe zapalenie mózgu;2014;10;osoba
+6040000000;wirusowe zapalenie mózgu;2015;10;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2005;7687;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2006;814;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2007;209;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2008;220;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2009;199;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2010;174;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2011;162;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2012;201;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2013;180;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2014;177;osoba
+6040000000;zapalenie przyusznicy nagminne (świnka);2015;190;osoba
+6040000000;włośnica;2005;7;osoba
+6040000000;włośnica;2006;36;osoba
+6040000000;włośnica;2007;12;osoba
+6040000000;włośnica;2008;0;osoba
+6040000000;włośnica;2009;1;osoba
+6040000000;włośnica;2010;0;osoba
+6040000000;włośnica;2011;0;osoba
+6040000000;włośnica;2012;0;osoba
+6040000000;włośnica;2013;0;osoba
+6040000000;włośnica;2014;22;osoba
+6040000000;włośnica;2015;0;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2005;28182;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2006;4886;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2007;11944;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2008;3215;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2009;40621;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2010;15647;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2011;24057;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2012;19847;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2013;107783;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2014;206197;osoba
+6040000000;grypa i podejrzenia zachorowań na grypę;2015;252920;osoba
+6040000000;szczepieni przeciw wściekliźnie;2005;359;osoba
+6040000000;szczepieni przeciw wściekliźnie;2006;389;osoba
+6040000000;szczepieni przeciw wściekliźnie;2007;401;osoba
+6040000000;szczepieni przeciw wściekliźnie;2008;377;osoba
+6040000000;szczepieni przeciw wściekliźnie;2009;399;osoba
+6040000000;szczepieni przeciw wściekliźnie;2010;398;osoba
+6040000000;szczepieni przeciw wściekliźnie;2011;373;osoba
+6040000000;szczepieni przeciw wściekliźnie;2012;483;osoba
+6040000000;szczepieni przeciw wściekliźnie;2013;437;osoba
+6040000000;szczepieni przeciw wściekliźnie;2014;492;osoba
+6040000000;szczepieni przeciw wściekliźnie;2015;455;osoba
+6220000000;tężec;2005;1;osoba
+6220000000;tężec;2006;1;osoba
+6220000000;tężec;2007;0;osoba
+6220000000;tężec;2008;0;osoba
+6220000000;tężec;2009;0;osoba
+6220000000;tężec;2010;0;osoba
+6220000000;tężec;2011;1;osoba
+6220000000;tężec;2012;2;osoba
+6220000000;tężec;2013;0;osoba
+6220000000;tężec;2014;2;osoba
+6220000000;tężec;2015;1;osoba
+6220000000;krztusiec;2005;99;osoba
+6220000000;krztusiec;2006;14;osoba
+6220000000;krztusiec;2007;28;osoba
+6220000000;krztusiec;2008;103;osoba
+6220000000;krztusiec;2009;48;osoba
+6220000000;krztusiec;2010;51;osoba
+6220000000;krztusiec;2011;64;osoba
+6220000000;krztusiec;2012;163;osoba
+6220000000;krztusiec;2013;157;osoba
+6220000000;krztusiec;2014;84;osoba
+6220000000;krztusiec;2015;272;osoba
+6220000000;odra;2005;1;osoba
+6220000000;odra;2006;7;osoba
+6220000000;odra;2007;0;osoba
+6220000000;odra;2008;1;osoba
+6220000000;odra;2009;0;osoba
+6220000000;odra;2010;1;osoba
+6220000000;odra;2011;0;osoba
+6220000000;odra;2012;1;osoba
+6220000000;odra;2013;1;osoba
+6220000000;odra;2014;0;osoba
+6220000000;odra;2015;1;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2005;131;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2006;79;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2007;67;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2008;30;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2009;41;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2010;63;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2011;72;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2012;34;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2013;58;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2014;265;osoba
+6220000000;wirusowe zapalenie wątroby typu B;2015;443;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2005;305;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2006;159;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2007;117;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2008;77;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2009;54;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2010;51;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2011;46;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2012;69;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2013;89;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2014;174;osoba
+6220000000;wirusowe zapalenie wątroby typu C;2015;197;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2005;3;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2006;3;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2007;1;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2008;6;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2009;8;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2010;2;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2011;3;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2012;3;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2013;3;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2014;6;osoba
+6220000000;wirusowe zapalenie wątroby typu A;2015;1;osoba
+6220000000;różyczka;2005;324;osoba
+6220000000;różyczka;2006;1895;osoba
+6220000000;różyczka;2007;872;osoba
+6220000000;różyczka;2008;1032;osoba
+6220000000;różyczka;2009;238;osoba
+6220000000;różyczka;2010;184;osoba
+6220000000;różyczka;2011;139;osoba
+6220000000;różyczka;2012;361;osoba
+6220000000;różyczka;2013;1939;osoba
+6220000000;różyczka;2014;141;osoba
+6220000000;różyczka;2015;97;osoba
+6220000000;AIDS;2005;10;osoba
+6220000000;AIDS;2006;13;osoba
+6220000000;AIDS;2007;14;osoba
+6220000000;AIDS;2008;11;osoba
+6220000000;AIDS;2009;0;osoba
+6220000000;AIDS;2010;19;osoba
+6220000000;AIDS;2011;5;osoba
+6220000000;AIDS;2012;16;osoba
+6220000000;AIDS;2013;8;osoba
+6220000000;AIDS;2014;8;osoba
+6220000000;AIDS;2015;11;osoba
+6220000000;salmonellozy;2005;1190;osoba
+6220000000;salmonellozy;2006;1152;osoba
+6220000000;salmonellozy;2007;754;osoba
+6220000000;salmonellozy;2008;606;osoba
+6220000000;salmonellozy;2009;523;osoba
+6220000000;salmonellozy;2010;712;osoba
+6220000000;salmonellozy;2011;667;osoba
+6220000000;salmonellozy;2012;535;osoba
+6220000000;salmonellozy;2013;578;osoba
+6220000000;salmonellozy;2014;496;osoba
+6220000000;salmonellozy;2015;565;osoba
+6220000000;czerwonka bakteryjna;2005;7;osoba
+6220000000;czerwonka bakteryjna;2006;2;osoba
+6220000000;czerwonka bakteryjna;2007;5;osoba
+6220000000;czerwonka bakteryjna;2008;2;osoba
+6220000000;czerwonka bakteryjna;2009;0;osoba
+6220000000;czerwonka bakteryjna;2010;1;osoba
+6220000000;czerwonka bakteryjna;2011;0;osoba
+6220000000;czerwonka bakteryjna;2012;0;osoba
+6220000000;czerwonka bakteryjna;2013;1;osoba
+6220000000;czerwonka bakteryjna;2014;0;osoba
+6220000000;czerwonka bakteryjna;2015;1;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2005;679;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2006;417;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2007;559;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2008;230;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2009;227;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2010;140;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2011;57;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2012;123;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2013;54;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2014;39;osoba
+6220000000;inne bakteryjne zatrucia pokarmowe;2015;49;osoba
+6220000000;biegunki u dzieci do lat 2;2005;1429;osoba
+6220000000;biegunki u dzieci do lat 2;2006;1803;osoba
+6220000000;biegunki u dzieci do lat 2;2007;1540;osoba
+6220000000;biegunki u dzieci do lat 2;2008;1932;osoba
+6220000000;biegunki u dzieci do lat 2;2009;2334;osoba
+6220000000;biegunki u dzieci do lat 2;2010;2228;osoba
+6220000000;biegunki u dzieci do lat 2;2011;2926;osoba
+6220000000;biegunki u dzieci do lat 2;2012;3662;osoba
+6220000000;biegunki u dzieci do lat 2;2013;4041;osoba
+6220000000;biegunki u dzieci do lat 2;2014;4169;osoba
+6220000000;biegunki u dzieci do lat 2;2015;3954;osoba
+6220000000;szkarlatyna (płonnica);2005;715;osoba
+6220000000;szkarlatyna (płonnica);2006;433;osoba
+6220000000;szkarlatyna (płonnica);2007;447;osoba
+6220000000;szkarlatyna (płonnica);2008;896;osoba
+6220000000;szkarlatyna (płonnica);2009;931;osoba
+6220000000;szkarlatyna (płonnica);2010;935;osoba
+6220000000;szkarlatyna (płonnica);2011;1181;osoba
+6220000000;szkarlatyna (płonnica);2012;2611;osoba
+6220000000;szkarlatyna (płonnica);2013;2546;osoba
+6220000000;szkarlatyna (płonnica);2014;2142;osoba
+6220000000;szkarlatyna (płonnica);2015;2395;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;79;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;63;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;57;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;57;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;73;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;63;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;63;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;52;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;81;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;65;osoba
+6220000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;50;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2005;65;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2006;133;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2007;94;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2008;35;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2009;62;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2010;85;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2011;65;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2012;95;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2013;135;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2014;211;osoba
+6220000000;wirusowe zapalenie opon mózgowych;2015;84;osoba
+6220000000;wirusowe zapalenie mózgu;2005;25;osoba
+6220000000;wirusowe zapalenie mózgu;2006;12;osoba
+6220000000;wirusowe zapalenie mózgu;2007;23;osoba
+6220000000;wirusowe zapalenie mózgu;2008;16;osoba
+6220000000;wirusowe zapalenie mózgu;2009;14;osoba
+6220000000;wirusowe zapalenie mózgu;2010;8;osoba
+6220000000;wirusowe zapalenie mózgu;2011;11;osoba
+6220000000;wirusowe zapalenie mózgu;2012;6;osoba
+6220000000;wirusowe zapalenie mózgu;2013;6;osoba
+6220000000;wirusowe zapalenie mózgu;2014;11;osoba
+6220000000;wirusowe zapalenie mózgu;2015;11;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2005;1171;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2006;231;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2007;136;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2008;137;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2009;122;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2010;123;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2011;110;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2012;194;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2013;174;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2014;215;osoba
+6220000000;zapalenie przyusznicy nagminne (świnka);2015;155;osoba
+6220000000;włośnica;2005;0;osoba
+6220000000;włośnica;2006;9;osoba
+6220000000;włośnica;2007;0;osoba
+6220000000;włośnica;2008;1;osoba
+6220000000;włośnica;2009;3;osoba
+6220000000;włośnica;2010;14;osoba
+6220000000;włośnica;2011;0;osoba
+6220000000;włośnica;2012;0;osoba
+6220000000;włośnica;2013;0;osoba
+6220000000;włośnica;2014;0;osoba
+6220000000;włośnica;2015;0;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2005;44049;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2006;3826;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2007;4020;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2008;5309;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2009;46970;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2010;22972;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2011;50244;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2012;310134;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2013;753690;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2014;710424;osoba
+6220000000;grypa i podejrzenia zachorowań na grypę;2015;803725;osoba
+6220000000;szczepieni przeciw wściekliźnie;2005;479;osoba
+6220000000;szczepieni przeciw wściekliźnie;2006;511;osoba
+6220000000;szczepieni przeciw wściekliźnie;2007;540;osoba
+6220000000;szczepieni przeciw wściekliźnie;2008;601;osoba
+6220000000;szczepieni przeciw wściekliźnie;2009;532;osoba
+6220000000;szczepieni przeciw wściekliźnie;2010;545;osoba
+6220000000;szczepieni przeciw wściekliźnie;2011;560;osoba
+6220000000;szczepieni przeciw wściekliźnie;2012;499;osoba
+6220000000;szczepieni przeciw wściekliźnie;2013;494;osoba
+6220000000;szczepieni przeciw wściekliźnie;2014;454;osoba
+6220000000;szczepieni przeciw wściekliźnie;2015;459;osoba
+6280000000;tężec;2005;0;osoba
+6280000000;tężec;2006;0;osoba
+6280000000;tężec;2007;2;osoba
+6280000000;tężec;2008;0;osoba
+6280000000;tężec;2009;1;osoba
+6280000000;tężec;2010;1;osoba
+6280000000;tężec;2011;0;osoba
+6280000000;tężec;2012;0;osoba
+6280000000;tężec;2013;0;osoba
+6280000000;tężec;2014;0;osoba
+6280000000;tężec;2015;0;osoba
+6280000000;krztusiec;2005;29;osoba
+6280000000;krztusiec;2006;6;osoba
+6280000000;krztusiec;2007;9;osoba
+6280000000;krztusiec;2008;17;osoba
+6280000000;krztusiec;2009;12;osoba
+6280000000;krztusiec;2010;4;osoba
+6280000000;krztusiec;2011;10;osoba
+6280000000;krztusiec;2012;81;osoba
+6280000000;krztusiec;2013;12;osoba
+6280000000;krztusiec;2014;39;osoba
+6280000000;krztusiec;2015;45;osoba
+6280000000;odra;2005;0;osoba
+6280000000;odra;2006;0;osoba
+6280000000;odra;2007;0;osoba
+6280000000;odra;2008;0;osoba
+6280000000;odra;2009;0;osoba
+6280000000;odra;2010;0;osoba
+6280000000;odra;2011;1;osoba
+6280000000;odra;2012;0;osoba
+6280000000;odra;2013;0;osoba
+6280000000;odra;2014;0;osoba
+6280000000;odra;2015;0;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2005;32;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2006;36;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2007;16;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2008;16;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2009;10;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2010;11;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2011;12;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2012;8;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2013;9;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2014;101;osoba
+6280000000;wirusowe zapalenie wątroby typu B;2015;136;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2005;51;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2006;35;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2007;32;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2008;17;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2009;25;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2010;39;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2011;52;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2012;43;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2013;55;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2014;104;osoba
+6280000000;wirusowe zapalenie wątroby typu C;2015;174;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2005;0;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2006;2;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2007;1;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2008;2;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2009;7;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2010;3;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2011;0;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2012;3;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2013;3;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2014;2;osoba
+6280000000;wirusowe zapalenie wątroby typu A;2015;0;osoba
+6280000000;różyczka;2005;224;osoba
+6280000000;różyczka;2006;570;osoba
+6280000000;różyczka;2007;1364;osoba
+6280000000;różyczka;2008;282;osoba
+6280000000;różyczka;2009;107;osoba
+6280000000;różyczka;2010;149;osoba
+6280000000;różyczka;2011;63;osoba
+6280000000;różyczka;2012;146;osoba
+6280000000;różyczka;2013;583;osoba
+6280000000;różyczka;2014;85;osoba
+6280000000;różyczka;2015;70;osoba
+6280000000;AIDS;2005;9;osoba
+6280000000;AIDS;2006;12;osoba
+6280000000;AIDS;2007;6;osoba
+6280000000;AIDS;2008;9;osoba
+6280000000;AIDS;2009;4;osoba
+6280000000;AIDS;2010;8;osoba
+6280000000;AIDS;2011;6;osoba
+6280000000;AIDS;2012;5;osoba
+6280000000;AIDS;2013;8;osoba
+6280000000;AIDS;2014;6;osoba
+6280000000;AIDS;2015;9;osoba
+6280000000;salmonellozy;2005;546;osoba
+6280000000;salmonellozy;2006;615;osoba
+6280000000;salmonellozy;2007;536;osoba
+6280000000;salmonellozy;2008;387;osoba
+6280000000;salmonellozy;2009;384;osoba
+6280000000;salmonellozy;2010;537;osoba
+6280000000;salmonellozy;2011;581;osoba
+6280000000;salmonellozy;2012;362;osoba
+6280000000;salmonellozy;2013;516;osoba
+6280000000;salmonellozy;2014;372;osoba
+6280000000;salmonellozy;2015;353;osoba
+6280000000;czerwonka bakteryjna;2005;38;osoba
+6280000000;czerwonka bakteryjna;2006;1;osoba
+6280000000;czerwonka bakteryjna;2007;0;osoba
+6280000000;czerwonka bakteryjna;2008;0;osoba
+6280000000;czerwonka bakteryjna;2009;0;osoba
+6280000000;czerwonka bakteryjna;2010;1;osoba
+6280000000;czerwonka bakteryjna;2011;0;osoba
+6280000000;czerwonka bakteryjna;2012;0;osoba
+6280000000;czerwonka bakteryjna;2013;1;osoba
+6280000000;czerwonka bakteryjna;2014;0;osoba
+6280000000;czerwonka bakteryjna;2015;1;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2005;151;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2006;116;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2007;50;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2008;13;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2009;40;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2010;8;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2011;35;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2012;22;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2013;124;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2014;99;osoba
+6280000000;inne bakteryjne zatrucia pokarmowe;2015;14;osoba
+6280000000;biegunki u dzieci do lat 2;2005;1344;osoba
+6280000000;biegunki u dzieci do lat 2;2006;1288;osoba
+6280000000;biegunki u dzieci do lat 2;2007;1260;osoba
+6280000000;biegunki u dzieci do lat 2;2008;1441;osoba
+6280000000;biegunki u dzieci do lat 2;2009;1845;osoba
+6280000000;biegunki u dzieci do lat 2;2010;1763;osoba
+6280000000;biegunki u dzieci do lat 2;2011;1826;osoba
+6280000000;biegunki u dzieci do lat 2;2012;1546;osoba
+6280000000;biegunki u dzieci do lat 2;2013;1321;osoba
+6280000000;biegunki u dzieci do lat 2;2014;1727;osoba
+6280000000;biegunki u dzieci do lat 2;2015;1449;osoba
+6280000000;szkarlatyna (płonnica);2005;829;osoba
+6280000000;szkarlatyna (płonnica);2006;352;osoba
+6280000000;szkarlatyna (płonnica);2007;447;osoba
+6280000000;szkarlatyna (płonnica);2008;331;osoba
+6280000000;szkarlatyna (płonnica);2009;432;osoba
+6280000000;szkarlatyna (płonnica);2010;521;osoba
+6280000000;szkarlatyna (płonnica);2011;505;osoba
+6280000000;szkarlatyna (płonnica);2012;991;osoba
+6280000000;szkarlatyna (płonnica);2013;638;osoba
+6280000000;szkarlatyna (płonnica);2014;501;osoba
+6280000000;szkarlatyna (płonnica);2015;491;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2005;56;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2006;55;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2007;63;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2008;53;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2009;56;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2010;33;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2011;37;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2012;46;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2013;48;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2014;30;osoba
+6280000000;bakteryjne zapalenie opon mózgowych i/lub mózgu;2015;37;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2005;60;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2006;150;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2007;66;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2008;28;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2009;78;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2010;65;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2011;33;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2012;248;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2013;77;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2014;67;osoba
+6280000000;wirusowe zapalenie opon mózgowych;2015;53;osoba
+6280000000;wirusowe zapalenie mózgu;2005;56;osoba
+6280000000;wirusowe zapalenie mózgu;2006;101;osoba
+6280000000;wirusowe zapalenie mózgu;2007;100;osoba
+6280000000;wirusowe zapalenie mózgu;2008;64;osoba
+6280000000;wirusowe zapalenie mózgu;2009;92;osoba
+6280000000;wirusowe zapalenie mózgu;2010;85;osoba
+6280000000;wirusowe zapalenie mózgu;2011;65;osoba
+6280000000;wirusowe zapalenie mózgu;2012;41;osoba
+6280000000;wirusowe zapalenie mózgu;2013;55;osoba
+6280000000;wirusowe zapalenie mózgu;2014;37;osoba
+6280000000;wirusowe zapalenie mózgu;2015;27;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2005;2059;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2006;503;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2007;95;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2008;99;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2009;98;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2010;101;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2011;75;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2012;105;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2013;67;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2014;95;osoba
+6280000000;zapalenie przyusznicy nagminne (świnka);2015;49;osoba
+6280000000;włośnica;2005;0;osoba
+6280000000;włośnica;2006;10;osoba
+6280000000;włośnica;2007;0;osoba
+6280000000;włośnica;2008;0;osoba
+6280000000;włośnica;2009;0;osoba
+6280000000;włośnica;2010;12;osoba
+6280000000;włośnica;2011;0;osoba
+6280000000;włośnica;2012;1;osoba
+6280000000;włośnica;2013;0;osoba
+6280000000;włośnica;2014;1;osoba
+6280000000;włośnica;2015;0;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2005;33432;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2006;10663;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2007;12499;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2008;4507;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2009;75066;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2010;14408;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2011;32893;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2012;20018;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2013;50753;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2014;31426;osoba
+6280000000;grypa i podejrzenia zachorowań na grypę;2015;46487;osoba
+6280000000;szczepieni przeciw wściekliźnie;2005;885;osoba
+6280000000;szczepieni przeciw wściekliźnie;2006;763;osoba
+6280000000;szczepieni przeciw wściekliźnie;2007;661;osoba
+6280000000;szczepieni przeciw wściekliźnie;2008;580;osoba
+6280000000;szczepieni przeciw wściekliźnie;2009;503;osoba
+6280000000;szczepieni przeciw wściekliźnie;2010;571;osoba
+6280000000;szczepieni przeciw wściekliźnie;2011;591;osoba
+6280000000;szczepieni przeciw wściekliźnie;2012;479;osoba
+6280000000;szczepieni przeciw wściekliźnie;2013;525;osoba
+6280000000;szczepieni przeciw wściekliźnie;2014;568;osoba
+6280000000;szczepieni przeciw wściekliźnie;2015;514;osoba

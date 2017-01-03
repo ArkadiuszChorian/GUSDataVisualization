@@ -1,0 +1,1531 @@
+Kod;Typy szkół;Rok;Wartosc;Jednostka miary
+0;ogółem;2010;23;osoba
+0;ogółem;2011;23;osoba
+0;ogółem;2012;23;osoba
+0;ogółem;2013;23;osoba
+0;ogółem;2014;24;osoba
+0;ogółem;2015;23;osoba
+0;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+0;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;24;osoba
+0;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;24;osoba
+0;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;24;osoba
+0;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+0;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+0;licea profilowane dla młodzieży;2010;24;osoba
+0;licea profilowane dla młodzieży;2011;24;osoba
+0;licea profilowane dla młodzieży;2012;23;osoba
+0;licea profilowane dla młodzieży;2013;22;osoba
+0;licea profilowane dla młodzieży;2014;;osoba
+0;licea profilowane dla młodzieży;2015;;osoba
+0;licea profilowane dla młodzieży bez specjalnych;2010;25;osoba
+0;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+0;licea profilowane dla młodzieży bez specjalnych;2012;24;osoba
+0;licea profilowane dla młodzieży bez specjalnych;2013;23;osoba
+0;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+0;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+0;licea profilowane dla młodzieży specjalne;2010;8;osoba
+0;licea profilowane dla młodzieży specjalne;2011;7;osoba
+0;licea profilowane dla młodzieży specjalne;2012;7;osoba
+0;licea profilowane dla młodzieży specjalne;2013;8;osoba
+0;licea profilowane dla młodzieży specjalne;2014;;osoba
+0;licea profilowane dla młodzieży specjalne;2015;;osoba
+0;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+0;technika i uzupełniające technika dla młodzieży;2011;24;osoba
+0;technika i uzupełniające technika dla młodzieży;2012;24;osoba
+0;technika i uzupełniające technika dla młodzieży;2013;24;osoba
+0;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+0;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+0;technika dla młodzieży bez specjalnych;2010;24;osoba
+0;technika dla młodzieży bez specjalnych;2011;24;osoba
+0;technika dla młodzieży bez specjalnych;2012;24;osoba
+0;technika dla młodzieży bez specjalnych;2013;24;osoba
+0;technika dla młodzieży bez specjalnych;2014;24;osoba
+0;technika dla młodzieży bez specjalnych;2015;24;osoba
+0;technika dla młodzieży specjalne;2010;7;osoba
+0;technika dla młodzieży specjalne;2011;7;osoba
+0;technika dla młodzieży specjalne;2012;7;osoba
+0;technika dla młodzieży specjalne;2013;7;osoba
+0;technika dla młodzieży specjalne;2014;7;osoba
+0;technika dla młodzieży specjalne;2015;6;osoba
+0;technika uzupełniające dla młodzieży bez specjalnych;2010;20;osoba
+0;technika uzupełniające dla młodzieży bez specjalnych;2011;20;osoba
+0;technika uzupełniające dla młodzieży bez specjalnych;2012;17;osoba
+0;technika uzupełniające dla młodzieży bez specjalnych;2013;16;osoba
+0;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+0;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+0;technika uzupełniające dla młodzieży specjalne;2010;6;osoba
+0;technika uzupełniające dla młodzieży specjalne;2011;7;osoba
+0;technika uzupełniające dla młodzieży specjalne;2012;6;osoba
+0;technika uzupełniające dla młodzieży specjalne;2013;6;osoba
+0;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+0;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+0;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;17;osoba
+0;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;17;osoba
+0;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;18;osoba
+0;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;15;osoba
+0;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;15;osoba
+0;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;18;osoba
+0;licea profilowane dla dorosłych;2010;18;osoba
+0;licea profilowane dla dorosłych;2011;16;osoba
+0;licea profilowane dla dorosłych;2012;14;osoba
+0;licea profilowane dla dorosłych;2013;15;osoba
+0;licea profilowane dla dorosłych;2014;12;osoba
+0;licea profilowane dla dorosłych;2015;;osoba
+0;technika dla dorosłych;2010;14;osoba
+0;technika dla dorosłych;2011;14;osoba
+0;technika dla dorosłych;2012;13;osoba
+0;technika dla dorosłych;2013;13;osoba
+0;technika dla dorosłych;2014;15;osoba
+0;technika dla dorosłych;2015;19;osoba
+0;technika uzupełniające dla dorosłych;2010;18;osoba
+0;technika uzupełniające dla dorosłych;2011;18;osoba
+0;technika uzupełniające dla dorosłych;2012;19;osoba
+0;technika uzupełniające dla dorosłych;2013;15;osoba
+0;technika uzupełniające dla dorosłych;2014;15;osoba
+0;technika uzupełniające dla dorosłych;2015;13;osoba
+0;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;12;osoba
+0;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;12;osoba
+0;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;14;osoba
+0;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;14;osoba
+0;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;14;osoba
+0;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;12;osoba
+1100000000;ogółem;2010;22;osoba
+1100000000;ogółem;2011;22;osoba
+1100000000;ogółem;2012;22;osoba
+1100000000;ogółem;2013;22;osoba
+1100000000;ogółem;2014;22;osoba
+1100000000;ogółem;2015;23;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;23;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;23;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;23;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;23;osoba
+1100000000;licea profilowane dla młodzieży;2010;25;osoba
+1100000000;licea profilowane dla młodzieży;2011;24;osoba
+1100000000;licea profilowane dla młodzieży;2012;24;osoba
+1100000000;licea profilowane dla młodzieży;2013;24;osoba
+1100000000;licea profilowane dla młodzieży;2014;;osoba
+1100000000;licea profilowane dla młodzieży;2015;;osoba
+1100000000;licea profilowane dla młodzieży bez specjalnych;2010;26;osoba
+1100000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+1100000000;licea profilowane dla młodzieży bez specjalnych;2012;24;osoba
+1100000000;licea profilowane dla młodzieży bez specjalnych;2013;24;osoba
+1100000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+1100000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+1100000000;licea profilowane dla młodzieży specjalne;2010;13;osoba
+1100000000;licea profilowane dla młodzieży specjalne;2011;9;osoba
+1100000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+1100000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+1100000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+1100000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+1100000000;technika i uzupełniające technika dla młodzieży;2010;23;osoba
+1100000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+1100000000;technika i uzupełniające technika dla młodzieży;2012;23;osoba
+1100000000;technika i uzupełniające technika dla młodzieży;2013;23;osoba
+1100000000;technika i uzupełniające technika dla młodzieży;2014;23;osoba
+1100000000;technika i uzupełniające technika dla młodzieży;2015;23;osoba
+1100000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+1100000000;technika dla młodzieży bez specjalnych;2011;23;osoba
+1100000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+1100000000;technika dla młodzieży bez specjalnych;2013;24;osoba
+1100000000;technika dla młodzieży bez specjalnych;2014;23;osoba
+1100000000;technika dla młodzieży bez specjalnych;2015;23;osoba
+1100000000;technika dla młodzieży specjalne;2010;7;osoba
+1100000000;technika dla młodzieży specjalne;2011;10;osoba
+1100000000;technika dla młodzieży specjalne;2012;8;osoba
+1100000000;technika dla młodzieży specjalne;2013;8;osoba
+1100000000;technika dla młodzieży specjalne;2014;7;osoba
+1100000000;technika dla młodzieży specjalne;2015;9;osoba
+1100000000;technika uzupełniające dla młodzieży bez specjalnych;2010;23;osoba
+1100000000;technika uzupełniające dla młodzieży bez specjalnych;2011;22;osoba
+1100000000;technika uzupełniające dla młodzieży bez specjalnych;2012;17;osoba
+1100000000;technika uzupełniające dla młodzieży bez specjalnych;2013;13;osoba
+1100000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+1100000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+1100000000;technika uzupełniające dla młodzieży specjalne;2010;7;osoba
+1100000000;technika uzupełniające dla młodzieży specjalne;2011;6;osoba
+1100000000;technika uzupełniające dla młodzieży specjalne;2012;6;osoba
+1100000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+1100000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+1100000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;15;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;15;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;15;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;13;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;14;osoba
+1100000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+1100000000;licea profilowane dla dorosłych;2010;22;osoba
+1100000000;licea profilowane dla dorosłych;2011;14;osoba
+1100000000;licea profilowane dla dorosłych;2012;18;osoba
+1100000000;licea profilowane dla dorosłych;2013;0;osoba
+1100000000;licea profilowane dla dorosłych;2014;0;osoba
+1100000000;licea profilowane dla dorosłych;2015;;osoba
+1100000000;technika dla dorosłych;2010;13;osoba
+1100000000;technika dla dorosłych;2011;12;osoba
+1100000000;technika dla dorosłych;2012;12;osoba
+1100000000;technika dla dorosłych;2013;12;osoba
+1100000000;technika dla dorosłych;2014;13;osoba
+1100000000;technika dla dorosłych;2015;0;osoba
+1100000000;technika uzupełniające dla dorosłych;2010;16;osoba
+1100000000;technika uzupełniające dla dorosłych;2011;16;osoba
+1100000000;technika uzupełniające dla dorosłych;2012;17;osoba
+1100000000;technika uzupełniające dla dorosłych;2013;14;osoba
+1100000000;technika uzupełniające dla dorosłych;2014;15;osoba
+1100000000;technika uzupełniające dla dorosłych;2015;0;osoba
+1100000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;28;osoba
+1100000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;28;osoba
+1100000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;14;osoba
+1100000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;15;osoba
+1100000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;15;osoba
+1100000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;15;osoba
+1140000000;ogółem;2010;22;osoba
+1140000000;ogółem;2011;22;osoba
+1140000000;ogółem;2012;23;osoba
+1140000000;ogółem;2013;22;osoba
+1140000000;ogółem;2014;22;osoba
+1140000000;ogółem;2015;23;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;23;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;24;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;23;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;23;osoba
+1140000000;licea profilowane dla młodzieży;2010;24;osoba
+1140000000;licea profilowane dla młodzieży;2011;24;osoba
+1140000000;licea profilowane dla młodzieży;2012;24;osoba
+1140000000;licea profilowane dla młodzieży;2013;23;osoba
+1140000000;licea profilowane dla młodzieży;2014;;osoba
+1140000000;licea profilowane dla młodzieży;2015;;osoba
+1140000000;licea profilowane dla młodzieży bez specjalnych;2010;25;osoba
+1140000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+1140000000;licea profilowane dla młodzieży bez specjalnych;2012;24;osoba
+1140000000;licea profilowane dla młodzieży bez specjalnych;2013;24;osoba
+1140000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+1140000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+1140000000;licea profilowane dla młodzieży specjalne;2010;8;osoba
+1140000000;licea profilowane dla młodzieży specjalne;2011;7;osoba
+1140000000;licea profilowane dla młodzieży specjalne;2012;7;osoba
+1140000000;licea profilowane dla młodzieży specjalne;2013;7;osoba
+1140000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+1140000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+1140000000;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+1140000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+1140000000;technika i uzupełniające technika dla młodzieży;2012;23;osoba
+1140000000;technika i uzupełniające technika dla młodzieży;2013;24;osoba
+1140000000;technika i uzupełniające technika dla młodzieży;2014;23;osoba
+1140000000;technika i uzupełniające technika dla młodzieży;2015;23;osoba
+1140000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+1140000000;technika dla młodzieży bez specjalnych;2011;24;osoba
+1140000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+1140000000;technika dla młodzieży bez specjalnych;2013;24;osoba
+1140000000;technika dla młodzieży bez specjalnych;2014;23;osoba
+1140000000;technika dla młodzieży bez specjalnych;2015;23;osoba
+1140000000;technika dla młodzieży specjalne;2010;8;osoba
+1140000000;technika dla młodzieży specjalne;2011;5;osoba
+1140000000;technika dla młodzieży specjalne;2012;5;osoba
+1140000000;technika dla młodzieży specjalne;2013;6;osoba
+1140000000;technika dla młodzieży specjalne;2014;6;osoba
+1140000000;technika dla młodzieży specjalne;2015;6;osoba
+1140000000;technika uzupełniające dla młodzieży bez specjalnych;2010;20;osoba
+1140000000;technika uzupełniające dla młodzieży bez specjalnych;2011;20;osoba
+1140000000;technika uzupełniające dla młodzieży bez specjalnych;2012;17;osoba
+1140000000;technika uzupełniające dla młodzieży bez specjalnych;2013;17;osoba
+1140000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+1140000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+1140000000;technika uzupełniające dla młodzieży specjalne;2010;7;osoba
+1140000000;technika uzupełniające dla młodzieży specjalne;2011;6;osoba
+1140000000;technika uzupełniające dla młodzieży specjalne;2012;6;osoba
+1140000000;technika uzupełniające dla młodzieży specjalne;2013;6;osoba
+1140000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+1140000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;17;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;18;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;18;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;16;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;16;osoba
+1140000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;21;osoba
+1140000000;licea profilowane dla dorosłych;2010;21;osoba
+1140000000;licea profilowane dla dorosłych;2011;21;osoba
+1140000000;licea profilowane dla dorosłych;2012;21;osoba
+1140000000;licea profilowane dla dorosłych;2013;23;osoba
+1140000000;licea profilowane dla dorosłych;2014;21;osoba
+1140000000;licea profilowane dla dorosłych;2015;;osoba
+1140000000;technika dla dorosłych;2010;14;osoba
+1140000000;technika dla dorosłych;2011;14;osoba
+1140000000;technika dla dorosłych;2012;14;osoba
+1140000000;technika dla dorosłych;2013;15;osoba
+1140000000;technika dla dorosłych;2014;16;osoba
+1140000000;technika dla dorosłych;2015;24;osoba
+1140000000;technika uzupełniające dla dorosłych;2010;17;osoba
+1140000000;technika uzupełniające dla dorosłych;2011;18;osoba
+1140000000;technika uzupełniające dla dorosłych;2012;18;osoba
+1140000000;technika uzupełniające dla dorosłych;2013;15;osoba
+1140000000;technika uzupełniające dla dorosłych;2014;15;osoba
+1140000000;technika uzupełniające dla dorosłych;2015;10;osoba
+1140000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;7;osoba
+1140000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;7;osoba
+1140000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;17;osoba
+1140000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;9;osoba
+1140000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;8;osoba
+1140000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;9;osoba
+2120000000;ogółem;2010;22;osoba
+2120000000;ogółem;2011;23;osoba
+2120000000;ogółem;2012;23;osoba
+2120000000;ogółem;2013;24;osoba
+2120000000;ogółem;2014;25;osoba
+2120000000;ogółem;2015;23;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;25;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;25;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;25;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;25;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;26;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;26;osoba
+2120000000;licea profilowane dla młodzieży;2010;24;osoba
+2120000000;licea profilowane dla młodzieży;2011;23;osoba
+2120000000;licea profilowane dla młodzieży;2012;23;osoba
+2120000000;licea profilowane dla młodzieży;2013;19;osoba
+2120000000;licea profilowane dla młodzieży;2014;;osoba
+2120000000;licea profilowane dla młodzieży;2015;;osoba
+2120000000;licea profilowane dla młodzieży bez specjalnych;2010;25;osoba
+2120000000;licea profilowane dla młodzieży bez specjalnych;2011;24;osoba
+2120000000;licea profilowane dla młodzieży bez specjalnych;2012;23;osoba
+2120000000;licea profilowane dla młodzieży bez specjalnych;2013;20;osoba
+2120000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+2120000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+2120000000;licea profilowane dla młodzieży specjalne;2010;9;osoba
+2120000000;licea profilowane dla młodzieży specjalne;2011;11;osoba
+2120000000;licea profilowane dla młodzieży specjalne;2012;12;osoba
+2120000000;licea profilowane dla młodzieży specjalne;2013;9;osoba
+2120000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+2120000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+2120000000;technika i uzupełniające technika dla młodzieży;2010;25;osoba
+2120000000;technika i uzupełniające technika dla młodzieży;2011;25;osoba
+2120000000;technika i uzupełniające technika dla młodzieży;2012;25;osoba
+2120000000;technika i uzupełniające technika dla młodzieży;2013;25;osoba
+2120000000;technika i uzupełniające technika dla młodzieży;2014;26;osoba
+2120000000;technika i uzupełniające technika dla młodzieży;2015;26;osoba
+2120000000;technika dla młodzieży bez specjalnych;2010;26;osoba
+2120000000;technika dla młodzieży bez specjalnych;2011;25;osoba
+2120000000;technika dla młodzieży bez specjalnych;2012;25;osoba
+2120000000;technika dla młodzieży bez specjalnych;2013;26;osoba
+2120000000;technika dla młodzieży bez specjalnych;2014;26;osoba
+2120000000;technika dla młodzieży bez specjalnych;2015;26;osoba
+2120000000;technika dla młodzieży specjalne;2010;7;osoba
+2120000000;technika dla młodzieży specjalne;2011;8;osoba
+2120000000;technika dla młodzieży specjalne;2012;8;osoba
+2120000000;technika dla młodzieży specjalne;2013;8;osoba
+2120000000;technika dla młodzieży specjalne;2014;7;osoba
+2120000000;technika dla młodzieży specjalne;2015;8;osoba
+2120000000;technika uzupełniające dla młodzieży bez specjalnych;2010;19;osoba
+2120000000;technika uzupełniające dla młodzieży bez specjalnych;2011;19;osoba
+2120000000;technika uzupełniające dla młodzieży bez specjalnych;2012;15;osoba
+2120000000;technika uzupełniające dla młodzieży bez specjalnych;2013;13;osoba
+2120000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+2120000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+2120000000;technika uzupełniające dla młodzieży specjalne;2010;5;osoba
+2120000000;technika uzupełniające dla młodzieży specjalne;2011;6;osoba
+2120000000;technika uzupełniające dla młodzieży specjalne;2012;5;osoba
+2120000000;technika uzupełniające dla młodzieży specjalne;2013;5;osoba
+2120000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+2120000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;16;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;16;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;17;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;12;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;13;osoba
+2120000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+2120000000;licea profilowane dla dorosłych;2010;11;osoba
+2120000000;licea profilowane dla dorosłych;2011;7;osoba
+2120000000;licea profilowane dla dorosłych;2012;5;osoba
+2120000000;licea profilowane dla dorosłych;2013;0;osoba
+2120000000;licea profilowane dla dorosłych;2014;0;osoba
+2120000000;licea profilowane dla dorosłych;2015;;osoba
+2120000000;technika dla dorosłych;2010;9;osoba
+2120000000;technika dla dorosłych;2011;8;osoba
+2120000000;technika dla dorosłych;2012;6;osoba
+2120000000;technika dla dorosłych;2013;5;osoba
+2120000000;technika dla dorosłych;2014;8;osoba
+2120000000;technika dla dorosłych;2015;0;osoba
+2120000000;technika uzupełniające dla dorosłych;2010;18;osoba
+2120000000;technika uzupełniające dla dorosłych;2011;18;osoba
+2120000000;technika uzupełniające dla dorosłych;2012;20;osoba
+2120000000;technika uzupełniające dla dorosłych;2013;14;osoba
+2120000000;technika uzupełniające dla dorosłych;2014;14;osoba
+2120000000;technika uzupełniające dla dorosłych;2015;0;osoba
+2120000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;5;osoba
+2120000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;6;osoba
+2120000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;6;osoba
+2120000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;15;osoba
+2120000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;15;osoba
+2120000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;5;osoba
+2240000000;ogółem;2010;24;osoba
+2240000000;ogółem;2011;24;osoba
+2240000000;ogółem;2012;24;osoba
+2240000000;ogółem;2013;24;osoba
+2240000000;ogółem;2014;24;osoba
+2240000000;ogółem;2015;24;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;25;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;25;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;25;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;25;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;25;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;25;osoba
+2240000000;licea profilowane dla młodzieży;2010;23;osoba
+2240000000;licea profilowane dla młodzieży;2011;22;osoba
+2240000000;licea profilowane dla młodzieży;2012;20;osoba
+2240000000;licea profilowane dla młodzieży;2013;20;osoba
+2240000000;licea profilowane dla młodzieży;2014;;osoba
+2240000000;licea profilowane dla młodzieży;2015;;osoba
+2240000000;licea profilowane dla młodzieży bez specjalnych;2010;26;osoba
+2240000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+2240000000;licea profilowane dla młodzieży bez specjalnych;2012;24;osoba
+2240000000;licea profilowane dla młodzieży bez specjalnych;2013;23;osoba
+2240000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+2240000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+2240000000;licea profilowane dla młodzieży specjalne;2010;7;osoba
+2240000000;licea profilowane dla młodzieży specjalne;2011;7;osoba
+2240000000;licea profilowane dla młodzieży specjalne;2012;6;osoba
+2240000000;licea profilowane dla młodzieży specjalne;2013;7;osoba
+2240000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+2240000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+2240000000;technika i uzupełniające technika dla młodzieży;2010;25;osoba
+2240000000;technika i uzupełniające technika dla młodzieży;2011;25;osoba
+2240000000;technika i uzupełniające technika dla młodzieży;2012;25;osoba
+2240000000;technika i uzupełniające technika dla młodzieży;2013;25;osoba
+2240000000;technika i uzupełniające technika dla młodzieży;2014;25;osoba
+2240000000;technika i uzupełniające technika dla młodzieży;2015;25;osoba
+2240000000;technika dla młodzieży bez specjalnych;2010;25;osoba
+2240000000;technika dla młodzieży bez specjalnych;2011;25;osoba
+2240000000;technika dla młodzieży bez specjalnych;2012;25;osoba
+2240000000;technika dla młodzieży bez specjalnych;2013;25;osoba
+2240000000;technika dla młodzieży bez specjalnych;2014;25;osoba
+2240000000;technika dla młodzieży bez specjalnych;2015;25;osoba
+2240000000;technika dla młodzieży specjalne;2010;7;osoba
+2240000000;technika dla młodzieży specjalne;2011;7;osoba
+2240000000;technika dla młodzieży specjalne;2012;6;osoba
+2240000000;technika dla młodzieży specjalne;2013;7;osoba
+2240000000;technika dla młodzieży specjalne;2014;6;osoba
+2240000000;technika dla młodzieży specjalne;2015;6;osoba
+2240000000;technika uzupełniające dla młodzieży bez specjalnych;2010;20;osoba
+2240000000;technika uzupełniające dla młodzieży bez specjalnych;2011;19;osoba
+2240000000;technika uzupełniające dla młodzieży bez specjalnych;2012;14;osoba
+2240000000;technika uzupełniające dla młodzieży bez specjalnych;2013;10;osoba
+2240000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+2240000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+2240000000;technika uzupełniające dla młodzieży specjalne;2010;5;osoba
+2240000000;technika uzupełniające dla młodzieży specjalne;2011;6;osoba
+2240000000;technika uzupełniające dla młodzieży specjalne;2012;7;osoba
+2240000000;technika uzupełniające dla młodzieży specjalne;2013;5;osoba
+2240000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+2240000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;18;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;18;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;18;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;16;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;16;osoba
+2240000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;18;osoba
+2240000000;licea profilowane dla dorosłych;2010;23;osoba
+2240000000;licea profilowane dla dorosłych;2011;16;osoba
+2240000000;licea profilowane dla dorosłych;2012;13;osoba
+2240000000;licea profilowane dla dorosłych;2013;13;osoba
+2240000000;licea profilowane dla dorosłych;2014;7;osoba
+2240000000;licea profilowane dla dorosłych;2015;;osoba
+2240000000;technika dla dorosłych;2010;14;osoba
+2240000000;technika dla dorosłych;2011;18;osoba
+2240000000;technika dla dorosłych;2012;15;osoba
+2240000000;technika dla dorosłych;2013;15;osoba
+2240000000;technika dla dorosłych;2014;16;osoba
+2240000000;technika dla dorosłych;2015;19;osoba
+2240000000;technika uzupełniające dla dorosłych;2010;19;osoba
+2240000000;technika uzupełniające dla dorosłych;2011;18;osoba
+2240000000;technika uzupełniające dla dorosłych;2012;19;osoba
+2240000000;technika uzupełniające dla dorosłych;2013;16;osoba
+2240000000;technika uzupełniające dla dorosłych;2014;16;osoba
+2240000000;technika uzupełniające dla dorosłych;2015;12;osoba
+2240000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;36;osoba
+2240000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;24;osoba
+2240000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;21;osoba
+2240000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;21;osoba
+2240000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;21;osoba
+2240000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;19;osoba
+3060000000;ogółem;2010;23;osoba
+3060000000;ogółem;2011;23;osoba
+3060000000;ogółem;2012;22;osoba
+3060000000;ogółem;2013;22;osoba
+3060000000;ogółem;2014;22;osoba
+3060000000;ogółem;2015;22;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;23;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;23;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;23;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;23;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;23;osoba
+3060000000;licea profilowane dla młodzieży;2010;25;osoba
+3060000000;licea profilowane dla młodzieży;2011;24;osoba
+3060000000;licea profilowane dla młodzieży;2012;24;osoba
+3060000000;licea profilowane dla młodzieży;2013;23;osoba
+3060000000;licea profilowane dla młodzieży;2014;;osoba
+3060000000;licea profilowane dla młodzieży;2015;;osoba
+3060000000;licea profilowane dla młodzieży bez specjalnych;2010;25;osoba
+3060000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+3060000000;licea profilowane dla młodzieży bez specjalnych;2012;25;osoba
+3060000000;licea profilowane dla młodzieży bez specjalnych;2013;25;osoba
+3060000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+3060000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+3060000000;licea profilowane dla młodzieży specjalne;2010;7;osoba
+3060000000;licea profilowane dla młodzieży specjalne;2011;6;osoba
+3060000000;licea profilowane dla młodzieży specjalne;2012;6;osoba
+3060000000;licea profilowane dla młodzieży specjalne;2013;7;osoba
+3060000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+3060000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+3060000000;technika i uzupełniające technika dla młodzieży;2010;23;osoba
+3060000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+3060000000;technika i uzupełniające technika dla młodzieży;2012;23;osoba
+3060000000;technika i uzupełniające technika dla młodzieży;2013;23;osoba
+3060000000;technika i uzupełniające technika dla młodzieży;2014;23;osoba
+3060000000;technika i uzupełniające technika dla młodzieży;2015;23;osoba
+3060000000;technika dla młodzieży bez specjalnych;2010;23;osoba
+3060000000;technika dla młodzieży bez specjalnych;2011;23;osoba
+3060000000;technika dla młodzieży bez specjalnych;2012;23;osoba
+3060000000;technika dla młodzieży bez specjalnych;2013;23;osoba
+3060000000;technika dla młodzieży bez specjalnych;2014;23;osoba
+3060000000;technika dla młodzieży bez specjalnych;2015;23;osoba
+3060000000;technika dla młodzieży specjalne;2010;0;osoba
+3060000000;technika dla młodzieży specjalne;2011;0;osoba
+3060000000;technika dla młodzieży specjalne;2012;5;osoba
+3060000000;technika dla młodzieży specjalne;2013;6;osoba
+3060000000;technika dla młodzieży specjalne;2014;6;osoba
+3060000000;technika dla młodzieży specjalne;2015;5;osoba
+3060000000;technika uzupełniające dla młodzieży bez specjalnych;2010;19;osoba
+3060000000;technika uzupełniające dla młodzieży bez specjalnych;2011;19;osoba
+3060000000;technika uzupełniające dla młodzieży bez specjalnych;2012;17;osoba
+3060000000;technika uzupełniające dla młodzieży bez specjalnych;2013;17;osoba
+3060000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+3060000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+3060000000;technika uzupełniające dla młodzieży specjalne;2010;0;osoba
+3060000000;technika uzupełniające dla młodzieży specjalne;2011;0;osoba
+3060000000;technika uzupełniające dla młodzieży specjalne;2012;0;osoba
+3060000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+3060000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+3060000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;16;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;17;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;17;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;13;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;14;osoba
+3060000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+3060000000;licea profilowane dla dorosłych;2010;23;osoba
+3060000000;licea profilowane dla dorosłych;2011;22;osoba
+3060000000;licea profilowane dla dorosłych;2012;19;osoba
+3060000000;licea profilowane dla dorosłych;2013;15;osoba
+3060000000;licea profilowane dla dorosłych;2014;0;osoba
+3060000000;licea profilowane dla dorosłych;2015;;osoba
+3060000000;technika dla dorosłych;2010;13;osoba
+3060000000;technika dla dorosłych;2011;17;osoba
+3060000000;technika dla dorosłych;2012;14;osoba
+3060000000;technika dla dorosłych;2013;0;osoba
+3060000000;technika dla dorosłych;2014;0;osoba
+3060000000;technika dla dorosłych;2015;0;osoba
+3060000000;technika uzupełniające dla dorosłych;2010;15;osoba
+3060000000;technika uzupełniające dla dorosłych;2011;17;osoba
+3060000000;technika uzupełniające dla dorosłych;2012;17;osoba
+3060000000;technika uzupełniające dla dorosłych;2013;13;osoba
+3060000000;technika uzupełniające dla dorosłych;2014;14;osoba
+3060000000;technika uzupełniające dla dorosłych;2015;0;osoba
+3060000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;28;osoba
+3060000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;28;osoba
+3060000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;14;osoba
+3060000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;14;osoba
+3060000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;14;osoba
+3060000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;12;osoba
+3180000000;ogółem;2010;26;osoba
+3180000000;ogółem;2011;25;osoba
+3180000000;ogółem;2012;26;osoba
+3180000000;ogółem;2013;26;osoba
+3180000000;ogółem;2014;26;osoba
+3180000000;ogółem;2015;26;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;26;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;26;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;26;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;26;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;27;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;27;osoba
+3180000000;licea profilowane dla młodzieży;2010;27;osoba
+3180000000;licea profilowane dla młodzieży;2011;26;osoba
+3180000000;licea profilowane dla młodzieży;2012;26;osoba
+3180000000;licea profilowane dla młodzieży;2013;24;osoba
+3180000000;licea profilowane dla młodzieży;2014;;osoba
+3180000000;licea profilowane dla młodzieży;2015;;osoba
+3180000000;licea profilowane dla młodzieży bez specjalnych;2010;27;osoba
+3180000000;licea profilowane dla młodzieży bez specjalnych;2011;27;osoba
+3180000000;licea profilowane dla młodzieży bez specjalnych;2012;26;osoba
+3180000000;licea profilowane dla młodzieży bez specjalnych;2013;25;osoba
+3180000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+3180000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+3180000000;licea profilowane dla młodzieży specjalne;2010;8;osoba
+3180000000;licea profilowane dla młodzieży specjalne;2011;9;osoba
+3180000000;licea profilowane dla młodzieży specjalne;2012;10;osoba
+3180000000;licea profilowane dla młodzieży specjalne;2013;10;osoba
+3180000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+3180000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+3180000000;technika i uzupełniające technika dla młodzieży;2010;26;osoba
+3180000000;technika i uzupełniające technika dla młodzieży;2011;26;osoba
+3180000000;technika i uzupełniające technika dla młodzieży;2012;26;osoba
+3180000000;technika i uzupełniające technika dla młodzieży;2013;26;osoba
+3180000000;technika i uzupełniające technika dla młodzieży;2014;27;osoba
+3180000000;technika i uzupełniające technika dla młodzieży;2015;27;osoba
+3180000000;technika dla młodzieży bez specjalnych;2010;26;osoba
+3180000000;technika dla młodzieży bez specjalnych;2011;26;osoba
+3180000000;technika dla młodzieży bez specjalnych;2012;26;osoba
+3180000000;technika dla młodzieży bez specjalnych;2013;27;osoba
+3180000000;technika dla młodzieży bez specjalnych;2014;27;osoba
+3180000000;technika dla młodzieży bez specjalnych;2015;27;osoba
+3180000000;technika dla młodzieży specjalne;2010;0;osoba
+3180000000;technika dla młodzieży specjalne;2011;0;osoba
+3180000000;technika dla młodzieży specjalne;2012;8;osoba
+3180000000;technika dla młodzieży specjalne;2013;7;osoba
+3180000000;technika dla młodzieży specjalne;2014;8;osoba
+3180000000;technika dla młodzieży specjalne;2015;8;osoba
+3180000000;technika uzupełniające dla młodzieży bez specjalnych;2010;18;osoba
+3180000000;technika uzupełniające dla młodzieży bez specjalnych;2011;20;osoba
+3180000000;technika uzupełniające dla młodzieży bez specjalnych;2012;18;osoba
+3180000000;technika uzupełniające dla młodzieży bez specjalnych;2013;16;osoba
+3180000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+3180000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+3180000000;technika uzupełniające dla młodzieży specjalne;2010;0;osoba
+3180000000;technika uzupełniające dla młodzieży specjalne;2011;0;osoba
+3180000000;technika uzupełniające dla młodzieży specjalne;2012;0;osoba
+3180000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+3180000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+3180000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;22;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;21;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;22;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;19;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;21;osoba
+3180000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+3180000000;licea profilowane dla dorosłych;2010;0;osoba
+3180000000;licea profilowane dla dorosłych;2011;0;osoba
+3180000000;licea profilowane dla dorosłych;2012;0;osoba
+3180000000;licea profilowane dla dorosłych;2013;0;osoba
+3180000000;licea profilowane dla dorosłych;2014;0;osoba
+3180000000;licea profilowane dla dorosłych;2015;;osoba
+3180000000;technika dla dorosłych;2010;17;osoba
+3180000000;technika dla dorosłych;2011;13;osoba
+3180000000;technika dla dorosłych;2012;13;osoba
+3180000000;technika dla dorosłych;2013;15;osoba
+3180000000;technika dla dorosłych;2014;0;osoba
+3180000000;technika dla dorosłych;2015;0;osoba
+3180000000;technika uzupełniające dla dorosłych;2010;23;osoba
+3180000000;technika uzupełniające dla dorosłych;2011;23;osoba
+3180000000;technika uzupełniające dla dorosłych;2012;23;osoba
+3180000000;technika uzupełniające dla dorosłych;2013;19;osoba
+3180000000;technika uzupełniające dla dorosłych;2014;21;osoba
+3180000000;technika uzupełniające dla dorosłych;2015;0;osoba
+3180000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;23;osoba
+3180000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;19;osoba
+3180000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;15;osoba
+3180000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;15;osoba
+3180000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;17;osoba
+3180000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;15;osoba
+3200000000;ogółem;2010;23;osoba
+3200000000;ogółem;2011;23;osoba
+3200000000;ogółem;2012;23;osoba
+3200000000;ogółem;2013;23;osoba
+3200000000;ogółem;2014;23;osoba
+3200000000;ogółem;2015;22;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;23;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;23;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;23;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;23;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;23;osoba
+3200000000;licea profilowane dla młodzieży;2010;23;osoba
+3200000000;licea profilowane dla młodzieży;2011;22;osoba
+3200000000;licea profilowane dla młodzieży;2012;22;osoba
+3200000000;licea profilowane dla młodzieży;2013;20;osoba
+3200000000;licea profilowane dla młodzieży;2014;;osoba
+3200000000;licea profilowane dla młodzieży;2015;;osoba
+3200000000;licea profilowane dla młodzieży bez specjalnych;2010;23;osoba
+3200000000;licea profilowane dla młodzieży bez specjalnych;2011;22;osoba
+3200000000;licea profilowane dla młodzieży bez specjalnych;2012;22;osoba
+3200000000;licea profilowane dla młodzieży bez specjalnych;2013;20;osoba
+3200000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+3200000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+3200000000;licea profilowane dla młodzieży specjalne;2010;0;osoba
+3200000000;licea profilowane dla młodzieży specjalne;2011;0;osoba
+3200000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+3200000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+3200000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+3200000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+3200000000;technika i uzupełniające technika dla młodzieży;2010;23;osoba
+3200000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+3200000000;technika i uzupełniające technika dla młodzieży;2012;23;osoba
+3200000000;technika i uzupełniające technika dla młodzieży;2013;23;osoba
+3200000000;technika i uzupełniające technika dla młodzieży;2014;23;osoba
+3200000000;technika i uzupełniające technika dla młodzieży;2015;23;osoba
+3200000000;technika dla młodzieży bez specjalnych;2010;23;osoba
+3200000000;technika dla młodzieży bez specjalnych;2011;23;osoba
+3200000000;technika dla młodzieży bez specjalnych;2012;23;osoba
+3200000000;technika dla młodzieży bez specjalnych;2013;23;osoba
+3200000000;technika dla młodzieży bez specjalnych;2014;23;osoba
+3200000000;technika dla młodzieży bez specjalnych;2015;23;osoba
+3200000000;technika dla młodzieży specjalne;2010;0;osoba
+3200000000;technika dla młodzieży specjalne;2011;0;osoba
+3200000000;technika dla młodzieży specjalne;2012;0;osoba
+3200000000;technika dla młodzieży specjalne;2013;0;osoba
+3200000000;technika dla młodzieży specjalne;2014;0;osoba
+3200000000;technika dla młodzieży specjalne;2015;6;osoba
+3200000000;technika uzupełniające dla młodzieży bez specjalnych;2010;19;osoba
+3200000000;technika uzupełniające dla młodzieży bez specjalnych;2011;18;osoba
+3200000000;technika uzupełniające dla młodzieży bez specjalnych;2012;18;osoba
+3200000000;technika uzupełniające dla młodzieży bez specjalnych;2013;14;osoba
+3200000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+3200000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+3200000000;technika uzupełniające dla młodzieży specjalne;2010;0;osoba
+3200000000;technika uzupełniające dla młodzieży specjalne;2011;0;osoba
+3200000000;technika uzupełniające dla młodzieży specjalne;2012;0;osoba
+3200000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+3200000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+3200000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;17;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;18;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;20;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;16;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;15;osoba
+3200000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;16;osoba
+3200000000;licea profilowane dla dorosłych;2010;0;osoba
+3200000000;licea profilowane dla dorosłych;2011;0;osoba
+3200000000;licea profilowane dla dorosłych;2012;0;osoba
+3200000000;licea profilowane dla dorosłych;2013;0;osoba
+3200000000;licea profilowane dla dorosłych;2014;0;osoba
+3200000000;licea profilowane dla dorosłych;2015;;osoba
+3200000000;technika dla dorosłych;2010;18;osoba
+3200000000;technika dla dorosłych;2011;21;osoba
+3200000000;technika dla dorosłych;2012;22;osoba
+3200000000;technika dla dorosłych;2013;20;osoba
+3200000000;technika dla dorosłych;2014;25;osoba
+3200000000;technika dla dorosłych;2015;0;osoba
+3200000000;technika uzupełniające dla dorosłych;2010;16;osoba
+3200000000;technika uzupełniające dla dorosłych;2011;16;osoba
+3200000000;technika uzupełniające dla dorosłych;2012;19;osoba
+3200000000;technika uzupełniające dla dorosłych;2013;15;osoba
+3200000000;technika uzupełniające dla dorosłych;2014;12;osoba
+3200000000;technika uzupełniające dla dorosłych;2015;16;osoba
+3200000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;20;osoba
+3200000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;26;osoba
+3200000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;19;osoba
+3200000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;17;osoba
+3200000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;17;osoba
+3200000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;16;osoba
+3260000000;ogółem;2010;23;osoba
+3260000000;ogółem;2011;23;osoba
+3260000000;ogółem;2012;23;osoba
+3260000000;ogółem;2013;23;osoba
+3260000000;ogółem;2014;23;osoba
+3260000000;ogółem;2015;23;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;24;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;24;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;23;osoba
+3260000000;licea profilowane dla młodzieży;2010;27;osoba
+3260000000;licea profilowane dla młodzieży;2011;25;osoba
+3260000000;licea profilowane dla młodzieży;2012;23;osoba
+3260000000;licea profilowane dla młodzieży;2013;22;osoba
+3260000000;licea profilowane dla młodzieży;2014;;osoba
+3260000000;licea profilowane dla młodzieży;2015;;osoba
+3260000000;licea profilowane dla młodzieży bez specjalnych;2010;27;osoba
+3260000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+3260000000;licea profilowane dla młodzieży bez specjalnych;2012;23;osoba
+3260000000;licea profilowane dla młodzieży bez specjalnych;2013;22;osoba
+3260000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+3260000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+3260000000;licea profilowane dla młodzieży specjalne;2010;0;osoba
+3260000000;licea profilowane dla młodzieży specjalne;2011;0;osoba
+3260000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+3260000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+3260000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+3260000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+3260000000;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+3260000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+3260000000;technika i uzupełniające technika dla młodzieży;2012;24;osoba
+3260000000;technika i uzupełniające technika dla młodzieży;2013;24;osoba
+3260000000;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+3260000000;technika i uzupełniające technika dla młodzieży;2015;23;osoba
+3260000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+3260000000;technika dla młodzieży bez specjalnych;2011;23;osoba
+3260000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+3260000000;technika dla młodzieży bez specjalnych;2013;24;osoba
+3260000000;technika dla młodzieży bez specjalnych;2014;24;osoba
+3260000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+3260000000;technika dla młodzieży specjalne;2010;10;osoba
+3260000000;technika dla młodzieży specjalne;2011;7;osoba
+3260000000;technika dla młodzieży specjalne;2012;7;osoba
+3260000000;technika dla młodzieży specjalne;2013;7;osoba
+3260000000;technika dla młodzieży specjalne;2014;7;osoba
+3260000000;technika dla młodzieży specjalne;2015;7;osoba
+3260000000;technika uzupełniające dla młodzieży bez specjalnych;2010;23;osoba
+3260000000;technika uzupełniające dla młodzieży bez specjalnych;2011;20;osoba
+3260000000;technika uzupełniające dla młodzieży bez specjalnych;2012;19;osoba
+3260000000;technika uzupełniające dla młodzieży bez specjalnych;2013;16;osoba
+3260000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+3260000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+3260000000;technika uzupełniające dla młodzieży specjalne;2010;7;osoba
+3260000000;technika uzupełniające dla młodzieży specjalne;2011;7;osoba
+3260000000;technika uzupełniające dla młodzieży specjalne;2012;8;osoba
+3260000000;technika uzupełniające dla młodzieży specjalne;2013;7;osoba
+3260000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+3260000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;19;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;20;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;20;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;18;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;20;osoba
+3260000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+3260000000;licea profilowane dla dorosłych;2010;26;osoba
+3260000000;licea profilowane dla dorosłych;2011;25;osoba
+3260000000;licea profilowane dla dorosłych;2012;21;osoba
+3260000000;licea profilowane dla dorosłych;2013;17;osoba
+3260000000;licea profilowane dla dorosłych;2014;13;osoba
+3260000000;licea profilowane dla dorosłych;2015;;osoba
+3260000000;technika dla dorosłych;2010;10;osoba
+3260000000;technika dla dorosłych;2011;12;osoba
+3260000000;technika dla dorosłych;2012;9;osoba
+3260000000;technika dla dorosłych;2013;6;osoba
+3260000000;technika dla dorosłych;2014;5;osoba
+3260000000;technika dla dorosłych;2015;0;osoba
+3260000000;technika uzupełniające dla dorosłych;2010;20;osoba
+3260000000;technika uzupełniające dla dorosłych;2011;21;osoba
+3260000000;technika uzupełniające dla dorosłych;2012;21;osoba
+3260000000;technika uzupełniające dla dorosłych;2013;20;osoba
+3260000000;technika uzupełniające dla dorosłych;2014;22;osoba
+3260000000;technika uzupełniające dla dorosłych;2015;0;osoba
+3260000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;20;osoba
+3260000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;20;osoba
+3260000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;20;osoba
+3260000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;21;osoba
+3260000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;21;osoba
+3260000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;23;osoba
+4080000000;ogółem;2010;23;osoba
+4080000000;ogółem;2011;23;osoba
+4080000000;ogółem;2012;23;osoba
+4080000000;ogółem;2013;23;osoba
+4080000000;ogółem;2014;24;osoba
+4080000000;ogółem;2015;24;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;23;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;23;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;24;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+4080000000;licea profilowane dla młodzieży;2010;24;osoba
+4080000000;licea profilowane dla młodzieży;2011;25;osoba
+4080000000;licea profilowane dla młodzieży;2012;24;osoba
+4080000000;licea profilowane dla młodzieży;2013;21;osoba
+4080000000;licea profilowane dla młodzieży;2014;;osoba
+4080000000;licea profilowane dla młodzieży;2015;;osoba
+4080000000;licea profilowane dla młodzieży bez specjalnych;2010;24;osoba
+4080000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+4080000000;licea profilowane dla młodzieży bez specjalnych;2012;24;osoba
+4080000000;licea profilowane dla młodzieży bez specjalnych;2013;21;osoba
+4080000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+4080000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+4080000000;licea profilowane dla młodzieży specjalne;2010;0;osoba
+4080000000;licea profilowane dla młodzieży specjalne;2011;0;osoba
+4080000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+4080000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+4080000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+4080000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+4080000000;technika i uzupełniające technika dla młodzieży;2010;23;osoba
+4080000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+4080000000;technika i uzupełniające technika dla młodzieży;2012;23;osoba
+4080000000;technika i uzupełniające technika dla młodzieży;2013;24;osoba
+4080000000;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+4080000000;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+4080000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+4080000000;technika dla młodzieży bez specjalnych;2011;24;osoba
+4080000000;technika dla młodzieży bez specjalnych;2012;23;osoba
+4080000000;technika dla młodzieży bez specjalnych;2013;24;osoba
+4080000000;technika dla młodzieży bez specjalnych;2014;24;osoba
+4080000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+4080000000;technika dla młodzieży specjalne;2010;6;osoba
+4080000000;technika dla młodzieży specjalne;2011;3;osoba
+4080000000;technika dla młodzieży specjalne;2012;0;osoba
+4080000000;technika dla młodzieży specjalne;2013;0;osoba
+4080000000;technika dla młodzieży specjalne;2014;0;osoba
+4080000000;technika dla młodzieży specjalne;2015;0;osoba
+4080000000;technika uzupełniające dla młodzieży bez specjalnych;2010;17;osoba
+4080000000;technika uzupełniające dla młodzieży bez specjalnych;2011;12;osoba
+4080000000;technika uzupełniające dla młodzieży bez specjalnych;2012;10;osoba
+4080000000;technika uzupełniające dla młodzieży bez specjalnych;2013;0;osoba
+4080000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+4080000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+4080000000;technika uzupełniające dla młodzieży specjalne;2010;9;osoba
+4080000000;technika uzupełniające dla młodzieży specjalne;2011;9;osoba
+4080000000;technika uzupełniające dla młodzieży specjalne;2012;7;osoba
+4080000000;technika uzupełniające dla młodzieży specjalne;2013;7;osoba
+4080000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+4080000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;16;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;15;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;14;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;12;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;11;osoba
+4080000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+4080000000;licea profilowane dla dorosłych;2010;17;osoba
+4080000000;licea profilowane dla dorosłych;2011;18;osoba
+4080000000;licea profilowane dla dorosłych;2012;17;osoba
+4080000000;licea profilowane dla dorosłych;2013;15;osoba
+4080000000;licea profilowane dla dorosłych;2014;0;osoba
+4080000000;licea profilowane dla dorosłych;2015;;osoba
+4080000000;technika dla dorosłych;2010;19;osoba
+4080000000;technika dla dorosłych;2011;17;osoba
+4080000000;technika dla dorosłych;2012;7;osoba
+4080000000;technika dla dorosłych;2013;5;osoba
+4080000000;technika dla dorosłych;2014;6;osoba
+4080000000;technika dla dorosłych;2015;0;osoba
+4080000000;technika uzupełniające dla dorosłych;2010;15;osoba
+4080000000;technika uzupełniające dla dorosłych;2011;14;osoba
+4080000000;technika uzupełniające dla dorosłych;2012;15;osoba
+4080000000;technika uzupełniające dla dorosłych;2013;13;osoba
+4080000000;technika uzupełniające dla dorosłych;2014;12;osoba
+4080000000;technika uzupełniające dla dorosłych;2015;0;osoba
+4080000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;22;osoba
+4080000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;22;osoba
+4080000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;23;osoba
+4080000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;23;osoba
+4080000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;22;osoba
+4080000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;21;osoba
+4300000000;ogółem;2010;23;osoba
+4300000000;ogółem;2011;23;osoba
+4300000000;ogółem;2012;24;osoba
+4300000000;ogółem;2013;24;osoba
+4300000000;ogółem;2014;24;osoba
+4300000000;ogółem;2015;24;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;24;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;24;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;24;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;25;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;25;osoba
+4300000000;licea profilowane dla młodzieży;2010;24;osoba
+4300000000;licea profilowane dla młodzieży;2011;23;osoba
+4300000000;licea profilowane dla młodzieży;2012;22;osoba
+4300000000;licea profilowane dla młodzieży;2013;21;osoba
+4300000000;licea profilowane dla młodzieży;2014;;osoba
+4300000000;licea profilowane dla młodzieży;2015;;osoba
+4300000000;licea profilowane dla młodzieży bez specjalnych;2010;24;osoba
+4300000000;licea profilowane dla młodzieży bez specjalnych;2011;24;osoba
+4300000000;licea profilowane dla młodzieży bez specjalnych;2012;23;osoba
+4300000000;licea profilowane dla młodzieży bez specjalnych;2013;21;osoba
+4300000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+4300000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+4300000000;licea profilowane dla młodzieży specjalne;2010;7;osoba
+4300000000;licea profilowane dla młodzieży specjalne;2011;6;osoba
+4300000000;licea profilowane dla młodzieży specjalne;2012;7;osoba
+4300000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+4300000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+4300000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+4300000000;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+4300000000;technika i uzupełniające technika dla młodzieży;2011;24;osoba
+4300000000;technika i uzupełniające technika dla młodzieży;2012;24;osoba
+4300000000;technika i uzupełniające technika dla młodzieży;2013;25;osoba
+4300000000;technika i uzupełniające technika dla młodzieży;2014;25;osoba
+4300000000;technika i uzupełniające technika dla młodzieży;2015;25;osoba
+4300000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+4300000000;technika dla młodzieży bez specjalnych;2011;24;osoba
+4300000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+4300000000;technika dla młodzieży bez specjalnych;2013;25;osoba
+4300000000;technika dla młodzieży bez specjalnych;2014;25;osoba
+4300000000;technika dla młodzieży bez specjalnych;2015;25;osoba
+4300000000;technika dla młodzieży specjalne;2010;6;osoba
+4300000000;technika dla młodzieży specjalne;2011;6;osoba
+4300000000;technika dla młodzieży specjalne;2012;7;osoba
+4300000000;technika dla młodzieży specjalne;2013;7;osoba
+4300000000;technika dla młodzieży specjalne;2014;7;osoba
+4300000000;technika dla młodzieży specjalne;2015;7;osoba
+4300000000;technika uzupełniające dla młodzieży bez specjalnych;2010;21;osoba
+4300000000;technika uzupełniające dla młodzieży bez specjalnych;2011;23;osoba
+4300000000;technika uzupełniające dla młodzieży bez specjalnych;2012;20;osoba
+4300000000;technika uzupełniające dla młodzieży bez specjalnych;2013;20;osoba
+4300000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+4300000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+4300000000;technika uzupełniające dla młodzieży specjalne;2010;6;osoba
+4300000000;technika uzupełniające dla młodzieży specjalne;2011;6;osoba
+4300000000;technika uzupełniające dla młodzieży specjalne;2012;4;osoba
+4300000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+4300000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+4300000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;20;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;19;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;20;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;16;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;16;osoba
+4300000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+4300000000;licea profilowane dla dorosłych;2010;22;osoba
+4300000000;licea profilowane dla dorosłych;2011;18;osoba
+4300000000;licea profilowane dla dorosłych;2012;16;osoba
+4300000000;licea profilowane dla dorosłych;2013;14;osoba
+4300000000;licea profilowane dla dorosłych;2014;0;osoba
+4300000000;licea profilowane dla dorosłych;2015;;osoba
+4300000000;technika dla dorosłych;2010;18;osoba
+4300000000;technika dla dorosłych;2011;16;osoba
+4300000000;technika dla dorosłych;2012;13;osoba
+4300000000;technika dla dorosłych;2013;13;osoba
+4300000000;technika dla dorosłych;2014;15;osoba
+4300000000;technika dla dorosłych;2015;0;osoba
+4300000000;technika uzupełniające dla dorosłych;2010;20;osoba
+4300000000;technika uzupełniające dla dorosłych;2011;19;osoba
+4300000000;technika uzupełniające dla dorosłych;2012;21;osoba
+4300000000;technika uzupełniające dla dorosłych;2013;17;osoba
+4300000000;technika uzupełniające dla dorosłych;2014;16;osoba
+4300000000;technika uzupełniające dla dorosłych;2015;0;osoba
+4300000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;15;osoba
+4300000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;14;osoba
+4300000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;20;osoba
+4300000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;20;osoba
+4300000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;19;osoba
+4300000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;19;osoba
+4320000000;ogółem;2010;20;osoba
+4320000000;ogółem;2011;20;osoba
+4320000000;ogółem;2012;23;osoba
+4320000000;ogółem;2013;22;osoba
+4320000000;ogółem;2014;21;osoba
+4320000000;ogółem;2015;21;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;23;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;24;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;23;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;23;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;23;osoba
+4320000000;licea profilowane dla młodzieży;2010;20;osoba
+4320000000;licea profilowane dla młodzieży;2011;20;osoba
+4320000000;licea profilowane dla młodzieży;2012;17;osoba
+4320000000;licea profilowane dla młodzieży;2013;17;osoba
+4320000000;licea profilowane dla młodzieży;2014;;osoba
+4320000000;licea profilowane dla młodzieży;2015;;osoba
+4320000000;licea profilowane dla młodzieży bez specjalnych;2010;23;osoba
+4320000000;licea profilowane dla młodzieży bez specjalnych;2011;24;osoba
+4320000000;licea profilowane dla młodzieży bez specjalnych;2012;20;osoba
+4320000000;licea profilowane dla młodzieży bez specjalnych;2013;21;osoba
+4320000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+4320000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+4320000000;licea profilowane dla młodzieży specjalne;2010;8;osoba
+4320000000;licea profilowane dla młodzieży specjalne;2011;8;osoba
+4320000000;licea profilowane dla młodzieży specjalne;2012;9;osoba
+4320000000;licea profilowane dla młodzieży specjalne;2013;10;osoba
+4320000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+4320000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+4320000000;technika i uzupełniające technika dla młodzieży;2010;23;osoba
+4320000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+4320000000;technika i uzupełniające technika dla młodzieży;2012;24;osoba
+4320000000;technika i uzupełniające technika dla młodzieży;2013;23;osoba
+4320000000;technika i uzupełniające technika dla młodzieży;2014;23;osoba
+4320000000;technika i uzupełniające technika dla młodzieży;2015;23;osoba
+4320000000;technika dla młodzieży bez specjalnych;2010;23;osoba
+4320000000;technika dla młodzieży bez specjalnych;2011;23;osoba
+4320000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+4320000000;technika dla młodzieży bez specjalnych;2013;23;osoba
+4320000000;technika dla młodzieży bez specjalnych;2014;23;osoba
+4320000000;technika dla młodzieży bez specjalnych;2015;23;osoba
+4320000000;technika dla młodzieży specjalne;2010;6;osoba
+4320000000;technika dla młodzieży specjalne;2011;5;osoba
+4320000000;technika dla młodzieży specjalne;2012;5;osoba
+4320000000;technika dla młodzieży specjalne;2013;6;osoba
+4320000000;technika dla młodzieży specjalne;2014;6;osoba
+4320000000;technika dla młodzieży specjalne;2015;7;osoba
+4320000000;technika uzupełniające dla młodzieży bez specjalnych;2010;17;osoba
+4320000000;technika uzupełniające dla młodzieży bez specjalnych;2011;16;osoba
+4320000000;technika uzupełniające dla młodzieży bez specjalnych;2012;13;osoba
+4320000000;technika uzupełniające dla młodzieży bez specjalnych;2013;13;osoba
+4320000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+4320000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+4320000000;technika uzupełniające dla młodzieży specjalne;2010;5;osoba
+4320000000;technika uzupełniające dla młodzieży specjalne;2011;4;osoba
+4320000000;technika uzupełniające dla młodzieży specjalne;2012;4;osoba
+4320000000;technika uzupełniające dla młodzieży specjalne;2013;4;osoba
+4320000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+4320000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;14;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;14;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;16;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;14;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;13;osoba
+4320000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+4320000000;licea profilowane dla dorosłych;2010;38;osoba
+4320000000;licea profilowane dla dorosłych;2011;37;osoba
+4320000000;licea profilowane dla dorosłych;2012;21;osoba
+4320000000;licea profilowane dla dorosłych;2013;15;osoba
+4320000000;licea profilowane dla dorosłych;2014;12;osoba
+4320000000;licea profilowane dla dorosłych;2015;;osoba
+4320000000;technika dla dorosłych;2010;18;osoba
+4320000000;technika dla dorosłych;2011;13;osoba
+4320000000;technika dla dorosłych;2012;12;osoba
+4320000000;technika dla dorosłych;2013;10;osoba
+4320000000;technika dla dorosłych;2014;13;osoba
+4320000000;technika dla dorosłych;2015;0;osoba
+4320000000;technika uzupełniające dla dorosłych;2010;12;osoba
+4320000000;technika uzupełniające dla dorosłych;2011;13;osoba
+4320000000;technika uzupełniające dla dorosłych;2012;16;osoba
+4320000000;technika uzupełniające dla dorosłych;2013;14;osoba
+4320000000;technika uzupełniające dla dorosłych;2014;13;osoba
+4320000000;technika uzupełniające dla dorosłych;2015;0;osoba
+4320000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;4;osoba
+4320000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;4;osoba
+4320000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;14;osoba
+4320000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;6;osoba
+4320000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;6;osoba
+4320000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;6;osoba
+5020000000;ogółem;2010;24;osoba
+5020000000;ogółem;2011;24;osoba
+5020000000;ogółem;2012;24;osoba
+5020000000;ogółem;2013;24;osoba
+5020000000;ogółem;2014;24;osoba
+5020000000;ogółem;2015;24;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;24;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;25;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;25;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+5020000000;licea profilowane dla młodzieży;2010;25;osoba
+5020000000;licea profilowane dla młodzieży;2011;25;osoba
+5020000000;licea profilowane dla młodzieży;2012;23;osoba
+5020000000;licea profilowane dla młodzieży;2013;21;osoba
+5020000000;licea profilowane dla młodzieży;2014;;osoba
+5020000000;licea profilowane dla młodzieży;2015;;osoba
+5020000000;licea profilowane dla młodzieży bez specjalnych;2010;25;osoba
+5020000000;licea profilowane dla młodzieży bez specjalnych;2011;25;osoba
+5020000000;licea profilowane dla młodzieży bez specjalnych;2012;23;osoba
+5020000000;licea profilowane dla młodzieży bez specjalnych;2013;21;osoba
+5020000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+5020000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+5020000000;licea profilowane dla młodzieży specjalne;2010;0;osoba
+5020000000;licea profilowane dla młodzieży specjalne;2011;0;osoba
+5020000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+5020000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+5020000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+5020000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+5020000000;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+5020000000;technika i uzupełniające technika dla młodzieży;2011;24;osoba
+5020000000;technika i uzupełniające technika dla młodzieży;2012;25;osoba
+5020000000;technika i uzupełniające technika dla młodzieży;2013;25;osoba
+5020000000;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+5020000000;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+5020000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+5020000000;technika dla młodzieży bez specjalnych;2011;25;osoba
+5020000000;technika dla młodzieży bez specjalnych;2012;25;osoba
+5020000000;technika dla młodzieży bez specjalnych;2013;25;osoba
+5020000000;technika dla młodzieży bez specjalnych;2014;24;osoba
+5020000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+5020000000;technika dla młodzieży specjalne;2010;8;osoba
+5020000000;technika dla młodzieży specjalne;2011;9;osoba
+5020000000;technika dla młodzieży specjalne;2012;7;osoba
+5020000000;technika dla młodzieży specjalne;2013;7;osoba
+5020000000;technika dla młodzieży specjalne;2014;7;osoba
+5020000000;technika dla młodzieży specjalne;2015;6;osoba
+5020000000;technika uzupełniające dla młodzieży bez specjalnych;2010;21;osoba
+5020000000;technika uzupełniające dla młodzieży bez specjalnych;2011;18;osoba
+5020000000;technika uzupełniające dla młodzieży bez specjalnych;2012;17;osoba
+5020000000;technika uzupełniające dla młodzieży bez specjalnych;2013;21;osoba
+5020000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+5020000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+5020000000;technika uzupełniające dla młodzieży specjalne;2010;0;osoba
+5020000000;technika uzupełniające dla młodzieży specjalne;2011;0;osoba
+5020000000;technika uzupełniające dla młodzieży specjalne;2012;0;osoba
+5020000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+5020000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+5020000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;19;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;18;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;18;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;15;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;13;osoba
+5020000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;8;osoba
+5020000000;licea profilowane dla dorosłych;2010;21;osoba
+5020000000;licea profilowane dla dorosłych;2011;21;osoba
+5020000000;licea profilowane dla dorosłych;2012;23;osoba
+5020000000;licea profilowane dla dorosłych;2013;25;osoba
+5020000000;licea profilowane dla dorosłych;2014;0;osoba
+5020000000;licea profilowane dla dorosłych;2015;;osoba
+5020000000;technika dla dorosłych;2010;18;osoba
+5020000000;technika dla dorosłych;2011;18;osoba
+5020000000;technika dla dorosłych;2012;14;osoba
+5020000000;technika dla dorosłych;2013;13;osoba
+5020000000;technika dla dorosłych;2014;17;osoba
+5020000000;technika dla dorosłych;2015;8;osoba
+5020000000;technika uzupełniające dla dorosłych;2010;18;osoba
+5020000000;technika uzupełniające dla dorosłych;2011;17;osoba
+5020000000;technika uzupełniające dla dorosłych;2012;18;osoba
+5020000000;technika uzupełniające dla dorosłych;2013;14;osoba
+5020000000;technika uzupełniające dla dorosłych;2014;13;osoba
+5020000000;technika uzupełniające dla dorosłych;2015;0;osoba
+5020000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;22;osoba
+5020000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;20;osoba
+5020000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;16;osoba
+5020000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;13;osoba
+5020000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;15;osoba
+5020000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;14;osoba
+5160000000;ogółem;2010;23;osoba
+5160000000;ogółem;2011;23;osoba
+5160000000;ogółem;2012;23;osoba
+5160000000;ogółem;2013;24;osoba
+5160000000;ogółem;2014;24;osoba
+5160000000;ogółem;2015;24;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;24;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;24;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;25;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+5160000000;licea profilowane dla młodzieży;2010;26;osoba
+5160000000;licea profilowane dla młodzieży;2011;27;osoba
+5160000000;licea profilowane dla młodzieży;2012;27;osoba
+5160000000;licea profilowane dla młodzieży;2013;29;osoba
+5160000000;licea profilowane dla młodzieży;2014;;osoba
+5160000000;licea profilowane dla młodzieży;2015;;osoba
+5160000000;licea profilowane dla młodzieży bez specjalnych;2010;26;osoba
+5160000000;licea profilowane dla młodzieży bez specjalnych;2011;27;osoba
+5160000000;licea profilowane dla młodzieży bez specjalnych;2012;27;osoba
+5160000000;licea profilowane dla młodzieży bez specjalnych;2013;29;osoba
+5160000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+5160000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+5160000000;licea profilowane dla młodzieży specjalne;2010;0;osoba
+5160000000;licea profilowane dla młodzieży specjalne;2011;0;osoba
+5160000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+5160000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+5160000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+5160000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+5160000000;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+5160000000;technika i uzupełniające technika dla młodzieży;2011;24;osoba
+5160000000;technika i uzupełniające technika dla młodzieży;2012;24;osoba
+5160000000;technika i uzupełniające technika dla młodzieży;2013;25;osoba
+5160000000;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+5160000000;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+5160000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+5160000000;technika dla młodzieży bez specjalnych;2011;24;osoba
+5160000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+5160000000;technika dla młodzieży bez specjalnych;2013;25;osoba
+5160000000;technika dla młodzieży bez specjalnych;2014;24;osoba
+5160000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+5160000000;technika dla młodzieży specjalne;2010;0;osoba
+5160000000;technika dla młodzieży specjalne;2011;0;osoba
+5160000000;technika dla młodzieży specjalne;2012;0;osoba
+5160000000;technika dla młodzieży specjalne;2013;0;osoba
+5160000000;technika dla młodzieży specjalne;2014;0;osoba
+5160000000;technika dla młodzieży specjalne;2015;3;osoba
+5160000000;technika uzupełniające dla młodzieży bez specjalnych;2010;0;osoba
+5160000000;technika uzupełniające dla młodzieży bez specjalnych;2011;0;osoba
+5160000000;technika uzupełniające dla młodzieży bez specjalnych;2012;0;osoba
+5160000000;technika uzupełniające dla młodzieży bez specjalnych;2013;0;osoba
+5160000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+5160000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+5160000000;technika uzupełniające dla młodzieży specjalne;2010;0;osoba
+5160000000;technika uzupełniające dla młodzieży specjalne;2011;0;osoba
+5160000000;technika uzupełniające dla młodzieży specjalne;2012;0;osoba
+5160000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+5160000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+5160000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;19;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;15;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;14;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;8;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;7;osoba
+5160000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+5160000000;licea profilowane dla dorosłych;2010;18;osoba
+5160000000;licea profilowane dla dorosłych;2011;13;osoba
+5160000000;licea profilowane dla dorosłych;2012;12;osoba
+5160000000;licea profilowane dla dorosłych;2013;10;osoba
+5160000000;licea profilowane dla dorosłych;2014;5;osoba
+5160000000;licea profilowane dla dorosłych;2015;;osoba
+5160000000;technika dla dorosłych;2010;18;osoba
+5160000000;technika dla dorosłych;2011;13;osoba
+5160000000;technika dla dorosłych;2012;13;osoba
+5160000000;technika dla dorosłych;2013;5;osoba
+5160000000;technika dla dorosłych;2014;7;osoba
+5160000000;technika dla dorosłych;2015;0;osoba
+5160000000;technika uzupełniające dla dorosłych;2010;19;osoba
+5160000000;technika uzupełniające dla dorosłych;2011;16;osoba
+5160000000;technika uzupełniające dla dorosłych;2012;16;osoba
+5160000000;technika uzupełniające dla dorosłych;2013;8;osoba
+5160000000;technika uzupełniające dla dorosłych;2014;8;osoba
+5160000000;technika uzupełniające dla dorosłych;2015;0;osoba
+5160000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;24;osoba
+5160000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;22;osoba
+5160000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;23;osoba
+5160000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;23;osoba
+5160000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;22;osoba
+5160000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;21;osoba
+6040000000;ogółem;2010;23;osoba
+6040000000;ogółem;2011;23;osoba
+6040000000;ogółem;2012;23;osoba
+6040000000;ogółem;2013;23;osoba
+6040000000;ogółem;2014;23;osoba
+6040000000;ogółem;2015;23;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;25;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;25;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;25;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;24;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+6040000000;licea profilowane dla młodzieży;2010;23;osoba
+6040000000;licea profilowane dla młodzieży;2011;23;osoba
+6040000000;licea profilowane dla młodzieży;2012;23;osoba
+6040000000;licea profilowane dla młodzieży;2013;23;osoba
+6040000000;licea profilowane dla młodzieży;2014;;osoba
+6040000000;licea profilowane dla młodzieży;2015;;osoba
+6040000000;licea profilowane dla młodzieży bez specjalnych;2010;24;osoba
+6040000000;licea profilowane dla młodzieży bez specjalnych;2011;23;osoba
+6040000000;licea profilowane dla młodzieży bez specjalnych;2012;23;osoba
+6040000000;licea profilowane dla młodzieży bez specjalnych;2013;23;osoba
+6040000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+6040000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+6040000000;licea profilowane dla młodzieży specjalne;2010;6;osoba
+6040000000;licea profilowane dla młodzieży specjalne;2011;7;osoba
+6040000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+6040000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+6040000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+6040000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+6040000000;technika i uzupełniające technika dla młodzieży;2010;25;osoba
+6040000000;technika i uzupełniające technika dla młodzieży;2011;25;osoba
+6040000000;technika i uzupełniające technika dla młodzieży;2012;25;osoba
+6040000000;technika i uzupełniające technika dla młodzieży;2013;24;osoba
+6040000000;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+6040000000;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+6040000000;technika dla młodzieży bez specjalnych;2010;25;osoba
+6040000000;technika dla młodzieży bez specjalnych;2011;25;osoba
+6040000000;technika dla młodzieży bez specjalnych;2012;25;osoba
+6040000000;technika dla młodzieży bez specjalnych;2013;24;osoba
+6040000000;technika dla młodzieży bez specjalnych;2014;24;osoba
+6040000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+6040000000;technika dla młodzieży specjalne;2010;0;osoba
+6040000000;technika dla młodzieży specjalne;2011;0;osoba
+6040000000;technika dla młodzieży specjalne;2012;8;osoba
+6040000000;technika dla młodzieży specjalne;2013;6;osoba
+6040000000;technika dla młodzieży specjalne;2014;7;osoba
+6040000000;technika dla młodzieży specjalne;2015;7;osoba
+6040000000;technika uzupełniające dla młodzieży bez specjalnych;2010;23;osoba
+6040000000;technika uzupełniające dla młodzieży bez specjalnych;2011;23;osoba
+6040000000;technika uzupełniające dla młodzieży bez specjalnych;2012;20;osoba
+6040000000;technika uzupełniające dla młodzieży bez specjalnych;2013;23;osoba
+6040000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+6040000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+6040000000;technika uzupełniające dla młodzieży specjalne;2010;6;osoba
+6040000000;technika uzupełniające dla młodzieży specjalne;2011;8;osoba
+6040000000;technika uzupełniające dla młodzieży specjalne;2012;6;osoba
+6040000000;technika uzupełniające dla młodzieży specjalne;2013;6;osoba
+6040000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+6040000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;15;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;15;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;16;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;14;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;14;osoba
+6040000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+6040000000;licea profilowane dla dorosłych;2010;12;osoba
+6040000000;licea profilowane dla dorosłych;2011;12;osoba
+6040000000;licea profilowane dla dorosłych;2012;10;osoba
+6040000000;licea profilowane dla dorosłych;2013;8;osoba
+6040000000;licea profilowane dla dorosłych;2014;3;osoba
+6040000000;licea profilowane dla dorosłych;2015;;osoba
+6040000000;technika dla dorosłych;2010;10;osoba
+6040000000;technika dla dorosłych;2011;11;osoba
+6040000000;technika dla dorosłych;2012;9;osoba
+6040000000;technika dla dorosłych;2013;11;osoba
+6040000000;technika dla dorosłych;2014;7;osoba
+6040000000;technika dla dorosłych;2015;0;osoba
+6040000000;technika uzupełniające dla dorosłych;2010;19;osoba
+6040000000;technika uzupełniające dla dorosłych;2011;17;osoba
+6040000000;technika uzupełniające dla dorosłych;2012;19;osoba
+6040000000;technika uzupełniające dla dorosłych;2013;15;osoba
+6040000000;technika uzupełniające dla dorosłych;2014;15;osoba
+6040000000;technika uzupełniające dla dorosłych;2015;0;osoba
+6040000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;22;osoba
+6040000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;23;osoba
+6040000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;16;osoba
+6040000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;15;osoba
+6040000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;15;osoba
+6040000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;15;osoba
+6220000000;ogółem;2010;24;osoba
+6220000000;ogółem;2011;24;osoba
+6220000000;ogółem;2012;24;osoba
+6220000000;ogółem;2013;24;osoba
+6220000000;ogółem;2014;24;osoba
+6220000000;ogółem;2015;24;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;25;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;25;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;25;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;25;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;25;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+6220000000;licea profilowane dla młodzieży;2010;22;osoba
+6220000000;licea profilowane dla młodzieży;2011;22;osoba
+6220000000;licea profilowane dla młodzieży;2012;22;osoba
+6220000000;licea profilowane dla młodzieży;2013;24;osoba
+6220000000;licea profilowane dla młodzieży;2014;;osoba
+6220000000;licea profilowane dla młodzieży;2015;;osoba
+6220000000;licea profilowane dla młodzieży bez specjalnych;2010;23;osoba
+6220000000;licea profilowane dla młodzieży bez specjalnych;2011;22;osoba
+6220000000;licea profilowane dla młodzieży bez specjalnych;2012;22;osoba
+6220000000;licea profilowane dla młodzieży bez specjalnych;2013;24;osoba
+6220000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+6220000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+6220000000;licea profilowane dla młodzieży specjalne;2010;6;osoba
+6220000000;licea profilowane dla młodzieży specjalne;2011;5;osoba
+6220000000;licea profilowane dla młodzieży specjalne;2012;0;osoba
+6220000000;licea profilowane dla młodzieży specjalne;2013;0;osoba
+6220000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+6220000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+6220000000;technika i uzupełniające technika dla młodzieży;2010;25;osoba
+6220000000;technika i uzupełniające technika dla młodzieży;2011;25;osoba
+6220000000;technika i uzupełniające technika dla młodzieży;2012;25;osoba
+6220000000;technika i uzupełniające technika dla młodzieży;2013;25;osoba
+6220000000;technika i uzupełniające technika dla młodzieży;2014;25;osoba
+6220000000;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+6220000000;technika dla młodzieży bez specjalnych;2010;25;osoba
+6220000000;technika dla młodzieży bez specjalnych;2011;25;osoba
+6220000000;technika dla młodzieży bez specjalnych;2012;25;osoba
+6220000000;technika dla młodzieży bez specjalnych;2013;25;osoba
+6220000000;technika dla młodzieży bez specjalnych;2014;25;osoba
+6220000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+6220000000;technika dla młodzieży specjalne;2010;8;osoba
+6220000000;technika dla młodzieży specjalne;2011;7;osoba
+6220000000;technika dla młodzieży specjalne;2012;8;osoba
+6220000000;technika dla młodzieży specjalne;2013;7;osoba
+6220000000;technika dla młodzieży specjalne;2014;6;osoba
+6220000000;technika dla młodzieży specjalne;2015;5;osoba
+6220000000;technika uzupełniające dla młodzieży bez specjalnych;2010;24;osoba
+6220000000;technika uzupełniające dla młodzieży bez specjalnych;2011;24;osoba
+6220000000;technika uzupełniające dla młodzieży bez specjalnych;2012;18;osoba
+6220000000;technika uzupełniające dla młodzieży bez specjalnych;2013;15;osoba
+6220000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+6220000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+6220000000;technika uzupełniające dla młodzieży specjalne;2010;0;osoba
+6220000000;technika uzupełniające dla młodzieży specjalne;2011;0;osoba
+6220000000;technika uzupełniające dla młodzieży specjalne;2012;0;osoba
+6220000000;technika uzupełniające dla młodzieży specjalne;2013;0;osoba
+6220000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+6220000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;14;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;17;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;16;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;14;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;13;osoba
+6220000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+6220000000;licea profilowane dla dorosłych;2010;13;osoba
+6220000000;licea profilowane dla dorosłych;2011;8;osoba
+6220000000;licea profilowane dla dorosłych;2012;5;osoba
+6220000000;licea profilowane dla dorosłych;2013;0;osoba
+6220000000;licea profilowane dla dorosłych;2014;0;osoba
+6220000000;licea profilowane dla dorosłych;2015;;osoba
+6220000000;technika dla dorosłych;2010;10;osoba
+6220000000;technika dla dorosłych;2011;5;osoba
+6220000000;technika dla dorosłych;2012;3;osoba
+6220000000;technika dla dorosłych;2013;2;osoba
+6220000000;technika dla dorosłych;2014;0;osoba
+6220000000;technika dla dorosłych;2015;0;osoba
+6220000000;technika uzupełniające dla dorosłych;2010;15;osoba
+6220000000;technika uzupełniające dla dorosłych;2011;19;osoba
+6220000000;technika uzupełniające dla dorosłych;2012;18;osoba
+6220000000;technika uzupełniające dla dorosłych;2013;14;osoba
+6220000000;technika uzupełniające dla dorosłych;2014;13;osoba
+6220000000;technika uzupełniające dla dorosłych;2015;0;osoba
+6220000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;23;osoba
+6220000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;26;osoba
+6220000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;15;osoba
+6220000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;15;osoba
+6220000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;15;osoba
+6220000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;14;osoba
+6280000000;ogółem;2010;23;osoba
+6280000000;ogółem;2011;23;osoba
+6280000000;ogółem;2012;23;osoba
+6280000000;ogółem;2013;23;osoba
+6280000000;ogółem;2014;23;osoba
+6280000000;ogółem;2015;23;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2010;24;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2011;23;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2012;24;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2013;23;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2014;24;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla młodzieży;2015;24;osoba
+6280000000;licea profilowane dla młodzieży;2010;22;osoba
+6280000000;licea profilowane dla młodzieży;2011;22;osoba
+6280000000;licea profilowane dla młodzieży;2012;23;osoba
+6280000000;licea profilowane dla młodzieży;2013;22;osoba
+6280000000;licea profilowane dla młodzieży;2014;;osoba
+6280000000;licea profilowane dla młodzieży;2015;;osoba
+6280000000;licea profilowane dla młodzieży bez specjalnych;2010;23;osoba
+6280000000;licea profilowane dla młodzieży bez specjalnych;2011;24;osoba
+6280000000;licea profilowane dla młodzieży bez specjalnych;2012;24;osoba
+6280000000;licea profilowane dla młodzieży bez specjalnych;2013;24;osoba
+6280000000;licea profilowane dla młodzieży bez specjalnych;2014;;osoba
+6280000000;licea profilowane dla młodzieży bez specjalnych;2015;;osoba
+6280000000;licea profilowane dla młodzieży specjalne;2010;7;osoba
+6280000000;licea profilowane dla młodzieży specjalne;2011;7;osoba
+6280000000;licea profilowane dla młodzieży specjalne;2012;7;osoba
+6280000000;licea profilowane dla młodzieży specjalne;2013;5;osoba
+6280000000;licea profilowane dla młodzieży specjalne;2014;;osoba
+6280000000;licea profilowane dla młodzieży specjalne;2015;;osoba
+6280000000;technika i uzupełniające technika dla młodzieży;2010;24;osoba
+6280000000;technika i uzupełniające technika dla młodzieży;2011;23;osoba
+6280000000;technika i uzupełniające technika dla młodzieży;2012;24;osoba
+6280000000;technika i uzupełniające technika dla młodzieży;2013;24;osoba
+6280000000;technika i uzupełniające technika dla młodzieży;2014;24;osoba
+6280000000;technika i uzupełniające technika dla młodzieży;2015;24;osoba
+6280000000;technika dla młodzieży bez specjalnych;2010;24;osoba
+6280000000;technika dla młodzieży bez specjalnych;2011;24;osoba
+6280000000;technika dla młodzieży bez specjalnych;2012;24;osoba
+6280000000;technika dla młodzieży bez specjalnych;2013;24;osoba
+6280000000;technika dla młodzieży bez specjalnych;2014;24;osoba
+6280000000;technika dla młodzieży bez specjalnych;2015;24;osoba
+6280000000;technika dla młodzieży specjalne;2010;6;osoba
+6280000000;technika dla młodzieży specjalne;2011;6;osoba
+6280000000;technika dla młodzieży specjalne;2012;7;osoba
+6280000000;technika dla młodzieży specjalne;2013;8;osoba
+6280000000;technika dla młodzieży specjalne;2014;8;osoba
+6280000000;technika dla młodzieży specjalne;2015;7;osoba
+6280000000;technika uzupełniające dla młodzieży bez specjalnych;2010;16;osoba
+6280000000;technika uzupełniające dla młodzieży bez specjalnych;2011;17;osoba
+6280000000;technika uzupełniające dla młodzieży bez specjalnych;2012;13;osoba
+6280000000;technika uzupełniające dla młodzieży bez specjalnych;2013;12;osoba
+6280000000;technika uzupełniające dla młodzieży bez specjalnych;2014;;osoba
+6280000000;technika uzupełniające dla młodzieży bez specjalnych;2015;;osoba
+6280000000;technika uzupełniające dla młodzieży specjalne;2010;6;osoba
+6280000000;technika uzupełniające dla młodzieży specjalne;2011;5;osoba
+6280000000;technika uzupełniające dla młodzieży specjalne;2012;6;osoba
+6280000000;technika uzupełniające dla młodzieży specjalne;2013;5;osoba
+6280000000;technika uzupełniające dla młodzieży specjalne;2014;;osoba
+6280000000;technika uzupełniające dla młodzieży specjalne;2015;;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2010;19;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2011;18;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2012;19;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2013;17;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2014;17;osoba
+6280000000;licea profilowane, technika i uzupełniające technika dla dorosłych;2015;0;osoba
+6280000000;licea profilowane dla dorosłych;2010;14;osoba
+6280000000;licea profilowane dla dorosłych;2011;13;osoba
+6280000000;licea profilowane dla dorosłych;2012;13;osoba
+6280000000;licea profilowane dla dorosłych;2013;14;osoba
+6280000000;licea profilowane dla dorosłych;2014;0;osoba
+6280000000;licea profilowane dla dorosłych;2015;;osoba
+6280000000;technika dla dorosłych;2010;28;osoba
+6280000000;technika dla dorosłych;2011;15;osoba
+6280000000;technika dla dorosłych;2012;11;osoba
+6280000000;technika dla dorosłych;2013;0;osoba
+6280000000;technika dla dorosłych;2014;0;osoba
+6280000000;technika dla dorosłych;2015;0;osoba
+6280000000;technika uzupełniające dla dorosłych;2010;19;osoba
+6280000000;technika uzupełniające dla dorosłych;2011;19;osoba
+6280000000;technika uzupełniające dla dorosłych;2012;20;osoba
+6280000000;technika uzupełniające dla dorosłych;2013;17;osoba
+6280000000;technika uzupełniające dla dorosłych;2014;17;osoba
+6280000000;technika uzupełniające dla dorosłych;2015;0;osoba
+6280000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2010;26;osoba
+6280000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2011;22;osoba
+6280000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2012;12;osoba
+6280000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2013;12;osoba
+6280000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2014;12;osoba
+6280000000;ogólnokształcące szkoły artystyczne dające uprawnienia zawodowe;2015;13;osoba
