@@ -1478,7 +1478,7 @@ intellisense.annotate(jQuery.fn, {
     /// </signature>
     /// <signature>
     ///   <summary>Set the CSS height of every matched element.</summary>
-    ///   <param name="function(index, height)" type="Function">A function returning the height to set. Receives the index position of the element in the set and the old height as arguments. Within the function, this refers to the current element in the set.</param>
+    ///   <param name="function(index, height)" type="Function">A function returning the MapHeight to set. Receives the index position of the element in the set and the old MapHeight as arguments. Within the function, this refers to the current element in the set.</param>
     ///   <returns type="jQuery" />
     /// </signature>
   },
@@ -2601,7 +2601,7 @@ intellisense.annotate(jQuery.fn, {
     /// </signature>
     /// <signature>
     ///   <summary>Set the CSS width of each element in the set of matched elements.</summary>
-    ///   <param name="function(index, width)" type="Function">A function returning the width to set. Receives the index position of the element in the set and the old width as arguments. Within the function, this refers to the current element in the set.</param>
+    ///   <param name="function(index, width)" type="Function">A function returning the MapWidth to set. Receives the index position of the element in the set and the old MapWidth as arguments. Within the function, this refers to the current element in the set.</param>
     ///   <returns type="jQuery" />
     /// </signature>
   },
