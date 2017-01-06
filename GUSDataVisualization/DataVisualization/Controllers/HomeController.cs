@@ -10,14 +10,21 @@ namespace DataVisualization.Controllers
 {
     public class HomeController : Controller
     {
+        public HomeController(DAL dal)
+        {
+            DAL = dal;
+        }
+        public DAL DAL { get; set; }
+
         public IActionResult Index()
         {
             return View();
         }
 
-        public ActionResult GetData(RequestModel rm)
+        [HttpPost]
+        public IActionResult GetData(RequestModel rm)
         {
-            var projection = DAL.Instance.Dane.AsQueryable();
+            var projection = DAL.Dane.AsQueryable();
 
             if (!string.IsNullOrEmpty(rm.Kategoria1))
             {

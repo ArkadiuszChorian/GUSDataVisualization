@@ -1,5 +1,5 @@
 ﻿namespace DataVisualization.Models
-{
+{  
     public class RequestModel
     {
         public string Kod { get; set; }

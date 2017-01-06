@@ -28,6 +28,8 @@ namespace DataVisualization
         public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
+            services.AddSingleton<IConfiguration>(Configuration);
+            services.AddSingleton<DAL, DAL>();
             services.AddMvc();
         }
 
