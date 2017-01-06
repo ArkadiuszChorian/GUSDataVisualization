@@ -1,22 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Web.Mvc;
-using GUSDataVisualization.Models;
+using System.Threading.Tasks;
+using DataVisualization.Models;
+using Microsoft.AspNetCore.Mvc;
 
-namespace GUSDataVisualization.Controllers
+namespace DataVisualization.Controllers
 {
-    [Authorize]
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public IActionResult Index()
         {
             return View();
         }
 
         public ActionResult GetData(RequestModel rm)
         {
-            var projection = DAL.Instance.Dane.Where(d => true);
+            var projection = DAL.Instance.Dane.AsQueryable();
 
             if (!string.IsNullOrEmpty(rm.Kategoria1))
             {

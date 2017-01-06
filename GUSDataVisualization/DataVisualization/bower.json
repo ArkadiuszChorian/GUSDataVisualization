@@ -1,0 +1,25 @@
+{
+  "name": "DataVisualization",
+  "homepage": "https://github.com/archer333/GUSDataVisualization",
+  "authors": [
+    "patrykk <patrykk.93@gmail.com>",
+    "arek <arkadiusz.chorian@gmail.com>"
+  ],
+  "description": "Client",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.4.0",
+    "topojson": "^2.2.0",
+    "d3-scale-chromatic": "^1.1.0",
+    "jquery": "2.2.3"
+  }
+}

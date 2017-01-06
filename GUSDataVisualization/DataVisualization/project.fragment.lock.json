@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "exports": {
+    "MongoRepository.Net45/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/MongoRepository.Net45.dll": {}
+      },
+      "runtime": {
+        "../packages/MongoDB.Bson.2.2.0/lib/net45/MongoDB.Bson.dll": {},
+        "../packages/MongoDB.Driver.2.2.0/lib/net45/MongoDB.Driver.dll": {},
+        "../packages/MongoDB.Driver.Core.2.2.0/lib/net45/MongoDB.Driver.Core.dll": {},
+        "bin/Debug/MongoRepository.Net45.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/MongoRepository.Net45.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
