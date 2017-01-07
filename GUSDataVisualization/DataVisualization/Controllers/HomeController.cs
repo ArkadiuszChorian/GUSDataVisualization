@@ -22,7 +22,7 @@ namespace DataVisualization.Controllers
         }
 
         [HttpPost]
-        public IActionResult GetData(RequestModel rm)
+        public IActionResult GetData([FromBody]RequestModel rm)
         {
             var projection = DAL.Dane.AsQueryable();
 
@@ -40,11 +40,11 @@ namespace DataVisualization.Controllers
             }
             if (!string.IsNullOrEmpty(rm.RokOd))
             {
-                projection = projection.Where(d => int.Parse(d.Rok) >= int.Parse(rm.RokOd));
+                projection = projection.Where(d => d.Rok.CompareTo(rm.RokOd) >= 0);
             }
             if (!string.IsNullOrEmpty(rm.RokDo))
             {
-                projection = projection.Where(d => int.Parse(d.Rok) <= int.Parse(rm.RokDo));
+                projection = projection.Where(d => d.Rok.CompareTo(rm.RokDo) <= 0);
             }
             if (!string.IsNullOrEmpty(rm.Etykieta1))
             {
@@ -60,11 +60,11 @@ namespace DataVisualization.Controllers
             }
             if (!string.IsNullOrEmpty(rm.WartoscOd))
             {
-                projection = projection.Where(d => int.Parse(d.Wartosc) >= int.Parse(rm.WartoscOd));
+                projection = projection.Where(d => d.Wartosc.CompareTo(rm.WartoscOd) >= 0);
             }
             if (!string.IsNullOrEmpty(rm.WartoscDo))
             {
-                projection = projection.Where(d => int.Parse(d.Wartosc) <= int.Parse(rm.WartoscDo));
+                projection = projection.Where(d => d.Wartosc.CompareTo(rm.WartoscDo) <= 0);
             }
 
             return Json(projection.ToList());
