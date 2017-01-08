@@ -9,19 +9,33 @@
                 </div>
                 <div>
                     <p>Pierwsza kategoria:</p>
-                    <select id="Kategoria1"></select>
+                    <select id="Kategoria1" name="Kategoria1"></select>
                 </div>
                 <div>
                     <p>Druga Kategoria:</p>
-                    <select id="Kategoria2"></select>
+                    <select id="Kategoria2" name="Kategoria2"></select>
                 </div>
                 <div>
-                    <p>Od roku: <output name="RokOdLabel" id="RokOdOutput"></output></p>
-                    <input id="RokOdRange" type="range" name="RokOd" step="1" min="2010" max="2015" oninput="RokOdOutput.value = RokOdRange.value" disabled="disabled"/>
+                    <p>Trzecia Kategoria:</p>
+                    <select id="Kategoria3" name="Kategoria3"></select>
                 </div>
                 <div>
-                    <p>Do roku: <output name="RokDoLabel" id="RokDoOutput"></output></p>
-                    <input id="RokDoRange" type="range" name="RokDo" step="1" min="2010" max="2015" oninput="RokDoOutput.value = RokDoRange.value" disabled="disabled"/>
+                    <p>Od roku: <output id="RokOdOutput"></output></p>
+                    <input id="RokOdRange" type="range" name="RokOd"
+                           step="1"
+                           min="2010"
+                           max="2015"
+                           oninput="RokOdOutput.value = RokOdRange.value"/>
+                    @* disabled="disabled" *@
+                </div>
+                <div>
+                    <p>Do roku: <output id="RokDoOutput"></output></p>
+                    <input id="RokDoRange" type="range" name="RokDo"
+                           step="1"
+                           min="2010"
+                           max="2015"
+                           oninput="RokDoOutput.value = RokDoRange.value"/>
+                    @* Need to set VALUE attribute when loading data to MIN and MAX on range inputs *@
                 </div>
                 <input type="submit" value="Submit" />
             </form>

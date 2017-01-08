@@ -6,7 +6,7 @@ var MapWidth = 1100,
     ChartHeight = 500,
     ChartBarsHeight = ChartHeight - 50,
     dataSet = [
-    { province: "WN", value: 800 }, 
+    { province: "WN", value: 800 },
     { province: "PM", value: 200 },
     { province: "DS", value: 100 },
     { province: "ZP", value: 300 },
@@ -25,11 +25,25 @@ var MapWidth = 1100,
     ],
     blues = [],
     woj = [],
-    mesh;
+    mesh,
+    conversionTable = [];
 
 for (var i = 0; i < 10; i++) {
     blues.push(d3.interpolateBlues(i / 10));
 }
+
+
+$.ajax({
+    type: "GET",
+    url: "codes.csv",
+    dataType: "text"
+}).done(function (data) {
+    var dataLines = data.split(/\r\n|\n/);
+    for (var i = 1; i < dataLines.length; i++) {
+        var line = dataLines[i].split(",");
+        conversionTable.push(line);
+    }
+});
 
 var scaleColor = d3.scaleQuantize().domain([d3.min(dataSet, function (d) { return d.value; }), d3.max(dataSet, function (d) { return d.value; })]).range(blues);
 var scaleRange = d3.scaleLinear().domain([d3.max(dataSet, function (d) { return d.value; }), d3.min(dataSet, function (d) { return d.value; })]).range([20, MapHeight - 20]);
@@ -91,10 +105,6 @@ function clicked(d) {
     }, 750);
 }
 
-//for (var i = 0; i < dataSet.length; i++) {
-//    woj.push([dataSet[i]]);
-//}
-
 d3.json("pl.json",
     function (error, pl) {
         var features = topojson.feature(pl, pl.objects.pol).features;
@@ -151,9 +161,7 @@ var main = function (data) {
 
 var chart = function (data) {
     //chartSvg
-    var chartDiv = chartSvg.append("div")
-        //.attr("width", barWidth * (data.length + offset))
-        //.attr("height", ChartHeight + 50);
+    var chartDiv = chartSvg.append("div");
 
     var chartYscale = d3.scaleLinear().domain([0, d3.max(data, function (d) { return d.wartosc; })]).range([ChartBarsHeight, 0]);
     var initialOffset = 20;
@@ -174,27 +182,22 @@ var chart = function (data) {
         .attr("height", function (d) { return ChartBarsHeight - chartYscale(d.wartosc); });
 
     bar.append("text")
-        //.attr("x",
-        //    function(d, i) { return (i * barWidth) - (barWidth / 2); })
-        //.attr("y", ChartHeight - 15)
         .attr("dy", ".75em")
-        .text(function(d) { return d.rok; })
+        .text(function (d) { return d.rok; })
         .attr("transform",
-            function(d, i) {
-                return "translate(" + ((i * (barWidth/2 - 9)) - (barWidth/2) + initialOffset) + "," + (ChartHeight - 40) + ") rotate(60)";
+            function (d, i) {
+                return "translate(" + ((i * (barWidth / 2 - 9)) - (barWidth / 2) + initialOffset) + "," + (ChartHeight - 40) + ") rotate(60)";
             });
 }
-
-//chart(dataSet);
 
 $.ajax({
     url: "/Home/GetData",
     type: "POST",
-    data: JSON.stringify({ Kod: 0,RokOd: 2010,RokDo: 2015,Kategoria1: "Ceny",Kategoria2: "Kultura", Etykieta1:"bilet do kina"}),
+    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura", Etykieta1: "bilet do kina" }),
     contentType: "application/json"
 })
     .done(function (data) {
-        data.forEach(function(d) {
+        data.forEach(function (d) {
             d.wartosc = d.wartosc.replace(",", ".");
         });
         console.log(data);
@@ -237,18 +240,32 @@ window.onclick = function (event) {
 // Handling form submit
 // Can't do it from hmtl because lack of 'application/json' content-type support
 $('#filterForm')
-    .submit(function(e) {
+    .submit(function (e) {
         e.preventDefault();
         var frm = $(this);
-        var arr = [];
         var dat = {};
-        //var dat = JSON.stringify(frm.ser);
         var inputs = frm[0].elements;
+
         for (var i = 0, element; element = inputs[i++];) {
             if (element.type === "submit")
                 continue;
             dat[element.name] = element.value;
         }
 
-        alert("posting" + JSON.stringify(dat));
+        var jsonData = JSON.stringify(dat);
+
+        alert("posting" + jsonData);
+        $.ajax({
+            url: "/Home/GetData",
+            type: "POST",
+            data: jsonData,
+            contentType: "application/json"
+        })
+        .done(function (data) {
+            data.forEach(function (d) {
+                d.wartosc = d.wartosc.replace(",", ".");
+            });
+            console.log(data);
+            //chart(data);
+        });
     });
