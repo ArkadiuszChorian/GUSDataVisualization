@@ -66,9 +66,10 @@ namespace DataVisualization.Controllers
             {
                 projection = projection.Where(d => d.Wartosc.CompareTo(rm.WartoscDo) <= 0);
             }
-            var c = projection.GroupBy(x => x.Etykieta1).ToList();
+            
+            var result = projection.ToList().GroupBy(d => d.Etykieta1);
 
-            return Json(projection.ToList());
+            return Json(result);
         }
 
         [HttpPost]
