@@ -32,7 +32,7 @@ for (var i = 0; i < 10; i++) {
     blues.push(d3.interpolateBlues(i / 10));
 }
 
-
+// Imports convertion table from file (Province code, Province name, Province geojson shortcut)
 $.ajax({
     type: "GET",
     url: "codes.csv",
@@ -44,6 +44,82 @@ $.ajax({
         conversionTable.push(line);
     }
 });
+
+// Filling "Kategoria1" Select tag with options
+$(document)
+    .ready(function () {
+        fillCategorySelect({});
+    });
+
+// Filling target select tag with options recieved from server
+var fillCategorySelect = function (obj) {
+    $.ajax({
+        url: "/Home/GetCategories",
+        type: "POST",
+        data: JSON.stringify(obj.body),
+        contentType: "application/json"
+    })
+        .done(function (data) {
+            // Completing data table with 
+            // "-" for just not filled field 
+            // "Kategoria niedostępna" for when there is no data to show
+            if (data.length === 0)
+                data.push({ category: "Kategoria niedostępna" });
+            else
+                data.unshift({ category: "-" });
+            console.log(data);
+
+            // Selecting target select tag
+            var sel = obj.selectId;
+            if (obj.selectId === undefined)
+                sel = "Kategoria1";
+            var selection = d3.select("#" + sel);
+
+            // Onlick handler
+            selection
+                .on("change",
+                    function () {
+                        var selId = this.id;
+
+                        var newObj = {};
+                        newObj.body = {}
+                        var targetId = "";
+
+                        if (selId === "Kategoria3") return;
+
+                        else if (selId === "Kategoria1") {
+                            targetId = "Kategoria2";
+                            d3.select("#Kategoria3").selectAll("option").data(["-"]).exit().remove();
+                        } else if (selId === "Kategoria2") {
+                            targetId = "Kategoria3";
+                            newObj.body.Kategoria1 = $("#Kategoria1 :selected").text();
+                        }
+
+                        newObj.selectId = targetId;
+
+                        newObj.body[selId] = this.value;
+                        fillCategorySelect(newObj);
+                    });
+
+            // Dynamically creating options for select tags with help of d3
+            var update = selection
+                .selectAll("option")
+                .data(data) // Update
+                .attr("value",
+                    function(d) {
+                        if (d.category !== "-") return d.category;
+                        return "";
+                    })
+                .text(function(d) { return d.category; });
+
+            update.enter() // Enter
+                .append("option")
+                .attr("value", function(d) { return d.category; })
+                .text(function(d) { return d.category; });
+            
+            update.exit().remove(); // Exit
+        });
+};
 
 var scaleColor = d3.scaleQuantize().domain([d3.min(dataSet, function (d) { return d.value; }), d3.max(dataSet, function (d) { return d.value; })]).range(blues);
 var scaleRange = d3.scaleLinear().domain([d3.max(dataSet, function (d) { return d.value; }), d3.min(dataSet, function (d) { return d.value; })]).range([20, MapHeight - 20]);
