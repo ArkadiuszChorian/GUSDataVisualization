@@ -3,7 +3,8 @@
 var MapWidth = 1100,
     MapHeight = 860,
     ChartWidth = 800,
-    ChartHeight = 1000,
+    ChartHeight = 500,
+    ChartBarsHeight = ChartHeight - 50,
     dataSet = [
     { province: "WN", value: 800 }, 
     { province: "PM", value: 200 },
@@ -33,8 +34,8 @@ for (var i = 0; i < 10; i++) {
 var scaleColor = d3.scaleQuantize().domain([d3.min(dataSet, function (d) { return d.value; }), d3.max(dataSet, function (d) { return d.value; })]).range(blues);
 var scaleRange = d3.scaleLinear().domain([d3.max(dataSet, function (d) { return d.value; }), d3.min(dataSet, function (d) { return d.value; })]).range([20, MapHeight - 20]);
 var y = d3.scaleLinear().domain([0, 10]).rangeRound([820, 0]);
-var chartYscale = d3.scaleLinear().domain([0, d3.max(dataSet, function (d) { return d.value; })]).range([ChartHeight, 0]);
-var barWidth = 30;
+
+var barWidth = 20;
 
 var color = d3.scaleThreshold()
     .domain(d3.range(1, 10))
@@ -61,15 +62,12 @@ var mapSvg = d3.select("body")
 
 var chartSvg = d3.select("#charts")
     .attr("width", barWidth * dataSet.length)
-    .attr("height", ChartHeight)
-    .append("svg")
-    .attr("width", barWidth * dataSet.length)
     .attr("height", ChartHeight);
 
 function clicked(d) {
     d3.select(".dropdown").remove();
 
-    var woj = d3.select("." + d[1].id).attr("class", "clicked");
+    var woj = d3.select("." + d.province).attr("class", "clicked");
 
     // Remove scale from mapSvg element
     var map = d3.select('#mapg');
@@ -151,26 +149,71 @@ var main = function (data) {
         .remove();
 };
 
-var chart = function(data) {
-    var bar = chartSvg.selectAll("g")
+var chart = function (data) {
+    //chartSvg
+    var chartDiv = chartSvg.append("div")
+        //.attr("width", barWidth * (data.length + offset))
+        //.attr("height", ChartHeight + 50);
+
+    var chartYscale = d3.scaleLinear().domain([0, d3.max(data, function (d) { return d.wartosc; })]).range([ChartBarsHeight, 0]);
+    var initialOffset = 20;
+    var offset = 10;
+
+    var bar = chartDiv.append("svg")
+        .attr("width", barWidth * (data.length + offset))
+        .attr("height", ChartHeight)
+        .selectAll("g")
         .data(data)
         .enter()
         .append("g")
-        .attr("transform", function (d, i) { return "translate(" + (i * barWidth) + "," + "0)"; });
+        .attr("transform", function (d, i) { return "translate(" + (i * (barWidth + offset) + initialOffset) + "," + "0)"; });
 
     bar.append("rect")
-        .attr("y",function (d) { return chartYscale(d.value); })
+        .attr("y", function (d) { return chartYscale(d.wartosc); })
         .attr("width", barWidth - 1)
-        .attr("height", function (d) { return ChartHeight - chartYscale(d.value); });
+        .attr("height", function (d) { return ChartBarsHeight - chartYscale(d.wartosc); });
 
-    //bar.append("text")
-    //.attr("x", barWidth / 2)
-    //.attr("y", function (d) { return y(d.value) + 3; })
-    //.attr("dy", ".75em")
-    //.text(function (d) { return d.value; });
+    bar.append("text")
+        //.attr("x",
+        //    function(d, i) { return (i * barWidth) - (barWidth / 2); })
+        //.attr("y", ChartHeight - 15)
+        .attr("dy", ".75em")
+        .text(function(d) { return d.rok; })
+        .attr("transform",
+            function(d, i) {
+                return "translate(" + ((i * (barWidth/2 - 9)) - (barWidth/2) + initialOffset) + "," + (ChartHeight - 40) + ") rotate(60)";
+            });
 }
 
-chart(dataSet); 
+//chart(dataSet);
+
+$.ajax({
+    url: "/Home/GetData",
+    type: "POST",
+    data: JSON.stringify({ Kod: 0,RokOd: 2010,RokDo: 2015,Kategoria1: "Ceny",Kategoria2: "Kultura", Etykieta1:"bilet do kina"}),
+    contentType: "application/json"
+})
+    .done(function (data) {
+        data.forEach(function(d) {
+            d.wartosc = d.wartosc.replace(",", ".");
+        });
+        console.log(data);
+        chart(data);
+    });
+
+$.ajax({
+    url: "/Home/GetData",
+    type: "POST",
+    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura", Etykieta1: "bilet do teatru" }),
+    contentType: "application/json"
+})
+    .done(function (data) {
+        data.forEach(function (d) {
+            d.wartosc = d.wartosc.replace(",", ".");
+        });
+        console.log(data);
+        chart(data);
+    });
 
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
@@ -190,3 +233,22 @@ window.onclick = function (event) {
         }
     }
 }
+
+// Handling form submit
+// Can't do it from hmtl because lack of 'application/json' content-type support
+$('#filterForm')
+    .submit(function(e) {
+        e.preventDefault();
+        var frm = $(this);
+        var arr = [];
+        var dat = {};
+        //var dat = JSON.stringify(frm.ser);
+        var inputs = frm[0].elements;
+        for (var i = 0, element; element = inputs[i++];) {
+            if (element.type === "submit")
+                continue;
+            dat[element.name] = element.value;
+        }
+
+        alert("posting" + JSON.stringify(dat));
+    });
