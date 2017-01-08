@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using GUSDataVisualization;
-using GUSDataVisualization.Models;
 
 namespace DataInsert
 {
@@ -16,6 +12,8 @@ namespace DataInsert
         public static string BaseDir = AppDomain.CurrentDomain.BaseDirectory.Replace("bin\\Debug", string.Empty) + "Dane\\";
         static void Main(string[] args)
         {
+            var DAL = new DAL();
+
             //Kod;etykieta;rok;wartosc;jednostka
 
             //Kod;etykieta;rok;wartosc;jednostka;plec
@@ -109,7 +107,7 @@ namespace DataInsert
                             Kategoria3 = category.Item3
                         };
 
-                        DAL.Instance.Dane.Add(newData);
+                        DAL.Dane.Add(newData);
                     }
                 }
 

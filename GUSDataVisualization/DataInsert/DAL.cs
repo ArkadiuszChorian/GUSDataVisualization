@@ -1,7 +1,6 @@
-﻿using DataVisualization.Models;
-using MongoRepository;
+﻿using MongoRepository;
 
-namespace DataVisualization
+namespace DataInsert
 {
     public class DAL
     {
