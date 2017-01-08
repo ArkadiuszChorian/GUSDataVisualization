@@ -66,6 +66,7 @@ namespace DataVisualization.Controllers
             {
                 projection = projection.Where(d => d.Wartosc.CompareTo(rm.WartoscDo) <= 0);
             }
+            var c = projection.GroupBy(x => x.Etykieta1).ToList();
 
             return Json(projection.ToList());
         }
@@ -73,31 +74,19 @@ namespace DataVisualization.Controllers
         [HttpPost]
         public IActionResult GetCategories([FromBody] RequestModel rm)
         {
-            var categories = new List<string>();
+            var categories = DAL.Kategorie.AsQueryable();
 
-            foreach (var model in DAL.Dane)
+            if (string.IsNullOrEmpty(rm?.Kategoria1))
             {
-                if (string.IsNullOrEmpty(rm?.Kategoria1))
-                {
-                    if (!categories.Contains(model.Kategoria1))
-                    {
-                        categories.Add(model.Kategoria1);
-                    }
-                }
-                else if (string.IsNullOrEmpty(rm.Kategoria2))
-                {
-                    if (model.Kategoria1 == rm.Kategoria1 && !categories.Contains(model.Kategoria2))
-                    {
-                        categories.Add(model.Kategoria2);
-                    }
-                }
-                else
-                {
-                    if (model.Kategoria1 == rm.Kategoria1 && model.Kategoria2 == rm.Kategoria2 && !categories.Contains(model.Kategoria3))
-                    {
-                        categories.Add(model.Kategoria3);
-                    }
-                }
+                categories = categories.Where(category => string.IsNullOrEmpty(category.ParentCategory));
+            }
+            else if(string.IsNullOrEmpty(rm.Kategoria2))
+            {
+                categories = categories.Where(category => category.ParentCategory == rm.Kategoria1);
+            }
+            else
+            {
+                categories = categories.Where(category => category.ParentCategory == rm.Kategoria2);
             }
 
             return Json(categories);
