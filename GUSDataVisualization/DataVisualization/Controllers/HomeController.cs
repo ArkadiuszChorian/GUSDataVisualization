@@ -66,8 +66,10 @@ namespace DataVisualization.Controllers
             {
                 projection = projection.Where(d => d.Wartosc.CompareTo(rm.WartoscDo) <= 0);
             }
-            
-            var result = projection.ToList().GroupBy(d => d.Etykieta1);
+
+            var projected = projection.ToList();
+
+            var result = projected.TrueForAll(d => !string.IsNullOrEmpty(d.Etykieta2)) ? projected.GroupBy(d => d.Etykieta2) : projected.GroupBy(d => d.Etykieta1);
 
             return Json(result);
         }
