@@ -1,52 +1,49 @@
 ﻿<div class="visual">
     <svg width="1000" height="800"></svg>
     <div width="1000" class="visible" id="filters">
-        <div>
-            <form id="filterForm" target="hiddenFrame">
-                <div>
-                    <p>Województwo:</p>
-                    <input type="text" name="Kod" placeholder="Województwo"/>
-                </div>
-                <div>
-                    <p>Pierwsza kategoria:</p>
-                    <select id="Kategoria1" name="Kategoria1">
-                        <option value="">-</option>
-                    </select>
-                </div>
-                <div>
-                    <p>Druga Kategoria:</p>
-                    <select id="Kategoria2" name="Kategoria2">
-                        <option value="">-</option>
-                    </select>
-                </div>
-                <div>
-                    <p>Trzecia Kategoria:</p>
-                    <select id="Kategoria3" name="Kategoria3">
-                        <option value="">-</option>
-                    </select>
-                </div>
-                <div>
-                    <p>Od roku: <output id="RokOdOutput"></output></p>
-                    <input id="RokOdRange" type="range" name="RokOd"
-                           step="1"
-                           min="2010"
-                           max="2015"
-                           oninput="RokOdOutput.value = RokOdRange.value"/>
-                    @* disabled="disabled" *@
-                </div>
-                <div>
-                    <p>Do roku: <output id="RokDoOutput"></output></p>
-                    <input id="RokDoRange" type="range" name="RokDo"
-                           step="1"
-                           min="2010"
-                           max="2015"
-                           oninput="RokDoOutput.value = RokDoRange.value"/>
-                    @* Need to set VALUE attribute when loading data to MIN and MAX on range inputs *@
-                </div>
-                <input type="submit" value="Submit" />
-            </form>
-            <p></p>
-        </div>
+        <form id="filterForm" target="hiddenFrame">
+            <div>
+                <p>Województwo:</p>
+                <select name="Kod" id="Kod"></select>
+            </div>
+            <div>
+                <p>Pierwsza kategoria:</p>
+                <select id="Kategoria1" name="Kategoria1">
+                    <option value="">-</option>
+                </select>
+            </div>
+            <div>
+                <p>Druga Kategoria:</p>
+                <select id="Kategoria2" name="Kategoria2">
+                    <option value="">-</option>
+                </select>
+            </div>
+            <div>
+                <p>Trzecia Kategoria:</p>
+                <select id="Kategoria3" name="Kategoria3">
+                    <option value="">-</option>
+                </select>
+            </div>
+            <div>
+                <p>Od roku: <output id="RokOdOutput"></output></p>
+                <input id="RokOdRange" type="range" name="RokOd"
+                        step="1"
+                        min="2010"
+                        max="2015"
+                        oninput="RokOdOutput.value = RokOdRange.value"/>
+                @* disabled="disabled" *@
+            </div>
+            <div>
+                <p>Do roku: <output id="RokDoOutput"></output></p>
+                <input id="RokDoRange" type="range" name="RokDo"
+                        step="1"
+                        min="2010"
+                        max="2015"
+                        oninput="RokDoOutput.value = RokDoRange.value"/>
+                @* Need to set VALUE attribute when loading data to MIN and MAX on range inputs *@
+            </div>
+            <input type="submit" value="Submit" />
+        </form>
     </div>
     <div width="1000" height="800" class="visible" id="charts"></div>
     <div width="600" height="800" class="hidden" id="statistics"></div>

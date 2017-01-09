@@ -3,7 +3,7 @@
 var MapWidth = 1100,
     MapHeight = 860,
     ChartWidth = 800,
-    ChartHeight = 500,
+    ChartHeight = 300,
     ChartBarsHeight = ChartHeight - 50,
     dataSet = [
     { province: "WN", value: 800 },
@@ -26,6 +26,7 @@ var MapWidth = 1100,
     blues = [],
     woj = [],
     mesh,
+    selectedProvinceCode,
     conversionTable = [];
 
 for (var i = 0; i < 10; i++) {
@@ -43,13 +44,36 @@ $.ajax({
         var line = dataLines[i].split(",");
         conversionTable.push(line);
     }
+
+    fillProvinceSelect();
 });
 
 // Filling "Kategoria1" Select tag with options
 $(document)
     .ready(function () {
         fillCategorySelect({});
+        fillProvinceSelect();
     });
+
+var fillProvinceSelect = function() {
+    d3.select("#Kod")
+        .on("change", function () {
+            $(".clicked").removeClass("clicked");
+            var code = this.value;
+            var geojsonShortcut = $.grep(conversionTable,
+                function(d) {
+                    return d[0] === code;
+                })[0][2];
+            $("." + geojsonShortcut).addClass("clicked");
+        })
+        .selectAll("option")
+        .data(conversionTable)
+        //Update
+        .enter()
+        .append("option")
+        .attr("value", function(d) { return d[0]; })
+        .text(function(d) { return d[1]; });
+};
 
 // Filling target select tag with options recieved from server
 var fillCategorySelect = function (obj) {
@@ -60,14 +84,16 @@ var fillCategorySelect = function (obj) {
         contentType: "application/json"
     })
         .done(function (data) {
+            var disableFlag = false;
+
             // Completing data table with 
             // "-" for just not filled field 
             // "Kategoria niedostępna" for when there is no data to show
-            if (data.length === 0)
+            if (data.length === 0) {
                 data.push({ category: "Kategoria niedostępna" });
-            else
+                disableFlag = true;
+            } else
                 data.unshift({ category: "-" });
-            console.log(data);
 
             // Selecting target select tag
             var sel = obj.selectId;
@@ -101,13 +127,19 @@ var fillCategorySelect = function (obj) {
                         fillCategorySelect(newObj);
                     });
 
+            // Disable target select if there is no data to show (no further category)
+            if (disableFlag)
+                selection.attr("disabled", "disabled");
+            else
+                selection.attr("disabled", null);
+
             // Dynamically creating options for select tags with help of d3
             var update = selection
                 .selectAll("option")
                 .data(data) // Update
                 .attr("value",
                     function(d) {
-                        if (d.category !== "-") return d.category;
+                        if (d.category !== "-" && d.category !== "Kategoria niedostępna") return d.category;
                         return "";
                     })
                 .text(function(d) { return d.category; });
@@ -154,10 +186,21 @@ var chartSvg = d3.select("#charts")
     .attr("width", barWidth * dataSet.length)
     .attr("height", ChartHeight);
 
+// Handle clicking on any province
 function clicked(d) {
     d3.select(".dropdown").remove();
 
-    var woj = d3.select("." + d.province).attr("class", "clicked");
+    // Second item in conversion table is Geojson shortcut. 
+    // grep is returning array of matched items, but we know there's only one
+    // then from this one item list we take province code
+    selectedProvinceCode = $.grep(conversionTable,
+        function(e) {
+            return e[2] === d.province;
+        })[0][0];
+
+    //var kod = $("#Kod").val(selectedProvinceCode);
+
+    $("." + d.province).addClass("clicked");
 
     // Remove scale from mapSvg element
     var map = d3.select('#mapg');
@@ -181,6 +224,7 @@ function clicked(d) {
     }, 750);
 }
 
+// Loading Geojson data to create map
 d3.json("pl.json",
     function (error, pl) {
         var features = topojson.feature(pl, pl.objects.pol).features;
@@ -190,7 +234,7 @@ d3.json("pl.json",
             var index = dataSet.indexOf($.grep(dataSet, function (e) { return e.province === item.id })[0]);
             dataSet[index].geo = item;
         });
-        console.log(dataSet);
+        //console.log(dataSet);
         main(dataSet);
     });
 
@@ -237,62 +281,67 @@ var main = function (data) {
 
 var chart = function (data) {
     //chartSvg
+    chartSvg.append("p").text(data[0].etykieta1);
     var chartDiv = chartSvg.append("div");
 
     var chartYscale = d3.scaleLinear().domain([0, d3.max(data, function (d) { return d.wartosc; })]).range([ChartBarsHeight, 0]);
     var initialOffset = 20;
     var offset = 10;
 
-    var bar = chartDiv.append("svg")
+    var update = chartDiv.append("svg")
         .attr("width", barWidth * (data.length + offset))
         .attr("height", ChartHeight)
         .selectAll("g")
-        .data(data)
-        .enter()
+        .data(data);
+    // Update
+
+    var enter = update.enter()
         .append("g")
         .attr("transform", function (d, i) { return "translate(" + (i * (barWidth + offset) + initialOffset) + "," + "0)"; });
 
-    bar.append("rect")
+    enter.append("rect")
         .attr("y", function (d) { return chartYscale(d.wartosc); })
         .attr("width", barWidth - 1)
         .attr("height", function (d) { return ChartBarsHeight - chartYscale(d.wartosc); });
 
-    bar.append("text")
+    enter.append("text")
         .attr("dy", ".75em")
         .text(function (d) { return d.rok; })
         .attr("transform",
             function (d, i) {
                 return "translate(" + ((i * (barWidth / 2 - 9)) - (barWidth / 2) + initialOffset) + "," + (ChartHeight - 40) + ") rotate(60)";
             });
+
+    update.exit().remove();
 }
 
-$.ajax({
-    url: "/Home/GetData",
-    type: "POST",
-    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura", Etykieta1: "bilet do kina" }),
-    contentType: "application/json"
-})
-    .done(function (data) {
-        data.forEach(function (d) {
-            d.wartosc = d.wartosc.replace(",", ".");
-        });
-        console.log(data);
-        chart(data);
-    });
+//$.ajax({
+//    url: "/Home/GetData",
+//    type: "POST",
+//    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura" }),
+//    contentType: "application/json"
+//})
+//    .done(function (data) {
+//        data.forEach(function (d) {
+//            d.wartosc = d.wartosc.replace(",", ".");
+//        });
+//        console.log(data);
+//        chart(data);
+//    });
 
-$.ajax({
-    url: "/Home/GetData",
-    type: "POST",
-    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura", Etykieta1: "bilet do teatru" }),
-    contentType: "application/json"
-})
-    .done(function (data) {
-        data.forEach(function (d) {
-            d.wartosc = d.wartosc.replace(",", ".");
-        });
-        console.log(data);
-        chart(data);
-    });
+//$.ajax({
+//    url: "/Home/GetData",
+//    type: "POST",
+//    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura", Etykieta1: "bilet do teatru" }),
+//    contentType: "application/json"
+//})
+//    .done(function (data) {
+//        data.forEach(function (d) {
+//            d.wartosc = d.wartosc.replace(",", ".");
+//        });
+//        console.log(data);
+//        chart(data);
+//    });
 
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
@@ -338,10 +387,14 @@ $('#filterForm')
             contentType: "application/json"
         })
         .done(function (data) {
-            data.forEach(function (d) {
-                d.wartosc = d.wartosc.replace(",", ".");
+            $("#charts div").remove();  // There has to be other way (animations)
+                $("#charts p").remove();
+                data.forEach(function(plotData) {
+                    plotData.forEach(function(d) {
+                        d.wartosc = d.wartosc.replace(",", ".");
+                    });
+                    console.log(plotData);
+                    chart(plotData);
+                });
             });
-            console.log(data);
-            //chart(data);
-        });
     });
