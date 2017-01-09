@@ -76,21 +76,26 @@ namespace DataInsert
                 new Tuple<string, string, string>("Transport", "Sciezki rowerowe", string.Empty)
             };           
 
+            //foreach (var category in categories)
+            //{
+            //    if (!DAL.Kategorie.Exists(category2 => category2.Category == category.Item1))
+            //    {
+            //        DAL.Kategorie.Add(new CategoryModel(string.Empty, category.Item1));
+            //    }
+            //    if (!string.IsNullOrEmpty(category.Item2) && !DAL.Kategorie.Exists(category2 => category2.Category == category.Item2))
+            //    {
+            //        DAL.Kategorie.Add(new CategoryModel(category.Item1, category.Item2));
+            //    }
+            //    if (!string.IsNullOrEmpty(category.Item3) && !DAL.Kategorie.Exists(category2 => category2.Category == category.Item3))
+            //    {
+            //        DAL.Kategorie.Add(new CategoryModel(category.Item2, category.Item3));
+            //    }
+            //}           
+
             foreach (var category in categories)
             {
-                if (!DAL.Kategorie.Exists(category2 => category2.Category == category.Item1))
-                {
-                    DAL.Kategorie.Add(new CategoryModel(string.Empty, category.Item1));
-                }
-                if (!string.IsNullOrEmpty(category.Item2) && !DAL.Kategorie.Exists(category2 => category2.Category == category.Item2))
-                {
-                    DAL.Kategorie.Add(new CategoryModel(category.Item1, category.Item2));
-                }
-                if (!string.IsNullOrEmpty(category.Item3) && !DAL.Kategorie.Exists(category2 => category2.Category == category.Item3))
-                {
-                    DAL.Kategorie.Add(new CategoryModel(category.Item2, category.Item3));
-                }
-            }           
+                DAL.Kategorie.Add(new CategoryModel(category.Item1, category.Item2, category.Item3));
+            }
 
             //using (var sr = new StreamReader(RootDir + "Dane/Ceny/Kultura/dane.csv", Encoding.UTF8))
             foreach (var category in categories)

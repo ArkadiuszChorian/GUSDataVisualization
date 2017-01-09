@@ -77,22 +77,41 @@ namespace DataVisualization.Controllers
         [HttpPost]
         public IActionResult GetCategories([FromBody] RequestModel rm)
         {
-            var categories = DAL.Kategorie.AsQueryable();
+            var allCategories = DAL.Kategorie.ToList();
+            var resultCategories = new List<string>();
 
             if (string.IsNullOrEmpty(rm?.Kategoria1))
             {
-                categories = categories.Where(category => string.IsNullOrEmpty(category.ParentCategory));
+                allCategories.ForEach(category =>
+                {
+                    if (!resultCategories.Contains(category.Kategoria1))
+                    {
+                        resultCategories.Add(category.Kategoria1);
+                    }
+                });
             }
             else if(string.IsNullOrEmpty(rm.Kategoria2))
             {
-                categories = categories.Where(category => category.ParentCategory == rm.Kategoria1);
+                allCategories.ForEach(category =>
+                {
+                    if (category.Kategoria1 == rm.Kategoria1 && !resultCategories.Contains(category.Kategoria2))
+                    {
+                        resultCategories.Add(category.Kategoria2);
+                    }
+                });
             }
             else
             {
-                categories = categories.Where(category => category.ParentCategory == rm.Kategoria2);
+                allCategories.ForEach(category =>
+                {
+                    if (category.Kategoria1 == rm.Kategoria1 && category.Kategoria2 == rm.Kategoria2 && !resultCategories.Contains(category.Kategoria3))
+                    {
+                        resultCategories.Add(category.Kategoria3);
+                    }
+                });
             }
 
-            return Json(categories);
+            return Json(resultCategories);
         }
     }
 }
