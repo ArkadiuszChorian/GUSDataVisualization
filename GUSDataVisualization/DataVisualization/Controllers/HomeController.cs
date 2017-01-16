@@ -106,10 +106,14 @@ namespace DataVisualization.Controllers
                 {
                     if (category.Kategoria1 == rm.Kategoria1 && category.Kategoria2 == rm.Kategoria2 && !resultCategories.Contains(category.Kategoria3))
                     {
+                        // Dodaje do listy stringa "". Chyba tak nie powinno być
                         resultCategories.Add(category.Kategoria3);
                     }
                 });
             }
+
+            if(resultCategories.Contains(""))
+                resultCategories.Clear();
 
             return Json(resultCategories);
         }

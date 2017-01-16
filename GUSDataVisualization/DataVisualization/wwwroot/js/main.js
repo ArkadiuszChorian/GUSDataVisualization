@@ -2,8 +2,9 @@
 
 var MapWidth = 1100,
     MapHeight = 860,
-    ChartWidth = 800,
-    ChartHeight = 300,
+    margin = { top: 10, right: 20, bottom: 20, left: 40 },
+    ChartWidth = 400 - margin.left - margin.right,
+    ChartHeight = 300 - margin.top - margin.bottom,
     ChartBarsHeight = ChartHeight - 50,
     dataSet = [
     { province: "WN", value: 800 },
@@ -90,10 +91,10 @@ var fillCategorySelect = function (obj) {
             // "-" for just not filled field 
             // "Kategoria niedostępna" for when there is no data to show
             if (data.length === 0) {
-                data.push({ category: "Kategoria niedostępna" });
+                data.push("Kategoria niedostępna" );
                 disableFlag = true;
             } else
-                data.unshift({ category: "-" });
+                data.unshift("-");
 
             // Selecting target select tag
             var sel = obj.selectId;
@@ -139,15 +140,15 @@ var fillCategorySelect = function (obj) {
                 .data(data) // Update
                 .attr("value",
                     function(d) {
-                        if (d.category !== "-" && d.category !== "Kategoria niedostępna") return d.category;
+                        if (d !== "-" && d !== "Kategoria niedostępna") return d;
                         return "";
                     })
-                .text(function(d) { return d.category; });
+                .text(function(d) { return d; });
 
             update.enter() // Enter
                 .append("option")
-                .attr("value", function(d) { return d.category; })
-                .text(function(d) { return d.category; });
+                .attr("value", function(d) { return d; })
+                .text(function(d) { return d; });
             
             update.exit().remove(); // Exit
         });
@@ -282,35 +283,64 @@ var main = function (data) {
 var chart = function (data) {
     //chartSvg
     chartSvg.append("p").text(data[0].etykieta1);
-    var chartDiv = chartSvg.append("div");
+    var chartDiv = chartSvg.append("div"),
+        //initialOffset = 20,
+        barOffset = 0.1,
+        yearsRange = [],
+        barWidth = ChartWidth / data.length;
+
+
+    data.forEach(function(d) {
+        yearsRange.push(d.rok);
+    });
+    yearsRange.sort();
+
 
     var chartYscale = d3.scaleLinear().domain([0, d3.max(data, function (d) { return d.wartosc; })]).range([ChartBarsHeight, 0]);
-    var initialOffset = 20;
-    var offset = 10;
+    var chartXscale = d3.scaleBand().domain(yearsRange).rangeRound([0, ChartWidth]).padding(barOffset);
+    //var chartXscale = d3.scaleOrdinal().domain(yearsRange).rangeRoundBands([initialOffset, chartBarsWidth-initialOffset], .1);
 
-    var update = chartDiv.append("svg")
-        .attr("width", barWidth * (data.length + offset))
-        .attr("height", ChartHeight)
-        .selectAll("g")
+    var xAxis = d3.axisBottom(chartXscale);
+    var yAxis = d3.axisLeft(chartYscale);
+
+    var box = chartDiv.append("svg")
+        .attr("width", ChartWidth + margin.left + margin.right)
+        .attr("height", ChartHeight + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var update = box.selectAll("g")
         .data(data);
     // Update
 
     var enter = update.enter()
         .append("g")
-        .attr("transform", function (d, i) { return "translate(" + (i * (barWidth + offset) + initialOffset) + "," + "0)"; });
+        .attr("transform", function (d) { return "translate(" + chartXscale(d.rok) + "," + "0)"; });
+        //.attr("transform", function (d, i) { return "translate(" + (i * (barWidth + barOffset) + initialOffset) + "," + "0)"; });
+
+    var barWidth2 = chartXscale.bandwidth();
 
     enter.append("rect")
         .attr("y", function (d) { return chartYscale(d.wartosc); })
-        .attr("width", barWidth - 1)
+        .attr("width", barWidth2)
         .attr("height", function (d) { return ChartBarsHeight - chartYscale(d.wartosc); });
 
-    enter.append("text")
-        .attr("dy", ".75em")
-        .text(function (d) { return d.rok; })
-        .attr("transform",
-            function (d, i) {
-                return "translate(" + ((i * (barWidth / 2 - 9)) - (barWidth / 2) + initialOffset) + "," + (ChartHeight - 40) + ") rotate(60)";
-            });
+    box.append("g")
+        .attr("transform", "translate(0," + ChartBarsHeight + ")")
+        .attr("class", "x axis")
+        .call(xAxis)
+        .selectAll("text")
+        .attr("dy", "1em");
+
+    box.append("g")
+        .attr("class", "y axis")
+        .call(yAxis)
+        .append("text")
+        .text("Jednostka")
+    .attr("y", "-.3em")
+    .attr("x", "2em")
+    .attr("fill", "#333")
+    .attr("font-size", "10px");
 
     update.exit().remove();
 }
@@ -379,7 +409,7 @@ $('#filterForm')
 
         var jsonData = JSON.stringify(dat);
 
-        alert("posting" + jsonData);
+        //alert("posting" + jsonData);
         $.ajax({
             url: "/Home/GetData",
             type: "POST",
@@ -388,13 +418,13 @@ $('#filterForm')
         })
         .done(function (data) {
             $("#charts div").remove();  // There has to be other way (animations)
-                $("#charts p").remove();
-                data.forEach(function(plotData) {
-                    plotData.forEach(function(d) {
-                        d.wartosc = d.wartosc.replace(",", ".");
-                    });
-                    console.log(plotData);
-                    chart(plotData);
+            $("#charts p").remove();
+            data.forEach(function(plotData) {
+                plotData.forEach(function(d) {
+                    d.wartosc = d.wartosc.replace(",", ".");
+                });
+                console.log(plotData);
+                chart(plotData);
                 });
             });
     });
