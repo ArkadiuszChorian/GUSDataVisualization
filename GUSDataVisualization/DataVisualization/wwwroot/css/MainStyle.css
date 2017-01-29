@@ -21,7 +21,7 @@
 
     .visible {
         display: block;
-        background-color: red;
+        /*background-color: red;*/
     }
 
     .hidden {
@@ -75,4 +75,45 @@
         flex-direction: row;
         flex-flow: wrap;
         align-items: stretch;
+    }
+
+    .bar {
+        fill: steelblue;
+    }
+
+    .bar--positive {
+      fill: green;
+    }
+
+    .bar--negative {
+      fill: steelblue;
+    }
+
+    table{
+        border-collapse: collapse;
+        width: 100%;
+        font-family: sans-serif;
+        color: black;
+    }   
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+
+    #charts p {
+        max-width: 400px;
+    }
+
+    .data-node {
+        max-height: 300px;
+    }
+
+    .line {
+        stroke: #000;
     }

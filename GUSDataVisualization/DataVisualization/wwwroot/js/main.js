@@ -2,33 +2,38 @@
 
 var MapWidth = 1100,
     MapHeight = 860,
-    margin = { top: 10, right: 20, bottom: 20, left: 40 },
+    margin = { top: 20, right: 20, bottom: 20, left: 40 },
     ChartWidth = 400 - margin.left - margin.right,
     ChartHeight = 300 - margin.top - margin.bottom,
     ChartBarsHeight = ChartHeight - 50,
     dataSet = [
-    { province: "WN", value: 800 },
-    { province: "PM", value: 200 },
-    { province: "DS", value: 100 },
-    { province: "ZP", value: 300 },
-    { province: "LB", value: 340 },
-    { province: "WP", value: 123 },
-    { province: "KP", value: 634 },
-    { province: "SL", value: 987 },
-    { province: "LD", value: 1000 },
-    { province: "MZ", value: 20 },
-    { province: "SK", value: 120 },
-    { province: "PD", value: 167 },
-    { province: "LU", value: 250 },
-    { province: "PK", value: 233 },
-    { province: "OP", value: 522 },
-    { province: "MA", value: 722 }
+        { province: "WN", value: 800 },
+        { province: "PM", value: 200 },
+        { province: "DS", value: 100 },
+        { province: "ZP", value: 300 },
+        { province: "LB", value: 340 },
+        { province: "WP", value: 123 },
+        { province: "KP", value: 634 },
+        { province: "SL", value: 987 },
+        { province: "LD", value: 1000 },
+        { province: "MZ", value: 20 },
+        { province: "SK", value: 120 },
+        { province: "PD", value: 167 },
+        { province: "LU", value: 250 },
+        { province: "PK", value: 233 },
+        { province: "OP", value: 522 },
+        { province: "MA", value: 722 }
     ],
     blues = [],
     woj = [],
     mesh,
     selectedProvinceCode,
-    conversionTable = [];
+    conversionTable = [],
+    unitConverter = {
+        "osoba": "osób",
+        "%": "%",
+        "zł":"zł"
+    };
 
 for (var i = 0; i < 10; i++) {
     blues.push(d3.interpolateBlues(i / 10));
@@ -56,6 +61,7 @@ $(document)
         fillProvinceSelect();
     });
 
+// Filling Province select tag with optins from conversionTable
 var fillProvinceSelect = function() {
     d3.select("#Kod")
         .on("change", function () {
@@ -154,8 +160,12 @@ var fillCategorySelect = function (obj) {
         });
 };
 
-var scaleColor = d3.scaleQuantize().domain([d3.min(dataSet, function (d) { return d.value; }), d3.max(dataSet, function (d) { return d.value; })]).range(blues);
-var scaleRange = d3.scaleLinear().domain([d3.max(dataSet, function (d) { return d.value; }), d3.min(dataSet, function (d) { return d.value; })]).range([20, MapHeight - 20]);
+var scaleColor = d3.scaleQuantize()
+    .domain([d3.min(dataSet, function (d) { return d.value; }), d3.max(dataSet, function (d) { return d.value; })])
+    .range(blues);
+var scaleRange = d3.scaleLinear()
+    .domain([d3.max(dataSet, function (d) { return d.value; }), d3.min(dataSet, function (d) { return d.value; })])
+    .range([20, MapHeight - 20]);
 var y = d3.scaleLinear().domain([0, 10]).rangeRound([820, 0]);
 
 var barWidth = 20;
@@ -229,16 +239,17 @@ function clicked(d) {
 d3.json("pl.json",
     function (error, pl) {
         var features = topojson.feature(pl, pl.objects.pol).features;
-        mesh = topojson.mesh(pl, pl.objects.pol, function (a, b) { return true });
+        mesh = topojson.mesh(pl, pl.objects.pol, function (a, b) { return true; });
 
         features.forEach(function (item, i) {
-            var index = dataSet.indexOf($.grep(dataSet, function (e) { return e.province === item.id })[0]);
+            var index = dataSet.indexOf($.grep(dataSet, function (e) { return e.province === item.id; })[0]);
             dataSet[index].geo = item;
         });
         //console.log(dataSet);
         main(dataSet);
     });
 
+// Hanles map creating, colors, axis
 var main = function (data) {
     mapSvg.selectAll(".woj")
         .data(data)
@@ -280,25 +291,33 @@ var main = function (data) {
         .remove();
 };
 
+// Creates chart from requestModels array
 var chart = function (data) {
     //chartSvg
     chartSvg.append("p").text(data[0].etykieta1);
     var chartDiv = chartSvg.append("div"),
-        //initialOffset = 20,
         barOffset = 0.1,
         yearsRange = [],
-        barWidth = ChartWidth / data.length;
-
+        barWidth2 = 30;
 
     data.forEach(function(d) {
         yearsRange.push(d.rok);
     });
     yearsRange.sort();
 
+    var ymax = d3.max(data, function(d) { return d.wartosc; });
+    var chartYscale = d3.scaleLinear().range([ChartBarsHeight, 0]).domain([0, ymax]).nice();
 
-    var chartYscale = d3.scaleLinear().domain([0, d3.max(data, function (d) { return d.wartosc; })]).range([ChartBarsHeight, 0]);
-    var chartXscale = d3.scaleBand().domain(yearsRange).rangeRound([0, ChartWidth]).padding(barOffset);
-    //var chartXscale = d3.scaleOrdinal().domain(yearsRange).rangeRoundBands([initialOffset, chartBarsWidth-initialOffset], .1);
+    // IF COMPARING TO (=100) than YMAX CANNOT BE < 100
+    var match100 = data[0].etykieta1.match("=100");
+    if (match100) {
+        if (ymax < 100)
+            chartYscale.domain([0, 105]);
+    }
+
+    var chartXscale = d3.scaleBand()
+        .domain(yearsRange).rangeRound([0, ChartWidth])
+        .padding(barOffset);
 
     var xAxis = d3.axisBottom(chartXscale);
     var yAxis = d3.axisLeft(chartYscale);
@@ -315,16 +334,20 @@ var chart = function (data) {
 
     var enter = update.enter()
         .append("g")
-        .attr("transform", function (d) { return "translate(" + chartXscale(d.rok) + "," + "0)"; });
-        //.attr("transform", function (d, i) { return "translate(" + (i * (barWidth + barOffset) + initialOffset) + "," + "0)"; });
+        .attr("transform", function (d) { return "translate(" + (chartXscale(d.rok) + (chartXscale.bandwidth() - barWidth2)/2) + "," + "0)"; });
 
-    var barWidth2 = chartXscale.bandwidth();
+    //var barWidth2 = chartXscale.bandwidth();
+    //var barWidth2 = 30;
 
+    // Bars
     enter.append("rect")
-        .attr("y", function (d) { return chartYscale(d.wartosc); })
+        //.attr("x", function(d,i) { return (i * barWidth2)/2; })
+        .attr("y", function(d) { return chartYscale(d3.max([0, parseFloat(d.wartosc)])); })
         .attr("width", barWidth2)
-        .attr("height", function (d) { return ChartBarsHeight - chartYscale(d.wartosc); });
+        .attr("height", function(d) { return Math.abs(chartYscale(0) - chartYscale(d.wartosc)); })
+        .attr("class", "bar");
 
+    // xAxis
     box.append("g")
         .attr("transform", "translate(0," + ChartBarsHeight + ")")
         .attr("class", "x axis")
@@ -332,17 +355,82 @@ var chart = function (data) {
         .selectAll("text")
         .attr("dy", "1em");
 
+    // yAxis + text
     box.append("g")
         .attr("class", "y axis")
         .call(yAxis)
         .append("text")
-        .text("Jednostka")
-    .attr("y", "-.3em")
-    .attr("x", "2em")
+        .text(unitConverter[data[0].jednostka])
+    .attr("y", "-.8em")
+    .attr("x", "1.5em")
     .attr("fill", "#333")
     .attr("font-size", "10px");
 
+    // Adding line when =100
+    if (match100) {
+        var line = d3.line().x(function (d, i) {
+            var l = chartXscale(d.rok);
+            if (i > 0)
+                l += chartXscale.bandwidth();
+            return l;
+        }).y(function () { return chartYscale(99.6); });
+        box.append("path").datum(data).attr("class", "line").attr("d", line);
+    }
+
     update.exit().remove();
+}
+
+var verticalChart = function(data) {
+    chartSvg.append("p").text(data[0].etykieta1);
+    var chartDiv = chartSvg.append("div"),
+        yearsRange = [];
+
+    data.forEach(function (d) {
+        yearsRange.push(d.rok);
+    });
+    yearsRange.sort();
+
+    var x = d3.scaleLinear()
+        .range([0, ChartWidth]);
+
+    var y = d3.scaleBand()
+        //.domain(yearsRange)
+        .rangeRound([0, ChartBarsHeight])
+        .padding(0.1);
+
+    var xAxis = d3.axisBottom(x);
+
+    var yAxis = d3.axisLeft(y)
+        .tickSize(0)
+        .tickPadding(6);
+
+    var box = chartDiv.append("svg")
+        .attr("width", ChartWidth + margin.left + margin.right)
+        .attr("height", ChartHeight + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    x.domain(d3.extent(data, function (d) { return +d.wartosc; })).nice();
+    y.domain(data.map(function (d) { return d.rok; }));
+
+    box.selectAll(".bar")
+        .data(data)
+        .enter().append("rect")
+        .attr("class", function (d) { return "bar bar--" + (d.wartosc < 0 ? "negative" : "positive"); })
+        .attr("x", function (d) { return x(d3.min([0, parseFloat(d.wartosc)])); })
+        .attr("y", function (d) { return y(d.rok); })
+        .attr("width", function (d) { return Math.abs(x(d.wartosc) - x(0)); })
+        .attr("height", y.bandwidth());
+
+    box.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + ChartBarsHeight + ")")
+        .call(xAxis);
+
+    box.append("g")
+        .attr("class", "y axis")
+        .attr("transform", "translate(" + x(0) + ",0)")
+        .call(yAxis);
 }
 
 //$.ajax({
@@ -359,34 +447,20 @@ var chart = function (data) {
 //        chart(data);
 //    });
 
-//$.ajax({
-//    url: "/Home/GetData",
-//    type: "POST",
-//    data: JSON.stringify({ Kod: 0, RokOd: 2010, RokDo: 2015, Kategoria1: "Ceny", Kategoria2: "Kultura", Etykieta1: "bilet do teatru" }),
-//    contentType: "application/json"
-//})
-//    .done(function (data) {
-//        data.forEach(function (d) {
-//            d.wartosc = d.wartosc.replace(",", ".");
-//        });
-//        console.log(data);
-//        chart(data);
-//    });
-
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
 }
 
 // Close the dropdown if the user clicks outside of it
 window.onclick = function (event) {
-    if (!event.target.matches('.dropbtn')) {
+    if (!event.target.matches(".dropbtn")) {
 
         var dropdowns = document.getElementsByClassName("dropdown-content");
         var i;
         for (i = 0; i < dropdowns.length; i++) {
             var openDropdown = dropdowns[i];
-            if (openDropdown.classList.contains('show')) {
-                openDropdown.classList.remove('show');
+            if (openDropdown.classList.contains("show")) {
+                openDropdown.classList.remove("show");
             }
         }
     }
@@ -394,14 +468,14 @@ window.onclick = function (event) {
 
 // Handling form submit
 // Can't do it from hmtl because lack of 'application/json' content-type support
-$('#filterForm')
+$("#filterForm")
     .submit(function (e) {
         e.preventDefault();
         var frm = $(this);
         var dat = {};
         var inputs = frm[0].elements;
 
-        for (var i = 0, element; element = inputs[i++];) {
+        for (var i = 0, element; (element = inputs[i++]);) {
             if (element.type === "submit")
                 continue;
             dat[element.name] = element.value;
@@ -419,12 +493,79 @@ $('#filterForm')
         .done(function (data) {
             $("#charts div").remove();  // There has to be other way (animations)
             $("#charts p").remove();
+            $(".data-node").remove();
+
             data.forEach(function(plotData) {
                 plotData.forEach(function(d) {
                     d.wartosc = d.wartosc.replace(",", ".");
                 });
                 console.log(plotData);
-                chart(plotData);
-                });
-            });
+                if (d3.min(plotData, function(d) { return +d.wartosc; }) < 0)
+                    verticalChart(plotData);
+                else 
+                    chart(plotData);
+                printDetails(plotData);
+            }); 
+        });
     });
+
+var printDetails = function (data) {
+    var label, header, div = d3.select("#statistics").append("div").attr("class", "data-node");
+
+    $("#statistics").switchClass("hidden", "visible");
+    if (data[0].etykieta2 === "")
+        label = data[0].etykieta1;
+    else
+        label = data[0].etykieta2;
+
+    //div.append("<p>" + label + "</p>");
+    div.append("p").text(label);
+
+    if (data[0].kategoria3 === "")
+        if (data[0].kategoria2 === "")
+            header = data[0].kategoria1;
+        else
+            header = data[0].kategoria2;
+    else
+        header = data[0].kategoria3;
+
+    var headers = ["Rok", header + " (" + unitConverter[data[0].jednostka] + ")" ];
+    var dataHeader = ["rok", "wartosc"];
+
+    var table = div.append("table");
+
+    var thead = table.append("thead");
+    var tbody = table.append("tbody");
+
+    thead.append("tr")
+        .selectAll("th")
+        .data(headers)
+        .enter()
+        .append("th")
+        .text(function (h) { return h; });
+
+    var rows = tbody.selectAll("tr")
+        .data(data)
+        .enter()
+        .append("tr");
+
+    var cells = rows.selectAll("td")
+        .data(function(row) {
+            return dataHeader.map(function (column) {
+                return { col: column, value: row[column] };
+            });
+        })
+        .enter()
+        .append("td")
+        .attr("style", "font-family: Courier")
+        .html(function(d) { return d.value });
+
+    //var div = d3.select("#statistics");
+    //div.append("p")
+    //    .selectAll()
+    //    .data(data)
+    //  .enter()
+    //    .append("p")
+    //    .attr("text", function (d) { return d });
+
+};
